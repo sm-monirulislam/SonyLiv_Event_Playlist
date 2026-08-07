@@ -6,19 +6,13 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: sonyliv-playlist-update
-  cancel-in-progress: false
-
 jobs:
   update_playlist:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Public Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -30,42 +24,25 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Fetch Python Script from Private Repo
+      - name: Get Script from Private Repo
         env:
           REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
         run: |
           git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
-          cp private_code/sonyliv/scripts/sonyLiv_sm.py ./
+          cp private_code/scripts/sonyLiv_sm.py ./
           rm -rf private_code
 
-      - name: Run SonyLiv Script
+      - name: Run Script
         run: python sonyLiv_sm.py
 
-      - name: Clean Up Python Script
+      - name: Remove Script
         run: rm -f sonyLiv_sm.py
 
-      - name: Commit and Push Files
-        shell: bash
+      - name: Commit and Push
         run: |
-          if [ ! -f "sonyLiv.m3u" ]; then
-            echo "sonyLiv.m3u not found, skipping commit."
-            exit 0
-          fi
-
-          if [ ! -f "sonyLiv_data.json" ]; then
-            echo "sonyLiv_data.json not found, skipping commit."
-            exit 0
-          fi
-
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
           git add sonyLiv.m3u sonyLiv_data.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-
-          git commit -m "📺 Auto Update SonyLiv Playlist"
-          git push origin main
+          git commit -m "Update SonyLiv Playlist" || echo "No changes"
+          git push

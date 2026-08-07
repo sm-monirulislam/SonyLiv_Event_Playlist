@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:02:00 PM 07-08-2026",
+    "last_update_time": "10:06:54 PM 07-08-2026",
     "total_matches": 9,
     "live_match": 2,
     "matches": [
@@ -14,8 +14,8 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Mixed Disability IT20 series",
             "match_name": "England vs India - 2nd T20I - 7 Aug 2026 [ENG]",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786161377~acl=/*~id=25726244471183740961041838696883~hmac=228b150f1e9e591a7591b296cdf2ddcf3a8d7dcc634fd4e6beb4ff89a229212d",
-            "status": "Live"
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786161984~acl=/*~id=09827126843901403489188363035656~hmac=012ec90e99b349f7d46e3c78d78a7cab91baa61b5a655df3454a7d5f7c45aae3"
         },
         {
             "event_category": "Golf",
@@ -25,8 +25,8 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "New York - Day 2 - 7 Aug 2026 [ENG]",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786161377~acl=/*~id=25726244471183740961041838696883~hmac=228b150f1e9e591a7591b296cdf2ddcf3a8d7dcc634fd4e6beb4ff89a229212d",
-            "status": "Live"
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786161984~acl=/*~id=09827126843901403489188363035656~hmac=012ec90e99b349f7d46e3c78d78a7cab91baa61b5a655df3454a7d5f7c45aae3"
         },
         {
             "event_category": "Football",
@@ -35,7 +35,8 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026",
-            "status": "Upcoming"
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Cricket",
@@ -44,7 +45,8 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
-            "status": "Upcoming"
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Football",
@@ -53,7 +55,8 @@
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026",
-            "status": "Upcoming"
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Football",
@@ -62,7 +65,8 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026",
-            "status": "Upcoming"
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Cricket",
@@ -71,7 +75,8 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka",
-            "status": "Upcoming"
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Football",
@@ -80,7 +85,8 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026",
-            "status": "Upcoming"
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Football",
@@ -89,7 +95,8 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Durand Cup 2026",
-            "status": "Upcoming"
+            "status": "Upcoming",
+            "stream_link": ""
         }
     ]
 }

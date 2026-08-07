@@ -36,7 +36,7 @@ jobs:
 
       - name: Run Python Script
         run: |
-          python main.py
+          python test.py
 
       - name: Commit & Push
         run: |

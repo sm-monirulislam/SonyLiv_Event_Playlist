@@ -35,14 +35,14 @@ jobs:
           REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
         run: |
           git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
-          cp private_code/sonyliv/sonyLiv.py ./
+          cp private_code/sonyliv/scripts/sonyLiv_sm.py ./
           rm -rf private_code
 
       - name: Run SonyLiv Script
-        run: python sonyLiv.py
+        run: python sonyLiv_sm.py
 
       - name: Clean Up Python Script
-        run: rm -f sonyLiv.py
+        run: rm -f sonyLiv_sm.py
 
       - name: Commit and Push Files
         shell: bash

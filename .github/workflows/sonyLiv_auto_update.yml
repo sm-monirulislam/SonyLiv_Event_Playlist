@@ -6,10 +6,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: sonyliv-playlist
-  cancel-in-progress: false
-
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
@@ -17,8 +13,6 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,20 +38,10 @@ jobs:
 
       - name: Commit and Push Files
         run: |
-          FILES=""
-
-          [ -f sonyLiv.m3u ] && FILES="$FILES sonyLiv.m3u"
-          [ -f sonyLiv_data.json ] && FILES="$FILES sonyLiv_data.json"
-
-          if [ -z "$FILES" ]; then
-            echo "No output files found."
-            exit 0
-          fi
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add $FILES
+          git add sonyLiv.m3u sonyLiv_data.json
 
           if git diff --cached --quiet; then
             echo "No changes detected."

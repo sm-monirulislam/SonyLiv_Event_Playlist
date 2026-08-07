@@ -1,0 +1,99 @@
+{
+    "name": "SonyLiv Match Data",
+    "owner": "Monirul Islam",
+    "telegram": "https://t.me/monirul_Islam_SM",
+    "last_update_time": "09:56:50 PM 07-08-2026",
+    "total_matches": 9,
+    "live_match": 0,
+    "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090538734_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600775209347_Vitality_Mixed_Disability_2nd_T20i_England_vs_India_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Mixed Disability IT20 series",
+            "match_name": "England vs India - 2nd T20I - 7 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786160770~acl=/*~id=26971177283457740777333800998289~hmac=ba03262a6b37808db970f443bad177c38bdbf28ef96498229be3742aef2402ef",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786160770~acl=/*~id=26971177283457740777333800998289~hmac=ba03262a6b37808db970f443bad177c38bdbf28ef96498229be3742aef2402ef",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786160770~acl=/*~id=26971177283457740777333800998289~hmac=ba03262a6b37808db970f443bad177c38bdbf28ef96498229be3742aef2402ef"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090538745_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437512018954_LIV_Golf_New_York_day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "LIV Golf",
+            "match_name": "New York - Day 2 - 7 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786160770~acl=/*~id=26971177283457740777333800998289~hmac=ba03262a6b37808db970f443bad177c38bdbf28ef96498229be3742aef2402ef",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786160770~acl=/*~id=26971177283457740777333800998289~hmac=ba03262a6b37808db970f443bad177c38bdbf28ef96498229be3742aef2402ef",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786160770~acl=/*~id=26971177283457740777333800998289~hmac=ba03262a6b37808db970f443bad177c38bdbf28ef96498229be3742aef2402ef"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090538616,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021805/1785914804405356_UEFA-Super-Cup_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090536992,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021896/1786105413524557_sl_vs_ind_1st_test_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090538649,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592230632772_Community-Shield-2026_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 1",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536986,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020779/1784718981413823_DC26_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090535477,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020673/178429184205887_sl_vs_ind_tests_17jul_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of Sri Lanka"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536698,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020717/1784538251486112_DURAND_CUP_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Durand Cup 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090536899,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020726/1784552018456957_Durand_Cup_26_Promo-Thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Durand Cup 2026"
+        }
+    ]
+}

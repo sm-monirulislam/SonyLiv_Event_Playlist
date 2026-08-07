@@ -2,7 +2,7 @@ name: SonyLiv Playlist Update
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *" # Run every 3 hours
   workflow_dispatch:
 
 permissions:
@@ -33,10 +33,8 @@ jobs:
           pip install requests
 
       - name: Fetch Python Script from Private Repo
-        env:
-          REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
         run: |
-          git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/${REPO_NAME}.git private_code
+          git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/SM-Live-TV-Secret-Project-EXP.git private_code
           cp private_code/scripts/sonyLiv_sm.py .
           rm -rf private_code
 

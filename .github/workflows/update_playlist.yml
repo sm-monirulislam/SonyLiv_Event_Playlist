@@ -3,23 +3,19 @@ name: SonyLiv Playlist Update
 on:
   workflow_dispatch:
 
-  schedule:
-    # প্রতি ২ ঘণ্টা পর রান হবে
-    - cron: "0 */2 * * *"
-
 permissions:
   contents: write
 
 concurrency:
-  group: sonyliv-playlist
-  cancel-in-progress: true
+  group: sonyliv-playlist-update
+  cancel-in-progress: false
 
 jobs:
-  update:
+  update_playlist:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Public Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -27,28 +23,49 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.10"
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
 
-      - name: Run Python Script
+      - name: Fetch Python Script from Private Repo
+        env:
+          REPO_NAME: ${{ secrets.SECRET_REPO_NAME }}
         run: |
-          python test.py
+          git clone https://${{ secrets.GH_PAT }}@github.com/sm-monirulislam/$REPO_NAME.git private_code
+          cp private_code/sonyliv/sonyLiv.py ./
+          rm -rf private_code
 
-      - name: Commit & Push
+      - name: Run SonyLiv Script
+        run: python sonyLiv.py
+
+      - name: Clean Up Python Script
+        run: rm -f sonyLiv.py
+
+      - name: Commit and Push Files
+        shell: bash
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add sonyLiv_playlist.m3u sonyLiv_data.json
-
-          if git diff --cached --quiet; then
-            echo "No changes detected."
+          if [ ! -f "sonyLiv.m3u" ]; then
+            echo "sonyLiv.m3u not found, skipping commit."
             exit 0
           fi
 
-          git commit -m "Auto update SonyLiv playlist"
-          git push
+          if [ ! -f "sonyLiv_data.json" ]; then
+            echo "sonyLiv_data.json not found, skipping commit."
+            exit 0
+          fi
+
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add sonyLiv.m3u sonyLiv_data.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "📺 Auto Update SonyLiv Playlist"
+          git push origin main

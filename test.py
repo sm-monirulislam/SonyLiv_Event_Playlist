@@ -25,6 +25,9 @@ def fetch_and_generate():
             is_live = item.pop("isLive", False)
             item["status"] = "Live" if is_live else "Upcoming"
 
+            # Rename video_url -> stream_link
+            item["stream_link"] = item.pop("video_url", "")
+
             # Remove unwanted fields
             item.pop("dai_url", None)
             item.pop("pub_url", None)
@@ -62,7 +65,7 @@ def fetch_and_generate():
         print("✅ sonyLiv_data.json created.")
 
         # ==========================
-        # M3U PLAYLIST
+        # M3U PLAYLIST (Only Live Matches)
         # ==========================
         playlist = f"""#EXTM3U
 #=================================
@@ -70,13 +73,18 @@ def fetch_and_generate():
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
 #  Last Updated: {playlist_time} (BD Time)
-#  Channels Count: {total_matches}
+#  Channels Count: {live_match}
 #=================================
 
 """
 
         for match in processed_matches:
-            stream = match.get("video_url")
+
+            # Only Live Matches
+            if match["status"] != "Live":
+                continue
+
+            stream = match.get("stream_link", "")
 
             if not stream:
                 continue
@@ -86,7 +94,9 @@ def fetch_and_generate():
             logo = match.get("src", "")
 
             playlist += (
-                f'#EXTINF:-1 tvg-logo="{logo}" '
+                f'#EXTINF:-1 tvg-id="{match.get("contentId","")}" '
+                f'tvg-name="{name}" '
+                f'tvg-logo="{logo}" '
                 f'group-title="{category}",{name}\n'
             )
             playlist += f"{stream}\n\n"

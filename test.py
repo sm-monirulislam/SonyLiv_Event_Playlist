@@ -15,82 +15,90 @@ def fetch_and_generate():
         data = response.json()
 
         matches = data.get("matches", [])
+        processed_matches = []
 
-        # ----------------------------
-        # Time
-        # ----------------------------
+        # Process matches
+        for match in matches:
+            item = dict(match)
+
+            # Convert isLive -> status
+            is_live = item.pop("isLive", False)
+            item["status"] = "Live" if is_live else "Upcoming"
+
+            # Remove unwanted fields
+            item.pop("dai_url", None)
+            item.pop("pub_url", None)
+
+            processed_matches.append(item)
+
+        # Bangladesh Time
         now = datetime.now(BD_TIME)
 
-        last_updated_playlist = now.strftime("%Y-%m-%d %H:%M:%S")
-        last_updated_json = now.strftime("%I:%M:%S %p %d-%m-%Y")
+        playlist_time = now.strftime("%Y-%m-%d %H:%M:%S")
+        json_time = now.strftime("%I:%M:%S %p %d-%m-%Y")
 
-        total_matches = len(matches)
-
-        # Live Match Count
+        total_matches = len(processed_matches)
         live_match = sum(
-            1 for m in matches
-            if str(m.get("status", "")).lower() == "live"
+            1 for match in processed_matches
+            if match["status"] == "Live"
         )
 
-        # ----------------------------
-        # JSON Output
-        # ----------------------------
-        output_json = {
+        # ==========================
+        # JSON FILE
+        # ==========================
+        json_output = {
             "name": "SonyLiv Match Data",
             "owner": "Monirul Islam",
             "telegram": "https://t.me/monirul_Islam_SM",
-            "last_update_time": last_updated_json,
+            "last_update_time": json_time,
             "total_matches": total_matches,
             "live_match": live_match,
-            "matches": matches
+            "matches": processed_matches
         }
 
         with open("sonyLiv_data.json", "w", encoding="utf-8") as f:
-            json.dump(output_json, f, indent=4, ensure_ascii=False)
+            json.dump(json_output, f, indent=4, ensure_ascii=False)
 
-        print("✅ sonyLiv_data.json created")
+        print("✅ sonyLiv_data.json created.")
 
-        # ----------------------------
-        # M3U Output
-        # ----------------------------
-        m3u = f"""#EXTM3U
+        # ==========================
+        # M3U PLAYLIST
+        # ==========================
+        playlist = f"""#EXTM3U
 #=================================
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: {last_updated_playlist} (BD Time)
+#  Last Updated: {playlist_time} (BD Time)
 #  Channels Count: {total_matches}
 #=================================
 
 """
 
-        for match in matches:
-            name = match.get("match_name", "Unknown Match")
-            category = match.get("event_category", "Sports")
-            logo = match.get("src", "")
-
-            stream = (
-                match.get("video_url")
-                or match.get("dai_url")
-                or match.get("pub_url")
-            )
+        for match in processed_matches:
+            stream = match.get("video_url")
 
             if not stream:
                 continue
 
-            m3u += (
+            name = match.get("match_name", "Unknown Match")
+            category = match.get("event_category", "Sports")
+            logo = match.get("src", "")
+
+            playlist += (
                 f'#EXTINF:-1 tvg-logo="{logo}" '
                 f'group-title="{category}",{name}\n'
             )
-            m3u += f"{stream}\n\n"
+            playlist += f"{stream}\n\n"
 
         with open("sonyLiv_playlist.m3u", "w", encoding="utf-8") as f:
-            f.write(m3u)
+            f.write(playlist)
 
-        print("✅ sonyLiv_playlist.m3u created")
+        print("✅ sonyLiv_playlist.m3u created.")
 
     except requests.exceptions.RequestException as e:
         print(f"❌ Network Error: {e}")
+
     except Exception as e:
         print(f"❌ Error: {e}")
 

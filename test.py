@@ -1,50 +1,98 @@
 import json
 import requests
+from datetime import datetime, timedelta, timezone
+
+API_URL = "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
+
+# Bangladesh Time (UTC+6)
+BD_TIME = timezone(timedelta(hours=6))
 
 
 def fetch_and_generate():
-    api_url = "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
-
     try:
-        # API theke data fetch kora
-        response = requests.get(api_url)
+        response = requests.get(API_URL, timeout=30)
         response.raise_for_status()
         data = response.json()
 
         matches = data.get("matches", [])
 
-        # 1. Output JSON File Make Kora
-        with open("matches.json", "w", encoding="utf-8") as json_file:
-            json.dump(data, json_file, indent=4, ensure_ascii=False)
-        print("✅ 'matches.json' file successfully created!")
+        # ----------------------------
+        # Time
+        # ----------------------------
+        now = datetime.now(BD_TIME)
 
-        # 2. M3U Playlist File Make Kora
-        m3u_content = "#EXTM3U\n\n"
+        last_updated_playlist = now.strftime("%Y-%m-%d %H:%M:%S")
+        last_updated_json = now.strftime("%I:%M:%S %p %d-%m-%Y")
+
+        total_matches = len(matches)
+
+        # Live Match Count
+        live_match = sum(
+            1 for m in matches
+            if str(m.get("status", "")).lower() == "live"
+        )
+
+        # ----------------------------
+        # JSON Output
+        # ----------------------------
+        output_json = {
+            "name": "SonyLiv Match Data",
+            "owner": "Monirul Islam",
+            "telegram": "https://t.me/monirul_Islam_SM",
+            "last_update_time": last_updated_json,
+            "total_matches": total_matches,
+            "live_match": live_match,
+            "matches": matches
+        }
+
+        with open("sonyLiv_data.json", "w", encoding="utf-8") as f:
+            json.dump(output_json, f, indent=4, ensure_ascii=False)
+
+        print("✅ sonyLiv_data.json created")
+
+        # ----------------------------
+        # M3U Output
+        # ----------------------------
+        m3u = f"""#EXTM3U
+#=================================
+#  Developed by: Monirul Islam
+#  Telegram: https://t.me/monirul_Islam_SM
+#  Channel: https://t.me/sm_iptv_bd
+#  Last Updated: {last_updated_playlist} (BD Time)
+#  Channels Count: {total_matches}
+#=================================
+
+"""
 
         for match in matches:
-            match_name = match.get("match_name", "Unknown Match")
+            name = match.get("match_name", "Unknown Match")
             category = match.get("event_category", "Sports")
             logo = match.get("src", "")
-            # Streaming link (video_url / dai_url / pub_url)
-            stream_url = (
+
+            stream = (
                 match.get("video_url")
                 or match.get("dai_url")
                 or match.get("pub_url")
             )
 
-            if stream_url:
-                # M3U Header Entry
-                m3u_content += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}", {match_name}\n'
-                m3u_content += f"{stream_url}\n\n"
+            if not stream:
+                continue
 
-        with open("playlist.m3u8", "w", encoding="utf-8") as m3u_file:
-            m3u_file.write(m3u_content)
-        print("✅ 'playlist.m3u8' file successfully created!")
+            m3u += (
+                f'#EXTINF:-1 tvg-logo="{logo}" '
+                f'group-title="{category}",{name}\n'
+            )
+            m3u += f"{stream}\n\n"
+
+        with open("sonyLiv_playlist.m3u", "w", encoding="utf-8") as f:
+            f.write(m3u)
+
+        print("✅ sonyLiv_playlist.m3u created")
 
     except requests.exceptions.RequestException as e:
-        print(f"❌ Error fetching data from API: {e}")
+        print(f"❌ Network Error: {e}")
     except Exception as e:
-        print(f"❌ An error occurred: {e}")
+        print(f"❌ Error: {e}")
 
 
 if __name__ == "__main__":

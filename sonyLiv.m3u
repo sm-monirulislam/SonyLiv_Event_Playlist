@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-08 15:00:27 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-08 16:00:27 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="1090538814_ENG" tvg-name="Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg" group-title="Football",Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61
+
 #EXTINF:-1 tvg-id="1090538798_ENG" tvg-name="Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg" group-title="Cricket",Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786222601~acl=/*~id=61393973906332689602663013852265~hmac=d759e4d8f3fc1f6adc400666aac70d1ae889a36128984bdf215767768b155b1c
+https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61
 

@@ -2,10 +2,21 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:27 PM 08-08-2026",
-    "total_matches": 8,
-    "live_match": 1,
+    "last_update_time": "04:00:27 PM 08-08-2026",
+    "total_matches": 9,
+    "live_match": 2,
     "matches": [
+        {
+            "event_category": "Football",
+            "contentId": "1090538814_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "Shillong Lajong FC vs Mumbay FC - 8 Aug 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61"
+        },
         {
             "event_category": "Cricket",
             "contentId": "1090538798_ENG",
@@ -15,7 +26,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786222601~acl=/*~id=61393973906332689602663013852265~hmac=d759e4d8f3fc1f6adc400666aac70d1ae889a36128984bdf215767768b155b1c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786226243~acl=/*~id=56053542640684286954205176937073~hmac=fa4bf7cb9dce5244c6557126b966da4f5e184838dc67708f1e53ed53bdf66d61"
         },
         {
             "event_category": "Football",
@@ -30,7 +41,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021896/1786105413524557_sl_vs_ind_1st_test_dated_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021918/1786181848352498_SLvsIND_7day_to_go_landscpae_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:28 PM 08-08-2026",
+    "last_update_time": "12:00:20 AM 09-08-2026",
     "total_matches": 9,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "LIV Golf",
             "match_name": "New York - Day 3 - 8 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786251167~acl=/*~id=85657631116897907937280789938736~hmac=2c8319697e1bfd4ec471c11fed741f0a8869797676ba986c4afef8b3d7c4e83d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Golf_New0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786254814~acl=/*~id=78695142826313552045187476535803~hmac=a514267cd171d135f4631337b7a2a45957f2a65df797f51af678bba6078081b9"
         },
         {
             "event_category": "Football",

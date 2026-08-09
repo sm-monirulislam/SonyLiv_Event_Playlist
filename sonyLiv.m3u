@@ -3,22 +3,10 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-09 09:00:20 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-08-09 10:00:22 (BD Time)
+#  Channels Count: 1
 #=================================
 
-#EXTINF:-1 tvg-id="1090538872_ENG" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
-
-#EXTINF:-1 tvg-id="1090538872_HIN" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
-
-#EXTINF:-1 tvg-id="1090538872_TAM" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
-
-#EXTINF:-1 tvg-id="1090538872_TEL" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
-
-#EXTINF:-1 tvg-id="1090538872_KAN" tvg-name="UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786287580~acl=/*~id=21152809937920598093731250081576~hmac=94503ad3b2e595c1fe76ec99fe64ef98fe546a19166eadea88786a7ac5afb04c
+#EXTINF:-1 tvg-id="1090538829_ENG" tvg-name="Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127931146710_SLvsIND_warm_up_match_day3_landscape_thumb.jpg" group-title="Cricket",Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786290608~acl=/*~id=98990392651722359074819649463322~hmac=effcafd44ace4bf7f04ac2584dea7218f7bfbeef7c92729e0bf8c3effdf4adb8
 

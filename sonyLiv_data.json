@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:17 AM 10-08-2026",
+    "last_update_time": "01:00:19 AM 10-08-2026",
     "total_matches": 10,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "LIV Golf",
             "match_name": "New York - Day 4 - 9 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000300/Golf_New0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786341053~acl=/*~id=91990207794354508390119734468999~hmac=f17c60c6833f482833eec42fbf2cf4d099ef1c81dcf8e227b888e2dbb718a0ff"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000300/Golf_New0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786344701~acl=/*~id=22524856698430875880631051840832~hmac=c0734633830723f113b0d155094babc9b7b63642770fac45c0f9442e2f539118"
         },
         {
             "event_category": "Football",
@@ -49,16 +49,6 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021930/1786196201785386_asia_cup_w26_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
             "contentId": 1090538916,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021948/1786253388496755_NZ_vs_IND_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -74,6 +64,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021930/1786196201785386_asia_cup_w26_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:29 PM 12-08-2026",
+    "last_update_time": "06:00:24 PM 12-08-2026",
     "total_matches": 11,
     "live_match": 1,
     "matches": [
@@ -15,17 +15,7 @@
             "event_name": "IndianOil Durand Cup 2026",
             "match_name": "Neroca FC vs FC Raengdai FT - 12 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786575180~acl=/*~id=93811303738793945063703548342424~hmac=9e2d27b86fe09afefb0982caa5d467cb83ae062ab8b9e8f6357070006d15967a"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578826~acl=/*~id=24070019018478847620359887015524~hmac=971544e79a5daf205cff832e95ab8aef8a90758f53e2d0ab7b54c63a948ae69b"
         },
         {
             "event_category": "Football",
@@ -34,6 +24,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090536992,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
             "status": "Upcoming",
             "stream_link": ""
         },

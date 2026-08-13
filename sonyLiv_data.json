@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:56 PM 13-08-2026",
-    "total_matches": 13,
-    "live_match": 2,
+    "last_update_time": "10:00:58 PM 13-08-2026",
+    "total_matches": 12,
+    "live_match": 1,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": "1090539094_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709689118385_DC26_Shillong_Lajong_FC_vs_Langsning_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Shillong Lajong FC vs Langsning FC - 13 Aug 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786676038~acl=/*~id=98873881509504504168366772341681~hmac=304e60c55ddaf2b55ecd2ae4f61d2c22237d68b1bcbbba9f9a4728576184dd0c"
-        },
         {
             "event_category": "Golf",
             "contentId": "1090539134_ENG",
@@ -26,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 1 - 13 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786676038~acl=/*~id=98873881509504504168366772341681~hmac=304e60c55ddaf2b55ecd2ae4f61d2c22237d68b1bcbbba9f9a4728576184dd0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786679695~acl=/*~id=08635079714369849547933904790727~hmac=7615ad33aa7a327953c6ae089350b9e1695885388c5895fa6ea5fdf981281d70"
         },
         {
             "event_category": "Cricket",

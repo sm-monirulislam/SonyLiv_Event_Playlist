@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:58 PM 13-08-2026",
+    "last_update_time": "11:00:58 PM 13-08-2026",
     "total_matches": 12,
-    "live_match": 1,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Golf",
-            "contentId": "1090539134_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703344075390_DP_World_Tour_Danish_Golf_Championship_day1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Danish Golf Championship - Day 1 - 13 Aug 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786679695~acl=/*~id=08635079714369849547933904790727~hmac=7615ad33aa7a327953c6ae089350b9e1695885388c5895fa6ea5fdf981281d70"
-        },
         {
             "event_category": "Cricket",
             "contentId": 1090539152,
@@ -94,6 +83,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090539212,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022163/1786636125437708_slvsind_2tests_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India Tour of Sri Lanka",
             "status": "Upcoming",
             "stream_link": ""
         },

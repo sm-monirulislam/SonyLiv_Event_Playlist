@@ -3,25 +3,28 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-15 16:00:14 (BD Time)
-#  Channels Count: 6
+#  Last Updated: 2026-08-15 17:00:15 (BD Time)
+#  Channels Count: 7
 #=================================
 
 #EXTINF:-1 tvg-id="1090539201_ENG" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 1st Test - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786830354~acl=/*~id=00731463226830203289044504354678~hmac=2076f6af281d8e3e8111277bda296eb3c5b9366330d9404d454d4063512b4543
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a
 
 #EXTINF:-1 tvg-id="1090539201_HIN" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 1st Test - 15 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786830354~acl=/*~id=00731463226830203289044504354678~hmac=2076f6af281d8e3e8111277bda296eb3c5b9366330d9404d454d4063512b4543
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a
 
 #EXTINF:-1 tvg-id="1090539201_TAM" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 1st Test - 15 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786830354~acl=/*~id=00731463226830203289044504354678~hmac=2076f6af281d8e3e8111277bda296eb3c5b9366330d9404d454d4063512b4543
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a
 
 #EXTINF:-1 tvg-id="1090539201_TEL" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 1st Test - 15 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786830354~acl=/*~id=00731463226830203289044504354678~hmac=2076f6af281d8e3e8111277bda296eb3c5b9366330d9404d454d4063512b4543
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a
 
 #EXTINF:-1 tvg-id="1090539201_KAN" tvg-name="Day 1 - 1st Test - 15 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022210/1786721377288986_SL_vs_IND_1stTest_Day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 1st Test - 15 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786830354~acl=/*~id=00731463226830203289044504354678~hmac=2076f6af281d8e3e8111277bda296eb3c5b9366330d9404d454d4063512b4543
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a
 
 #EXTINF:-1 tvg-id="1090539213_ENG" tvg-name="R16 - Hankook London E-Prix - Qualifying Race - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704546330524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="Racing",R16 - Hankook London E-Prix - Qualifying Race - 15 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786830354~acl=/*~id=00731463226830203289044504354678~hmac=2076f6af281d8e3e8111277bda296eb3c5b9366330d9404d454d4063512b4543
+https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a
+
+#EXTINF:-1 tvg-id="1090539270_ENG" tvg-name="Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="Golf",Danish Golf Championship - Day 3 - 15 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786834617~acl=/*~id=28046311590286522862256377352422~hmac=a83495bf70eead5365bb3673a5f1f56a9d01396f1756f8f4c8e6dd8b4b42a67a
 

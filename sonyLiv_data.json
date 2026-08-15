@@ -2,18 +2,19 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:19 AM 16-08-2026",
+    "last_update_time": "05:00:16 AM 16-08-2026",
     "total_matches": 12,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
         {
             "event_category": "Fight Sports",
-            "contentId": 1090538996,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022122/1786561945685722_UFC_330_countdown_Makhachev_vs_Garry_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090539292,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022240/1786782677452289_UFC330_prelims_Njokuani_vs_alvarez_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 330 - Makhachev vs Machado Garry ",
-            "status": "Upcoming",
+            "event_name": "UFC 330 - Prelims",
+            "match_name": "UFC 330 - Prelims - Chidi Njokuani v Joel Álvarez - 16 Aug 2026",
+            "status": "Live",
             "stream_link": ""
         },
         {

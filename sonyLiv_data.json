@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:12 PM 16-08-2026",
+    "last_update_time": "05:00:17 PM 16-08-2026",
     "total_matches": 15,
     "live_match": 4,
     "matches": [
@@ -24,7 +24,7 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "SC Delhi VS FC Raengdai - Quarter Final 1 - 16 Aug 2026",
+            "match_name": "SC Delhi vs FC Raengdai - Quarter Final 1 - 16 Aug 2026",
             "status": "Live",
             "stream_link": ""
         },
@@ -37,7 +37,7 @@
             "event_name": "ABB FIA Formula E World Championship",
             "match_name": "R17 - London E-Prix - Qualifying Race - 16 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000291/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786917146~acl=/*~id=22645768353283315360764398841555~hmac=32a7ca13d86feaafdff1d36cae59c3b06bce1c9f962222290ce0e0428a8d5c0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000291/FormulaE1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786920797~acl=/*~id=95968309989768306451236004439034~hmac=525a3b338aadfe6ee59660b27374901828fd938969c6a3f1878d05acd3d2ef00"
         },
         {
             "event_category": "Golf",
@@ -48,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Danish Golf Championship - Day 4 - 16 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786917146~acl=/*~id=22645768353283315360764398841555~hmac=32a7ca13d86feaafdff1d36cae59c3b06bce1c9f962222290ce0e0428a8d5c0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000389/Danish_G1608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786920797~acl=/*~id=95968309989768306451236004439034~hmac=525a3b338aadfe6ee59660b27374901828fd938969c6a3f1878d05acd3d2ef00"
         },
         {
             "event_category": "Football",

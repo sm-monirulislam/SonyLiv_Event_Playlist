@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:14 PM 18-08-2026",
+    "last_update_time": "06:00:16 PM 18-08-2026",
     "total_matches": 19,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 4 - 1st Test - 18 Aug 2026 [English]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787093257~acl=/*~id=95596723696921288132399917568087~hmac=e681b9e884b62b29168ce353c766225b8f4ac2a027f391f0222ab5517b63db55"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1808/ENG/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Telugu]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787093257~acl=/*~id=95596723696921288132399917568087~hmac=e681b9e884b62b29168ce353c766225b8f4ac2a027f391f0222ab5517b63db55"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1808/TEL/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Kannada]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787093257~acl=/*~id=95596723696921288132399917568087~hmac=e681b9e884b62b29168ce353c766225b8f4ac2a027f391f0222ab5517b63db55"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1808/KAN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Hindi]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787093257~acl=/*~id=95596723696921288132399917568087~hmac=e681b9e884b62b29168ce353c766225b8f4ac2a027f391f0222ab5517b63db55"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1808/HIN/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
         },
         {
             "event_category": "Cricket",
@@ -59,17 +59,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 4 - 1st Test - 18 Aug 2026 [Tamil]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787093257~acl=/*~id=95596723696921288132399917568087~hmac=e681b9e884b62b29168ce353c766225b8f4ac2a027f391f0222ab5517b63db55"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090539152,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1808/TAM/master.m3u8?hdnea=exp=1787096307~acl=/*~id=32609888091942130797143880111399~hmac=0a535ba17c9b03be295f59439889299470839836370aedc6c82c3a67b504e9ee"
         },
         {
             "event_category": "Cricket",
@@ -78,6 +68,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of England 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
             "status": "Upcoming",
             "stream_link": ""
         },

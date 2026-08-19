@@ -3,7 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-19 11:00:14 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-19 12:00:14 (BD Time)
+#  Channels Count: 5
 #=================================
+
+#EXTINF:-1 tvg-id="1090539706_English" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [English]" tvg-logo="https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787118663188_l_medium.jpg" group-title="Cricket",Day 5 - 1st Test - 19 Aug 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787161989~acl=/*~id=93930010785055048268686267723706~hmac=b60b12919b676d794aeccfdc152434ad682f78332b4cd61874490192df767a23
+
+#EXTINF:-1 tvg-id="1090539706_Hindi" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Hindi]" tvg-logo="https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787118663139_l_medium.jpg" group-title="Cricket",Day 5 - 1st Test - 19 Aug 2026 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787161989~acl=/*~id=93930010785055048268686267723706~hmac=b60b12919b676d794aeccfdc152434ad682f78332b4cd61874490192df767a23
+
+#EXTINF:-1 tvg-id="1090539706_Tamil" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Tamil]" tvg-logo="https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787118663199_l_medium.jpg" group-title="Cricket",Day 5 - 1st Test - 19 Aug 2026 [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787161989~acl=/*~id=93930010785055048268686267723706~hmac=b60b12919b676d794aeccfdc152434ad682f78332b4cd61874490192df767a23
+
+#EXTINF:-1 tvg-id="1090539706_Telugu" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Telugu]" tvg-logo="https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787118663171_l_medium.jpg" group-title="Cricket",Day 5 - 1st Test - 19 Aug 2026 [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787161989~acl=/*~id=93930010785055048268686267723706~hmac=b60b12919b676d794aeccfdc152434ad682f78332b4cd61874490192df767a23
+
+#EXTINF:-1 tvg-id="1090539706_Kannada" tvg-name="Day 5 - 1st Test - 19 Aug 2026 [Kannada]" tvg-logo="https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787118663211_l_medium.jpg" group-title="Cricket",Day 5 - 1st Test - 19 Aug 2026 [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787161989~acl=/*~id=93930010785055048268686267723706~hmac=b60b12919b676d794aeccfdc152434ad682f78332b4cd61874490192df767a23
 

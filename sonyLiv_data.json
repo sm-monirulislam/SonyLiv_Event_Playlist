@@ -2,20 +2,20 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:16 PM 19-08-2026",
-    "total_matches": 14,
+    "last_update_time": "06:00:15 PM 19-08-2026",
+    "total_matches": 13,
     "live_match": 1,
     "matches": [
         {
             "event_category": "Cricket",
             "contentId": "1090539718_English",
-            "src": "https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787137041947_l_medium.jpg",
+            "src": "https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787140623024_l_medium.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "English",
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 1st Test - 19 Aug 2026 [English]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787180266~acl=/*~id=25836940746020442271249898468130~hmac=9a8ba6b03333a5d82e2b072e9dc90dbb4bb6643b7a7a13f3c007e33c3066a165"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787183916~acl=/*~id=06577488198334080105490824511861~hmac=03fa3442269b19e0c0c4bc010ccd597b797003afbcd70c961eb4139483538300"
         },
         {
             "event_category": "Cricket",
@@ -74,16 +74,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand ",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090539707,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022435/1787049136098526_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_DDT_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Durand Cup 2026 - Semi-Finals",
             "status": "Upcoming",
             "stream_link": ""
         },

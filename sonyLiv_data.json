@@ -2,54 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:16 AM 20-08-2026",
-    "total_matches": 16,
-    "live_match": 4,
+    "last_update_time": "04:00:15 AM 20-08-2026",
+    "total_matches": 12,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": 1090539675,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980479078688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2026-27",
-            "match_name": "Celtic vs LASK - Play-offs - Leg 1 - 20 Aug 2026",
-            "status": "Live",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090539690,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787034725642476_UCL_26_Play-offs-Leg1_H-Beer-Sheva-vs-Sabah_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2026-27",
-            "match_name": "H. Beer-Sheva vs Sabah - Play-offs - Leg 1 - 20 Aug 2026",
-            "status": "Live",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090539693,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787035474329476_UCL_26_Play-offs-Leg1_NEC-vs-BodO-Glimt_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2026-27",
-            "match_name": "N.E.C. vs Bodø/Glimt - Play-offs - Leg 1 - 20 Aug 2026",
-            "status": "Live",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090539683,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787033925006476_UCL_26_Play-offs-Leg1_Bratislava-vs-Celje_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2026-27",
-            "match_name": "Bratislava vs Celje - Play-offs - Leg 1 - 20 Aug 2026",
-            "status": "Live",
-            "stream_link": ""
-        },
         {
             "event_category": "Cricket",
             "contentId": 1090539595,
@@ -73,7 +29,7 @@
         {
             "event_category": "Football",
             "contentId": 1090539665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712338135837_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712315496637_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Durand Cup 2026 - Semi-Final - Mohun Bagan SG vs NorthEast United FC",

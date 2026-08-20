@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-20 17:00:15 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-20 18:00:16 (BD Time)
+#  Channels Count: 2
 #=================================
 
 #EXTINF:-1 tvg-id="1090539798_ENG" tvg-name="Day 2 - 1st Test - 20 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg" group-title="Cricket",Day 2 - 1st Test - 20 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787266523~acl=/*~id=22747531563797827333386705984447~hmac=d09e9bdeb92d5fdb09a88b09cf9c04d5cb32b1d19d2033ee505ec6408b133869
+https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787270128~acl=/*~id=48583043537241872696797633215082~hmac=82ee4f87604a383b2c68eff6ce2749d6685256f4b7d66325542503a31a3bb556
+
+#EXTINF:-1 tvg-id="1090539821_ENG" tvg-name="Nexo Championship - Day 1 - 20 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg" group-title="Golf",Nexo Championship - Day 1 - 20 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchea26/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787270128~acl=/*~id=48583043537241872696797633215082~hmac=82ee4f87604a383b2c68eff6ce2749d6685256f4b7d66325542503a31a3bb556
 

@@ -2,10 +2,20 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:13 AM 20-08-2026",
+    "last_update_time": "12:00:15 PM 20-08-2026",
     "total_matches": 12,
     "live_match": 0,
     "matches": [
+        {
+            "event_category": "Football",
+            "contentId": 1090539665,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712315496637_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_Today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Durand Cup 2026 - Semi-Final - Mohun Bagan SG vs NorthEast United FC",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
         {
             "event_category": "Cricket",
             "contentId": 1090539595,
@@ -23,16 +33,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090539665,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712315496637_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_Today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Durand Cup 2026 - Semi-Final - Mohun Bagan SG vs NorthEast United FC",
             "status": "Upcoming",
             "stream_link": ""
         },

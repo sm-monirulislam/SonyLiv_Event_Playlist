@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:31 PM 22-08-2026",
+    "last_update_time": "07:00:24 PM 22-08-2026",
     "total_matches": 15,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "Nexo Championship - Day 3 - 22 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787442602~acl=/*~id=18335966763376951239812809014185~hmac=c10fde0bdd240970414c0e07cc155f9acdee25ee14a1574995f475b217172d92"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_Nex2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787446253~acl=/*~id=42334608365302854815029085940005~hmac=1708a442bacae264e0e769689f89f93b1aedf3ce191ca5e206025250d64ddc46"
         },
         {
             "event_category": "Football",

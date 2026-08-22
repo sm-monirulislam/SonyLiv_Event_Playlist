@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:25 AM 22-08-2026",
+    "last_update_time": "11:00:23 AM 22-08-2026",
     "total_matches": 12,
     "live_match": 0,
     "matches": [
@@ -27,22 +27,22 @@
             "stream_link": ""
         },
         {
-            "event_category": "Cricket",
-            "contentId": 1090540021,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022658/1787312709559403_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
             "event_category": "Football",
             "contentId": 1090536986,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022642/1787294349221332_Durand_Cup_26_Final_East-Bengal-vs-Mohun-Bagan-Super-Giant_Promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090540021,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022658/1787312709559403_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

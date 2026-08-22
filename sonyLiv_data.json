@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:25 PM 22-08-2026",
+    "last_update_time": "12:00:23 AM 23-08-2026",
     "total_matches": 15,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "LIV Golf",
             "match_name": "Indianapolis - Day 3 - 22 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787460887~acl=/*~id=84902306311474827893634812399937~hmac=d704de61a2805e5ff942891f9f0513df5e1b5bd40ae11e469e903b562fb876ba"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787464538~acl=/*~id=97985667242232123400762233917741~hmac=67ca293fa41724959128904bf43f84dca2280f724765998f751a9147020c3ef0"
         },
         {
             "event_category": "Football",

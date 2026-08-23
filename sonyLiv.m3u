@@ -3,10 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-23 09:00:25 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-08-23 10:00:24 (BD Time)
+#  Channels Count: 5
 #=================================
 
-#EXTINF:-1 tvg-id="1090540101_ENG" tvg-name="UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022592/1787223000581357_UFC-Hernandez-vs-Rodriguez_live_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787496725~acl=/*~id=45752392032305330642552604907702~hmac=4c6d2334379006d21d662b692d598e85f4bfd5ec5439e0d4c17330ca15311d17
+#EXTINF:-1 tvg-id="1090540028_ENG" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
+
+#EXTINF:-1 tvg-id="1090540028_HIN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
+
+#EXTINF:-1 tvg-id="1090540028_TAM" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
+
+#EXTINF:-1 tvg-id="1090540028_TEL" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
+
+#EXTINF:-1 tvg-id="1090540028_KAN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787500375~acl=/*~id=93932143941627151923295027710425~hmac=c8954eeb3aaa863fb5553ccb2622c88c036c2a8d4301fe3d1dc5af83c9c3b364
 

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:23 AM 23-08-2026",
+    "last_update_time": "08:00:26 AM 23-08-2026",
     "total_matches": 15,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UFC Fight Night - Hernandez vs Rodrigues ",
             "match_name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787489429~acl=/*~id=68190314735180139522585236691703~hmac=0c16eae1e858ee48f0da2a5dc8a262fd0dfb0a7aad8ccb2817346a5fa2be3c8d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/UFC_UFC_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787493077~acl=/*~id=91785262677262122904001949282147~hmac=7252c9d64a0f145bbd16c217081b40b837f1d06293cbfcf9c33344b313182ceb"
         },
         {
             "event_category": "Football",

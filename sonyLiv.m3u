@@ -3,22 +3,37 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-23 14:00:24 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-08-23 17:00:23 (BD Time)
+#  Channels Count: 11
 #=================================
 
 #EXTINF:-1 tvg-id="1090540028_ENG" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787514972~acl=/*~id=91419496803298132448541144023835~hmac=f1ed70f3118b31e6fb7d3f054e41204bfb67a487c3e8288f51701f256d0c2eda
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 
 #EXTINF:-1 tvg-id="1090540028_HIN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787514972~acl=/*~id=91419496803298132448541144023835~hmac=f1ed70f3118b31e6fb7d3f054e41204bfb67a487c3e8288f51701f256d0c2eda
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 
 #EXTINF:-1 tvg-id="1090540028_TAM" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787514972~acl=/*~id=91419496803298132448541144023835~hmac=f1ed70f3118b31e6fb7d3f054e41204bfb67a487c3e8288f51701f256d0c2eda
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 
 #EXTINF:-1 tvg-id="1090540028_TEL" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787514972~acl=/*~id=91419496803298132448541144023835~hmac=f1ed70f3118b31e6fb7d3f054e41204bfb67a487c3e8288f51701f256d0c2eda
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 
 #EXTINF:-1 tvg-id="1090540028_KAN" tvg-name="2nd Test - Day 1 - 23 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 1 - 23 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787514972~acl=/*~id=91419496803298132448541144023835~hmac=f1ed70f3118b31e6fb7d3f054e41204bfb67a487c3e8288f51701f256d0c2eda
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
+
+#EXTINF:-1 tvg-id="1090540053_HIN" tvg-name="Nexo Championship - Day 4 - 23 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Golf",Nexo Championship - Day 4 - 23 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
+
+#EXTINF:-1 tvg-id="1090540053_TEL" tvg-name="Nexo Championship - Day 4 - 23 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Golf",Nexo Championship - Day 4 - 23 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
+
+#EXTINF:-1 tvg-id="1090540053_ENG" tvg-name="Nexo Championship - Day 4 - 23 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Golf",Nexo Championship - Day 4 - 23 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
+
+#EXTINF:-1 tvg-id="1090540053_TAM" tvg-name="Nexo Championship - Day 4 - 23 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Golf",Nexo Championship - Day 4 - 23 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
+
+#EXTINF:-1 tvg-id="1090540053_KAN" tvg-name="Nexo Championship - Day 4 - 23 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg" group-title="Golf",Nexo Championship - Day 4 - 23 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787525296~acl=/*~id=12599827312725426875534979939559~hmac=448374971162676387466db4663e1e3090c8a67ba63c27e8ec22ed4a0da5781e
 

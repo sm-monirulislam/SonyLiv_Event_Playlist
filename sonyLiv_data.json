@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:43 AM 24-08-2026",
+    "last_update_time": "05:00:41 AM 24-08-2026",
     "total_matches": 12,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "LIV Golf",
             "match_name": "Indianapolis - Day 4 - 23 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787565451~acl=/*~id=53300191068509553906485497340723~hmac=5d76534862cacddc3b36682188f845817e73e2f13ae5f586921237063480f9e0"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787569094~acl=/*~id=92102588556309276014035200003344~hmac=7ca25e7961c8de5c7e8213823f4fd2007d875220503059cc2d813e137325f297"
         },
         {
             "event_category": "Cricket",

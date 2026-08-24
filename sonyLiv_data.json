@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:42 PM 24-08-2026",
+    "last_update_time": "07:00:43 PM 24-08-2026",
     "total_matches": 16,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - 2nd Test - 24 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787615833~acl=/*~id=89843988782413364876025195671630~hmac=5c5ab8f3d499bda3a698509ed09afb6f5ed88b43eb65c87fa2ef71572d5f3988"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787619476~acl=/*~id=34480408985869664802151146547161~hmac=f6329fb522f48035e96b14ed297b4b5a9e24315f25bf92b7711da07d488479e3"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - 2nd Test - 24 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787615833~acl=/*~id=89843988782413364876025195671630~hmac=5c5ab8f3d499bda3a698509ed09afb6f5ed88b43eb65c87fa2ef71572d5f3988"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2408/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787619476~acl=/*~id=34480408985869664802151146547161~hmac=f6329fb522f48035e96b14ed297b4b5a9e24315f25bf92b7711da07d488479e3"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - 2nd Test - 24 Aug 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787615833~acl=/*~id=89843988782413364876025195671630~hmac=5c5ab8f3d499bda3a698509ed09afb6f5ed88b43eb65c87fa2ef71572d5f3988"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2408/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787619476~acl=/*~id=34480408985869664802151146547161~hmac=f6329fb522f48035e96b14ed297b4b5a9e24315f25bf92b7711da07d488479e3"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - 2nd Test - 24 Aug 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787615833~acl=/*~id=89843988782413364876025195671630~hmac=5c5ab8f3d499bda3a698509ed09afb6f5ed88b43eb65c87fa2ef71572d5f3988"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2408/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787619476~acl=/*~id=34480408985869664802151146547161~hmac=f6329fb522f48035e96b14ed297b4b5a9e24315f25bf92b7711da07d488479e3"
         },
         {
             "event_category": "Cricket",
@@ -59,17 +59,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 2 - 2nd Test - 24 Aug 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787615833~acl=/*~id=89843988782413364876025195671630~hmac=5c5ab8f3d499bda3a698509ed09afb6f5ed88b43eb65c87fa2ef71572d5f3988"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178704318120860_asia_cup_w26_dated_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2408/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787619476~acl=/*~id=34480408985869664802151146547161~hmac=f6329fb522f48035e96b14ed297b4b5a9e24315f25bf92b7711da07d488479e3"
         },
         {
             "event_category": "Cricket",
@@ -83,11 +73,11 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090540064,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022603/1787230188057421_womens_AC26_IND_vs_PAK_dated_landscape_thumb.jpg",
+            "contentId": 1090539554,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976983219557_PAK_ENG_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of England 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -103,11 +93,21 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090539554,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022376/1786976983219557_PAK_ENG_landscape_thumb.jpg",
+            "contentId": 1090540064,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022603/1787230188057421_womens_AC26_IND_vs_PAK_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of England 2026",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178704318120860_asia_cup_w26_dated_rev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women's Asia Cup 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -118,16 +118,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090539152,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -168,6 +158,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Team India's Cricket Tours",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
             "status": "Upcoming",
             "stream_link": ""
         }

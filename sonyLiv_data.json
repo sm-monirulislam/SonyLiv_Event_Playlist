@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:41 PM 27-08-2026",
-    "total_matches": 19,
-    "live_match": 6,
+    "last_update_time": "04:00:39 PM 27-08-2026",
+    "total_matches": 24,
+    "live_match": 11,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787864294~acl=/*~id=32982388072331702868166423699962~hmac=ac16e15e618a6e2fc78263e9c3e0e98e5e158ca3a740a29edd16e2dc71503bb7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787864294~acl=/*~id=32982388072331702868166423699962~hmac=ac16e15e618a6e2fc78263e9c3e0e98e5e158ca3a740a29edd16e2dc71503bb7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787864294~acl=/*~id=32982388072331702868166423699962~hmac=ac16e15e618a6e2fc78263e9c3e0e98e5e158ca3a740a29edd16e2dc71503bb7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787864294~acl=/*~id=32982388072331702868166423699962~hmac=ac16e15e618a6e2fc78263e9c3e0e98e5e158ca3a740a29edd16e2dc71503bb7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,62 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787864294~acl=/*~id=32982388072331702868166423699962~hmac=ac16e15e618a6e2fc78263e9c3e0e98e5e158ca3a740a29edd16e2dc71503bb7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090540508_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090540508_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090540508_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090540508_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090540508_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Pakistan Tour of England 2026",
+            "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
         },
         {
             "event_category": "Cricket",
@@ -68,19 +123,9 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
-            "match_name": "Mumbai Kings XI vs Chennai Striker Kings - 26 Aug 2026 [ENG]",
+            "match_name": "Mumbai Kings XI vs Chennai Striker Kings - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787864294~acl=/*~id=32982388072331702868166423699962~hmac=ac16e15e618a6e2fc78263e9c3e0e98e5e158ca3a740a29edd16e2dc71503bb7"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090539554,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022873/1787645699749402_eng_vs_pak_2nd_test_D1_Promo_Today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Pakistan Tour of England 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4"
         },
         {
             "event_category": "Cricket",
@@ -109,6 +154,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women's Asia Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090539554,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Pakistan Tour of England 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

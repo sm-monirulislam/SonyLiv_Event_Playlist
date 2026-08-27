@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:42 PM 27-08-2026",
+    "last_update_time": "09:00:45 PM 27-08-2026",
     "total_matches": 16,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787882073~acl=/*~id=44337221166022979005504520692369~hmac=507424c85ae8140667e589b0b4af45e37ca9881bb246b0fe17f6ce55193fe7e7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787885732~acl=/*~id=87571048652064426610602804388168~hmac=9425c3a4668619b9c32cf75cfca13f8e44cb48071a110c5ef3190433fb4ef7da"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Pune Peshwas vs Bengal Indians - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787882073~acl=/*~id=44337221166022979005504520692369~hmac=507424c85ae8140667e589b0b4af45e37ca9881bb246b0fe17f6ce55193fe7e7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787885732~acl=/*~id=87571048652064426610602804388168~hmac=9425c3a4668619b9c32cf75cfca13f8e44cb48071a110c5ef3190433fb4ef7da"
         },
         {
             "event_category": "Golf",
@@ -37,7 +37,7 @@
             "event_name": "DP World Tour",
             "match_name": "Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787882073~acl=/*~id=44337221166022979005504520692369~hmac=507424c85ae8140667e589b0b4af45e37ca9881bb246b0fe17f6ce55193fe7e7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787885732~acl=/*~id=87571048652064426610602804388168~hmac=9425c3a4668619b9c32cf75cfca13f8e44cb48071a110c5ef3190433fb4ef7da"
         },
         {
             "event_category": "Cricket",
@@ -72,7 +72,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090540517,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023013/1787817588284836_AC26_indiaw_vs_thailandw_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023030/1787829847712428_womens_AC26_india_vs_thailand_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Thailand | Women's Asia Cup 2026 | 30 Aug 2026",

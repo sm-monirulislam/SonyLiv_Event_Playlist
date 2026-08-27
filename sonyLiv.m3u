@@ -3,40 +3,31 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-27 16:00:39 (BD Time)
-#  Channels Count: 11
+#  Last Updated: 2026-08-27 18:00:45 (BD Time)
+#  Channels Count: 8
 #=================================
 
 #EXTINF:-1 tvg-id="1090540490_ENG" tvg-name="Day 5 - 2nd Test - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg" group-title="Cricket",Day 5 - 2nd Test - 27 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
 
 #EXTINF:-1 tvg-id="1090540490_HIN" tvg-name="Day 5 - 2nd Test - 27 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg" group-title="Cricket",Day 5 - 2nd Test - 27 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
 
 #EXTINF:-1 tvg-id="1090540490_TAM" tvg-name="Day 5 - 2nd Test - 27 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg" group-title="Cricket",Day 5 - 2nd Test - 27 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
 
 #EXTINF:-1 tvg-id="1090540490_TEL" tvg-name="Day 5 - 2nd Test - 27 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg" group-title="Cricket",Day 5 - 2nd Test - 27 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
 
 #EXTINF:-1 tvg-id="1090540490_KAN" tvg-name="Day 5 - 2nd Test - 27 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg" group-title="Cricket",Day 5 - 2nd Test - 27 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
-
-#EXTINF:-1 tvg-id="1090540508_HIN" tvg-name="Day 1 - 2nd Test - 27 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 2nd Test - 27 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
-
-#EXTINF:-1 tvg-id="1090540508_TAM" tvg-name="Day 1 - 2nd Test - 27 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 2nd Test - 27 Aug 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
-
-#EXTINF:-1 tvg-id="1090540508_KAN" tvg-name="Day 1 - 2nd Test - 27 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 2nd Test - 27 Aug 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
-
-#EXTINF:-1 tvg-id="1090540508_TEL" tvg-name="Day 1 - 2nd Test - 27 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 2nd Test - 27 Aug 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
 
 #EXTINF:-1 tvg-id="1090540508_ENG" tvg-name="Day 1 - 2nd Test - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg" group-title="Cricket",Day 1 - 2nd Test - 27 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
+https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
 
 #EXTINF:-1 tvg-id="1090540510_ENG" tvg-name="Mumbai Kings XI vs Chennai Striker Kings - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Cricket",Mumbai Kings XI vs Chennai Striker Kings - 27 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787867356~acl=/*~id=88514879342442505896850304084188~hmac=f2a58c8258d12ec15be3e3207b901c49c01f0af2671fb70f23666ecd6a772eb4
+https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
+
+#EXTINF:-1 tvg-id="1090540522_ENG" tvg-name="Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808399496204_DP_World_Tour_Husqvarna_British_Masters_day1_landscape_thumb.jpg" group-title="Golf",Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862
 

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:39 AM 27-08-2026",
+    "last_update_time": "12:00:38 PM 27-08-2026",
     "total_matches": 19,
     "live_match": 6,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787849640~acl=/*~id=88545981306947247111434415245798~hmac=eb76194b963a277115b8db50da3c42bcad5284b37ac61c81c800599a3f0eb8ed"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787853291~acl=/*~id=44716547637259782075922524270790~hmac=3bac8f238322979521b3fa5b2f1c0012826752ca420bfd3a04369467e30b3c4e"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787849640~acl=/*~id=88545981306947247111434415245798~hmac=eb76194b963a277115b8db50da3c42bcad5284b37ac61c81c800599a3f0eb8ed"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787853291~acl=/*~id=44716547637259782075922524270790~hmac=3bac8f238322979521b3fa5b2f1c0012826752ca420bfd3a04369467e30b3c4e"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787849640~acl=/*~id=88545981306947247111434415245798~hmac=eb76194b963a277115b8db50da3c42bcad5284b37ac61c81c800599a3f0eb8ed"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787853291~acl=/*~id=44716547637259782075922524270790~hmac=3bac8f238322979521b3fa5b2f1c0012826752ca420bfd3a04369467e30b3c4e"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787849640~acl=/*~id=88545981306947247111434415245798~hmac=eb76194b963a277115b8db50da3c42bcad5284b37ac61c81c800599a3f0eb8ed"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787853291~acl=/*~id=44716547637259782075922524270790~hmac=3bac8f238322979521b3fa5b2f1c0012826752ca420bfd3a04369467e30b3c4e"
         },
         {
             "event_category": "Cricket",
@@ -59,18 +59,18 @@
             "event_name": "India Tour of Sri Lanka 2026",
             "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787849640~acl=/*~id=88545981306947247111434415245798~hmac=eb76194b963a277115b8db50da3c42bcad5284b37ac61c81c800599a3f0eb8ed"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787853291~acl=/*~id=44716547637259782075922524270790~hmac=3bac8f238322979521b3fa5b2f1c0012826752ca420bfd3a04369467e30b3c4e"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090540510_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787663789756164_JPL_26_Mumbai-Kings-vs-Chennai-Strikers_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806278265472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
-            "match_name": "Mumbai Kings vs Chennai Strikers - 26 Aug 2026 [ENG]",
+            "match_name": "Mumbai Kings XI vs Chennai Striker Kings - 26 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787849640~acl=/*~id=88545981306947247111434415245798~hmac=eb76194b963a277115b8db50da3c42bcad5284b37ac61c81c800599a3f0eb8ed"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787853291~acl=/*~id=44716547637259782075922524270790~hmac=3bac8f238322979521b3fa5b2f1c0012826752ca420bfd3a04369467e30b3c4e"
         },
         {
             "event_category": "Cricket",

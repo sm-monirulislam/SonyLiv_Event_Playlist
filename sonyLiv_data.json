@@ -2,65 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:45 PM 27-08-2026",
-    "total_matches": 21,
-    "live_match": 8,
+    "last_update_time": "07:00:56 PM 27-08-2026",
+    "total_matches": 16,
+    "live_match": 3,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090540490_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090540490_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090540490_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090540490_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090540490_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
-        },
         {
             "event_category": "Cricket",
             "contentId": "1090540508_ENG",
@@ -70,18 +15,18 @@
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787878402~acl=/*~id=01709292689339882393753293539173~hmac=c29d19f7478b41000b18cb71fe5ed97b5f8125dcbbbd2fd7f4328477bfab6541"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090540510_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
-            "match_name": "Mumbai Kings XI vs Chennai Striker Kings - 27 Aug 2026 [ENG]",
+            "match_name": "Pune Peshwas vs Bengal Indians - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787878402~acl=/*~id=01709292689339882393753293539173~hmac=c29d19f7478b41000b18cb71fe5ed97b5f8125dcbbbd2fd7f4328477bfab6541"
         },
         {
             "event_category": "Golf",
@@ -92,7 +37,7 @@
             "event_name": "DP World Tour",
             "match_name": "Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787874711~acl=/*~id=47457220690319974841159336148044~hmac=de8601be3e9c9e7c510ef5bf2ba767b9a6f1628acc17c3a3e67675e70e42a862"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787878402~acl=/*~id=01709292689339882393753293539173~hmac=c29d19f7478b41000b18cb71fe5ed97b5f8125dcbbbd2fd7f4328477bfab6541"
         },
         {
             "event_category": "Cricket",

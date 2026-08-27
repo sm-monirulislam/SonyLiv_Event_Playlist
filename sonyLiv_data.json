@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:43 PM 27-08-2026",
+    "last_update_time": "11:00:48 PM 27-08-2026",
     "total_matches": 17,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787893085~acl=/*~id=02308573724611207254902429289846~hmac=b4f43308c236126134bd46f2f9f9e88bd33f4d87b4b28141c8dd3e4f9b3a71e0"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "League Phase Draw - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Leag2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Leag2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787893085~acl=/*~id=02308573724611207254902429289846~hmac=b4f43308c236126134bd46f2f9f9e88bd33f4d87b4b28141c8dd3e4f9b3a71e0"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Pune Peshwas vs Bengal Indians - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787893085~acl=/*~id=02308573724611207254902429289846~hmac=b4f43308c236126134bd46f2f9f9e88bd33f4d87b4b28141c8dd3e4f9b3a71e0"
         },
         {
             "event_category": "Golf",
@@ -48,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Husqvarna British Masters - Day 1 - 27 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787888788~acl=/*~id=22433776524869968425654223882530~hmac=056aaec2c1c7e3cebc06c17e2d1c935ab3a86253b8e4e272deb2a77227685ef1"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787893085~acl=/*~id=02308573724611207254902429289846~hmac=b4f43308c236126134bd46f2f9f9e88bd33f4d87b4b28141c8dd3e4f9b3a71e0"
         },
         {
             "event_category": "Cricket",

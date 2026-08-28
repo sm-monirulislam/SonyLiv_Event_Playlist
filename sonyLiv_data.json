@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:43 PM 28-08-2026",
-    "total_matches": 19,
-    "live_match": 7,
+    "last_update_time": "05:00:41 PM 28-08-2026",
+    "total_matches": 20,
+    "live_match": 8,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,18 @@
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 2 - 2nd Test - 28 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787954431~acl=/*~id=96377417116375560636388745226503~hmac=57d835555dd07e21d702f9d306ca61565349ee6d5581016cb1f11c3ecee79ef8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090540683_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023085/1787864511179299_UEL_UECL_League_Phase_Draw_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "League Phase Draw - UEFA Europa & Conference League - 28 Aug 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
         },
         {
             "event_category": "Fight Sports",
@@ -26,7 +37,7 @@
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787954431~acl=/*~id=96377417116375560636388745226503~hmac=57d835555dd07e21d702f9d306ca61565349ee6d5581016cb1f11c3ecee79ef8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
         },
         {
             "event_category": "Fight Sports",
@@ -37,7 +48,7 @@
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787954431~acl=/*~id=96377417116375560636388745226503~hmac=57d835555dd07e21d702f9d306ca61565349ee6d5581016cb1f11c3ecee79ef8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
         },
         {
             "event_category": "Fight Sports",
@@ -48,7 +59,7 @@
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787954431~acl=/*~id=96377417116375560636388745226503~hmac=57d835555dd07e21d702f9d306ca61565349ee6d5581016cb1f11c3ecee79ef8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
         },
         {
             "event_category": "Fight Sports",
@@ -59,7 +70,7 @@
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787954431~acl=/*~id=96377417116375560636388745226503~hmac=57d835555dd07e21d702f9d306ca61565349ee6d5581016cb1f11c3ecee79ef8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
         },
         {
             "event_category": "Fight Sports",
@@ -70,7 +81,7 @@
             "event_name": "Road To UFC Season 5",
             "match_name": "Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787954431~acl=/*~id=96377417116375560636388745226503~hmac=57d835555dd07e21d702f9d306ca61565349ee6d5581016cb1f11c3ecee79ef8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
         },
         {
             "event_category": "Cricket",
@@ -81,7 +92,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Rajasthan Rajvansh vs Golden Eagles Delhi - 28 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787954431~acl=/*~id=96377417116375560636388745226503~hmac=57d835555dd07e21d702f9d306ca61565349ee6d5581016cb1f11c3ecee79ef8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787957480~acl=/*~id=66665299892301126608876309998997~hmac=c8826b09887e9b774cc103b314b58816ab50d9e27fe535c1ecd265dd53029600"
         },
         {
             "event_category": "Cricket",

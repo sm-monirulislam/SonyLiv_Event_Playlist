@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:34 AM 29-08-2026",
+    "last_update_time": "11:00:34 AM 29-08-2026",
     "total_matches": 13,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Chennai Striker Kings vs Bengal Indians - 29 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788018905~acl=/*~id=65203757776777286729022469184164~hmac=bb5682b4cde534df266b60845f8bd3fce60cba82427f1eb275c07954f602dcc3"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788022552~acl=/*~id=26903502489778449015572562041341~hmac=2b5b1735c004de76575344052f9ad8b4ade04124fe65e2bcdf2fc610cb66a1f3"
         },
         {
             "event_category": "Cricket",
@@ -40,7 +40,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023119/1787925501330343_Asia_Cup_Womens_2026_sri_lanka_vs_UAE_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023119/1787925029608343_Asia_Cup_Womens_2026_sri_lanka_vs_UAE_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026",

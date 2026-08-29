@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:35 PM 29-08-2026",
+    "last_update_time": "02:00:35 PM 29-08-2026",
     "total_matches": 13,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788029853~acl=/*~id=58641131359105972635087502361188~hmac=e097934d763ef1cbe6f2c310ddfaf2c59efee818613457a2d84cb618d3b8710c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788033497~acl=/*~id=25818836927588610701641733017108~hmac=ffa600fd384b75a96ca045f8bcf914aadc1b19dd72ed72c9a6ec20c3bc4840a6"
         },
         {
             "event_category": "Cricket",

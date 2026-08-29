@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:36 PM 29-08-2026",
-    "total_matches": 20,
-    "live_match": 8,
+    "last_update_time": "08:00:35 PM 29-08-2026",
+    "total_matches": 14,
+    "live_match": 2,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,62 +15,7 @@
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 3 - 2nd Test - 29 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090540822_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
-            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090540822_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
-            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090540822_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
-            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090540822_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
-            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090540822_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Nurmagomedov vs Song",
-            "match_name": "UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788054853~acl=/*~id=51327830411084000292056754423194~hmac=a3c5b7095ddf0bbd232164d4d9fb120a26bde1937b6ce85a3b418b9c8b327857"
         },
         {
             "event_category": "Cricket",
@@ -81,18 +26,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Mumbai Kings vs Indore Hawks - 29 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
-        },
-        {
-            "event_category": "Golf",
-            "contentId": "1090540811_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808412785204_DP_World_Tour_Husqvarna_British_Masters_day3_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Husqvarna British Masters - Day 3 - 29 Aug 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788051195~acl=/*~id=71388794724573347141793569710960~hmac=e04a09954bda4cb517642feb6ed244113c9951f5260a5997ea9a8f478f006f1f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788054853~acl=/*~id=51327830411084000292056754423194~hmac=a3c5b7095ddf0bbd232164d4d9fb120a26bde1937b6ce85a3b418b9c8b327857"
         },
         {
             "event_category": "Cricket",

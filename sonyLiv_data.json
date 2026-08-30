@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:39 PM 30-08-2026",
-    "total_matches": 20,
-    "live_match": 9,
+    "last_update_time": "12:00:38 AM 31-08-2026",
+    "total_matches": 18,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "India Women vs Thailand Women - 30 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788155827~acl=/*~id=85976463762446332156075630068885~hmac=eb1244603171af0b37aa3fbb06a65cdc9c3b0fa7750877b117f0c270eacd4ad6"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "India Women vs Thailand Women - 30 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3008/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3008/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788155827~acl=/*~id=85976463762446332156075630068885~hmac=eb1244603171af0b37aa3fbb06a65cdc9c3b0fa7750877b117f0c270eacd4ad6"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "India Women vs Thailand Women - 30 Aug 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3008/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3008/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788155827~acl=/*~id=85976463762446332156075630068885~hmac=eb1244603171af0b37aa3fbb06a65cdc9c3b0fa7750877b117f0c270eacd4ad6"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "India Women vs Thailand Women - 30 Aug 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3008/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3008/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788155827~acl=/*~id=85976463762446332156075630068885~hmac=eb1244603171af0b37aa3fbb06a65cdc9c3b0fa7750877b117f0c270eacd4ad6"
         },
         {
             "event_category": "Cricket",
@@ -59,18 +59,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "India Women vs Thailand Women - 30 Aug 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3008/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090540951_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918839284954_ENGvsPAK_2nd_test_day4_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pakistan Tour of England 2026",
-            "match_name": "Day 4 - 2nd Test - 30 Aug 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3008/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788155827~acl=/*~id=85976463762446332156075630068885~hmac=eb1244603171af0b37aa3fbb06a65cdc9c3b0fa7750877b117f0c270eacd4ad6"
         },
         {
             "event_category": "Cricket",
@@ -81,18 +70,7 @@
             "event_name": "Punjab T20 League 2026",
             "match_name": "Amritsar Soormas vs Mohali Kings - 30 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive3008/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090540892_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817046893770_JPL_26_Pagaria-Strikers-Maharashtra-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Pagariya Strikers vs Golden Eagles Delhi - 30 Aug 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/criclive3008/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788155827~acl=/*~id=85976463762446332156075630068885~hmac=eb1244603171af0b37aa3fbb06a65cdc9c3b0fa7750877b117f0c270eacd4ad6"
         },
         {
             "event_category": "Cricket",
@@ -103,7 +81,7 @@
             "event_name": "Punjab T20 League 2026",
             "match_name": "Amritsar Soormas vs Mohali Kings - 30 Aug 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive3008/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788152168~acl=/*~id=50269368470947912645048838195048~hmac=f8971da51a7116e39049eceffb2a6783f6b31d480b107a688b17a6ad7243c241"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive3008/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788155827~acl=/*~id=85976463762446332156075630068885~hmac=eb1244603171af0b37aa3fbb06a65cdc9c3b0fa7750877b117f0c270eacd4ad6"
         },
         {
             "event_category": "Cricket",

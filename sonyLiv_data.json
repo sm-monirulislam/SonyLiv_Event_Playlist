@@ -2,30 +2,42 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:49 PM 31-08-2026",
-    "total_matches": 12,
-    "live_match": 1,
+    "last_update_time": "03:00:46 PM 31-08-2026",
+    "total_matches": 14,
+    "live_match": 3,
     "matches": [
         {
             "event_category": "Cricket",
-            "contentId": "1090540966_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817348238770_JPL_26_Indore-Hawks-vs-Pune-Peshwas_live_landscape_thumb.jpg",
+            "contentId": "1090540967_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Indore Hawks vs Pune Peshwas - 31 Aug 2026 [ENG]",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788202567~acl=/*~id=73339722364860904971862702363982~hmac=a09129abdc5ab9ffc1902c917d0e402cb6ebd192f66f2458d69d30f4d31ebb16"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788209866~acl=/*~id=91674459874060142700934347718523~hmac=f100993e87ac43cc89b377979cf21a9a28e29923163467ffe6c8bd48937c1a74"
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022689/1787385247438643_AsianGame26_IND_vs_PAK_QF_Promo_landscape_thumb.jpg",
+            "contentId": "1090540967_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [PAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788209866~acl=/*~id=91674459874060142700934347718523~hmac=f100993e87ac43cc89b377979cf21a9a28e29923163467ffe6c8bd48937c1a74"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090540966_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817583100770_JPL_26_Mumbai-Kings-Xl-vs-Bengal-Indians_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "event_name": "JITO Premier League 2026",
+            "match_name": "Mumbai Kings XI vs Bengal Indians - 31 Aug 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788209866~acl=/*~id=91674459874060142700934347718523~hmac=f100993e87ac43cc89b377979cf21a9a28e29923163467ffe6c8bd48937c1a74"
         },
         {
             "event_category": "Cricket",
@@ -34,6 +46,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090539555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022689/1787385247438643_AsianGame26_IND_vs_PAK_QF_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

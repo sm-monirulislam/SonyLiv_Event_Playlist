@@ -3,16 +3,31 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-08-31 19:00:34 (BD Time)
-#  Channels Count: 3
+#  Last Updated: 2026-08-31 21:00:36 (BD Time)
+#  Channels Count: 8
 #=================================
 
+#EXTINF:-1 tvg-id="1090540973_ENG" tvg-name="Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg" group-title="Cricket",Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
+
+#EXTINF:-1 tvg-id="1090540973_HIN" tvg-name="Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg" group-title="Cricket",Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
+
+#EXTINF:-1 tvg-id="1090540973_TAM" tvg-name="Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg" group-title="Cricket",Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
+
+#EXTINF:-1 tvg-id="1090540973_TEL" tvg-name="Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg" group-title="Cricket",Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
+
+#EXTINF:-1 tvg-id="1090540973_KAN" tvg-name="Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg" group-title="Cricket",Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
+
 #EXTINF:-1 tvg-id="1090540967_HIN" tvg-name="Mohali Kings vs Bathinda Royals - 31 Aug 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg" group-title="Cricket",Mohali Kings vs Bathinda Royals - 31 Aug 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788223855~acl=/*~id=97608881447003473715234293602085~hmac=eff927eca604d457f0a23295bb3b6c9ad4d0d961a28ebe921b9008b2ae2f8915
+https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
 
 #EXTINF:-1 tvg-id="1090540967_PAN" tvg-name="Mohali Kings vs Bathinda Royals - 31 Aug 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg" group-title="Cricket",Mohali Kings vs Bathinda Royals - 31 Aug 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788223855~acl=/*~id=97608881447003473715234293602085~hmac=eff927eca604d457f0a23295bb3b6c9ad4d0d961a28ebe921b9008b2ae2f8915
+https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
 
 #EXTINF:-1 tvg-id="1090540966_ENG" tvg-name="Chennai Striker Kings vs Gujarat Gladiators - 31 Aug 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817924978770_JPL_26_Chennai-Striker-Kings-vs-Gujarat-Gladiators_live_landscape_thumb.jpg" group-title="Cricket",Chennai Striker Kings vs Gujarat Gladiators - 31 Aug 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788223855~acl=/*~id=97608881447003473715234293602085~hmac=eff927eca604d457f0a23295bb3b6c9ad4d0d961a28ebe921b9008b2ae2f8915
+https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788231177~acl=/*~id=01323686819937615463830335656451~hmac=1c90f7f9304ca113eb0bd39da6fae3a0291848fd5ea74a73c47379171ca96121
 

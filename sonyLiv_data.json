@@ -2,31 +2,31 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:39 PM 31-08-2026",
+    "last_update_time": "06:00:37 PM 31-08-2026",
     "total_matches": 14,
     "live_match": 3,
     "matches": [
         {
             "event_category": "Cricket",
             "contentId": "1090540967_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788220815~acl=/*~id=53412832359615368350154530885463~hmac=973088437f513df527b1eaf08edd807d67695906201e51f4a95efc65e5a65871"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090540967_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788220815~acl=/*~id=53412832359615368350154530885463~hmac=973088437f513df527b1eaf08edd807d67695906201e51f4a95efc65e5a65871"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Mumbai Kings XI vs Bengal Indians - 31 Aug 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788220815~acl=/*~id=53412832359615368350154530885463~hmac=973088437f513df527b1eaf08edd807d67695906201e51f4a95efc65e5a65871"
         },
         {
             "event_category": "Cricket",

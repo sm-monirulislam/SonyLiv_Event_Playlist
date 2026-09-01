@@ -2,10 +2,32 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:40 PM 01-09-2026",
-    "total_matches": 13,
-    "live_match": 1,
+    "last_update_time": "01:00:34 PM 01-09-2026",
+    "total_matches": 15,
+    "live_match": 3,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541059_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Ludhiana Lions - 1 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788288823~acl=/*~id=00532539811168796567890656326840~hmac=a27ab0fd8944cdd5c9ad1344e4cc5aebbdfca9ababd24993f75f94eac809eff9"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541059_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Ludhiana Lions - 1 Sep 2026 [PAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788288823~acl=/*~id=00532539811168796567890656326840~hmac=a27ab0fd8944cdd5c9ad1344e4cc5aebbdfca9ababd24993f75f94eac809eff9"
+        },
         {
             "event_category": "Cricket",
             "contentId": "1090541057_ENG",
@@ -15,7 +37,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Chennai Strikers vs Indore Hawks - 1 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788285176~acl=/*~id=96047812452425509657660347285313~hmac=b3ee910e8b447c266eacda0e30a15d1f59910803ab0ffc7054f3f44dc241df11"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788288823~acl=/*~id=00532539811168796567890656326840~hmac=a27ab0fd8944cdd5c9ad1344e4cc5aebbdfca9ababd24993f75f94eac809eff9"
         },
         {
             "event_category": "Cricket",

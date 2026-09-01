@@ -2,10 +2,65 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:36 PM 01-09-2026",
-    "total_matches": 16,
-    "live_match": 4,
+    "last_update_time": "08:00:45 PM 01-09-2026",
+    "total_matches": 21,
+    "live_match": 9,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541130_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Thailand Women - 1 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541130_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Thailand Women - 1 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541130_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Thailand Women - 1 Sep 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541130_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Thailand Women - 1 Sep 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541130_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Women's Asia Cup 2026",
+            "match_name": "Pakistan Women vs Thailand Women - 1 Sep 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
+        },
         {
             "event_category": "Cricket",
             "contentId": "1090541059_HIN",
@@ -15,7 +70,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Jalandhar Warriors vs Amritsar Soormas - 1 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788310771~acl=/*~id=96318979825964214389071034901086~hmac=75b65b0bc37b0e5de22e49e53337525c8258486607e237f01854b49ed4e3e06f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +81,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Jalandhar Warriors vs Amritsar Soormas - 1 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788310771~acl=/*~id=96318979825964214389071034901086~hmac=75b65b0bc37b0e5de22e49e53337525c8258486607e237f01854b49ed4e3e06f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +92,7 @@
             "event_name": "Ireland Women's Tour of England 2026",
             "match_name": "1st ODI - 1 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788310771~acl=/*~id=96318979825964214389071034901086~hmac=75b65b0bc37b0e5de22e49e53337525c8258486607e237f01854b49ed4e3e06f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +103,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Mumbai Sobo Stars vs Rajasthan Rajvansh - 1 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788310771~acl=/*~id=96318979825964214389071034901086~hmac=75b65b0bc37b0e5de22e49e53337525c8258486607e237f01854b49ed4e3e06f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788314427~acl=/*~id=38909356242667777001210764242243~hmac=a16a7ab54853f32cefeb9737c68f304312e6ceb7d5c9056f3e302ef14c94654e"
         },
         {
             "event_category": "Cricket",

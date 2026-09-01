@@ -3,31 +3,7 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-01 23:00:36 (BD Time)
-#  Channels Count: 8
+#  Last Updated: 2026-09-02 00:00:36 (BD Time)
+#  Channels Count: 0
 #=================================
-
-#EXTINF:-1 tvg-id="1090541130_ENG" tvg-name="Pakistan Women vs Thailand Women - 1 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Cricket",Pakistan Women vs Thailand Women - 1 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
-
-#EXTINF:-1 tvg-id="1090541130_HIN" tvg-name="Pakistan Women vs Thailand Women - 1 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Cricket",Pakistan Women vs Thailand Women - 1 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
-
-#EXTINF:-1 tvg-id="1090541130_TAM" tvg-name="Pakistan Women vs Thailand Women - 1 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Cricket",Pakistan Women vs Thailand Women - 1 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
-
-#EXTINF:-1 tvg-id="1090541130_TEL" tvg-name="Pakistan Women vs Thailand Women - 1 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Cricket",Pakistan Women vs Thailand Women - 1 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
-
-#EXTINF:-1 tvg-id="1090541130_KAN" tvg-name="Pakistan Women vs Thailand Women - 1 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023291/1788239301379738_ACW26_Pakistan_vs_Thailand_landscape_thumb.jpg" group-title="Cricket",Pakistan Women vs Thailand Women - 1 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
-
-#EXTINF:-1 tvg-id="1090541157_ENG" tvg-name="1st ODI - 1 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023294/1788245104544595_ENGW_vs_IREW_1odi_landscape.jpg" group-title="Cricket",1st ODI - 1 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
-
-#EXTINF:-1 tvg-id="1090541059_HIN" tvg-name="Jalandhar Warriors vs Amritsar Soormas - 1 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023324/1788272546407821_PT20_Jalandhar_Warriors_vs_Amritsar_Soormas_live_landscape_thumb.jpg" group-title="Cricket",Jalandhar Warriors vs Amritsar Soormas - 1 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
-
-#EXTINF:-1 tvg-id="1090541059_PAN" tvg-name="Jalandhar Warriors vs Amritsar Soormas - 1 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023324/1788272546407821_PT20_Jalandhar_Warriors_vs_Amritsar_Soormas_live_landscape_thumb.jpg" group-title="Cricket",Jalandhar Warriors vs Amritsar Soormas - 1 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788324827~acl=/*~id=52694400569952561123083699752989~hmac=b9731e37c177156628eb1db836005fe540ee4301d889493be88ba070edb3b661
 

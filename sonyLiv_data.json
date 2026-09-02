@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:42 PM 02-09-2026",
+    "last_update_time": "07:00:38 PM 02-09-2026",
     "total_matches": 15,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788393468~acl=/*~id=14303809216998105596025431726995~hmac=a1f6529f41d6acf7f5773c319bcdf43b86bba4856e01eced87cbea01527b3881"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788397113~acl=/*~id=10292581024206248127911146452418~hmac=99d9f7450e982860400cc6cf8f387d7e7445988893b4fe36baedfddafd61f26f"
         },
         {
             "event_category": "Cricket",
@@ -26,18 +26,18 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788393468~acl=/*~id=14303809216998105596025431726995~hmac=a1f6529f41d6acf7f5773c319bcdf43b86bba4856e01eced87cbea01527b3881"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788397113~acl=/*~id=10292581024206248127911146452418~hmac=99d9f7450e982860400cc6cf8f387d7e7445988893b4fe36baedfddafd61f26f"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541190_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023297/178824727602054_JPL_26_Indore-Hawks-vs-Chennai-Strikers_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023305/1788253435543955_JPL_26_Mumbai-Kings-vs-Pune-Peshwas_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
-            "match_name": "Indore Hawks vs Chennai Strikers - 2 Sep 2026 [ENG]",
+            "match_name": "Mumbai Kings vs Pune Peshwas - 2 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788393468~acl=/*~id=14303809216998105596025431726995~hmac=a1f6529f41d6acf7f5773c319bcdf43b86bba4856e01eced87cbea01527b3881"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788397113~acl=/*~id=10292581024206248127911146452418~hmac=99d9f7450e982860400cc6cf8f387d7e7445988893b4fe36baedfddafd61f26f"
         },
         {
             "event_category": "Cricket",

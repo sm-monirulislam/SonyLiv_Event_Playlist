@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:40 PM 02-09-2026",
-    "total_matches": 19,
-    "live_match": 7,
+    "last_update_time": "12:00:38 AM 03-09-2026",
+    "total_matches": 17,
+    "live_match": 5,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788411141~acl=/*~id=10230855714639471252978719596520~hmac=752cbe9b93c971730287eb43461c208f7e6de58f841ea95bb1f52c946d603418"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788411141~acl=/*~id=10230855714639471252978719596520~hmac=752cbe9b93c971730287eb43461c208f7e6de58f841ea95bb1f52c946d603418"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788411141~acl=/*~id=10230855714639471252978719596520~hmac=752cbe9b93c971730287eb43461c208f7e6de58f841ea95bb1f52c946d603418"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788411141~acl=/*~id=10230855714639471252978719596520~hmac=752cbe9b93c971730287eb43461c208f7e6de58f841ea95bb1f52c946d603418"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",
@@ -59,29 +59,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Indonesia Women - 2 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788411141~acl=/*~id=10230855714639471252978719596520~hmac=752cbe9b93c971730287eb43461c208f7e6de58f841ea95bb1f52c946d603418"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541196_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788411141~acl=/*~id=10230855714639471252978719596520~hmac=752cbe9b93c971730287eb43461c208f7e6de58f841ea95bb1f52c946d603418"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541196_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Fazilka Falcons vs Amritsar Soormas - 2 Sep 2026 [PAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788411141~acl=/*~id=10230855714639471252978719596520~hmac=752cbe9b93c971730287eb43461c208f7e6de58f841ea95bb1f52c946d603418"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788414792~acl=/*~id=72447625960506137128130309192933~hmac=7151e122697129dba6f8f23c7ece6b6501e5c7b1b69803d709f1ad985834e827"
         },
         {
             "event_category": "Cricket",

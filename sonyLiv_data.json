@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:57 PM 03-09-2026",
+    "last_update_time": "02:01:18 PM 03-09-2026",
     "total_matches": 17,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788462051~acl=/*~id=23475673510075382713557096624150~hmac=592561a508ece13986a6e181406121d59134dddf34fbfaa40d50509cbdcae7ec"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788465092~acl=/*~id=56043290142511430831039287608084~hmac=5fe3cbc1ca3920a2face3f28ca6fecd7860306fbc52fbff00261ddad37a35951"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788462051~acl=/*~id=23475673510075382713557096624150~hmac=592561a508ece13986a6e181406121d59134dddf34fbfaa40d50509cbdcae7ec"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788465092~acl=/*~id=56043290142511430831039287608084~hmac=5fe3cbc1ca3920a2face3f28ca6fecd7860306fbc52fbff00261ddad37a35951"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788462051~acl=/*~id=23475673510075382713557096624150~hmac=592561a508ece13986a6e181406121d59134dddf34fbfaa40d50509cbdcae7ec"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788465092~acl=/*~id=56043290142511430831039287608084~hmac=5fe3cbc1ca3920a2face3f28ca6fecd7860306fbc52fbff00261ddad37a35951"
         },
         {
             "event_category": "Cricket",

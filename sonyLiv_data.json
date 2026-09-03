@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:01:06 PM 03-09-2026",
+    "last_update_time": "05:01:09 PM 03-09-2026",
     "total_matches": 17,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788472389~acl=/*~id=71621369963756893730251534237540~hmac=9a47086fb41725f673a7737a1c039cbfd4529fef7cbd11b2a85c3a6725882e57"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788476053~acl=/*~id=39972782864802198519153677393650~hmac=aba4c88112c54a3aa1e11422ab348016e061e1d22886a89137518d658d82012c"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788472389~acl=/*~id=71621369963756893730251534237540~hmac=9a47086fb41725f673a7737a1c039cbfd4529fef7cbd11b2a85c3a6725882e57"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788476053~acl=/*~id=39972782864802198519153677393650~hmac=aba4c88112c54a3aa1e11422ab348016e061e1d22886a89137518d658d82012c"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788472389~acl=/*~id=71621369963756893730251534237540~hmac=9a47086fb41725f673a7737a1c039cbfd4529fef7cbd11b2a85c3a6725882e57"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788476053~acl=/*~id=39972782864802198519153677393650~hmac=aba4c88112c54a3aa1e11422ab348016e061e1d22886a89137518d658d82012c"
         },
         {
             "event_category": "Cricket",
@@ -122,7 +122,7 @@
         {
             "event_category": "Sports",
             "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022659/1787315010873577_AsianGames26_Promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023409/1788428195486416_asian-games-promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",

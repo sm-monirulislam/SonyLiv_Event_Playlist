@@ -3,10 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-03 12:01:07 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-09-03 13:00:57 (BD Time)
+#  Channels Count: 3
 #=================================
 
+#EXTINF:-1 tvg-id="1090541268_HIN" tvg-name="Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Cricket",Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788462051~acl=/*~id=23475673510075382713557096624150~hmac=592561a508ece13986a6e181406121d59134dddf34fbfaa40d50509cbdcae7ec
+
+#EXTINF:-1 tvg-id="1090541268_PAN" tvg-name="Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Cricket",Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788462051~acl=/*~id=23475673510075382713557096624150~hmac=592561a508ece13986a6e181406121d59134dddf34fbfaa40d50509cbdcae7ec
+
 #EXTINF:-1 tvg-id="1090541267_ENG" tvg-name="Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Cricket",Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788457794~acl=/*~id=10941324751998277672286473564678~hmac=56d334580c3207640cfc3fe8445adda8ad553279c10c84271a6a35ba009b39ad
+https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788462051~acl=/*~id=23475673510075382713557096624150~hmac=592561a508ece13986a6e181406121d59134dddf34fbfaa40d50509cbdcae7ec
 

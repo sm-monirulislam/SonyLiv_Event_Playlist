@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:01:00 PM 04-09-2026",
+    "last_update_time": "05:00:49 PM 04-09-2026",
     "total_matches": 17,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788558729~acl=/*~id=48739287630859608591037424801243~hmac=511f77500b4d376564c24244048430d8301dd2c5d070cb964a795246ba1d5a38"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788558729~acl=/*~id=48739287630859608591037424801243~hmac=511f77500b4d376564c24244048430d8301dd2c5d070cb964a795246ba1d5a38"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980"
         },
         {
             "event_category": "Cricket",

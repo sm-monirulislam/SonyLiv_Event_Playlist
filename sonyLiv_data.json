@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:49 PM 04-09-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "06:01:00 PM 04-09-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788566022~acl=/*~id=65678843577862929123274470156517~hmac=f0e6b4b449b364a5f5d54ee472169d3c3688ed91d7b21a27846b6a39ba14d5fb"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,18 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562372~acl=/*~id=99450949969362070041353293800057~hmac=0e82350efb1e218b25cde9fb5d59066aa840380ec9102d1d23f61887ae636980"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788566022~acl=/*~id=65678843577862929123274470156517~hmac=f0e6b4b449b364a5f5d54ee472169d3c3688ed91d7b21a27846b6a39ba14d5fb"
+        },
+        {
+            "event_category": "Golf",
+            "contentId": "1090541356_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Omega European Masters - Day 2 - 4 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788566022~acl=/*~id=65678843577862929123274470156517~hmac=f0e6b4b449b364a5f5d54ee472169d3c3688ed91d7b21a27846b6a39ba14d5fb"
         },
         {
             "event_category": "Cricket",

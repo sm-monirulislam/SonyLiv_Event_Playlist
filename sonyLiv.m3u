@@ -3,16 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-06 00:01:03 (BD Time)
-#  Channels Count: 3
+#  Last Updated: 2026-09-06 01:00:49 (BD Time)
+#  Channels Count: 5
 #=================================
 
-#EXTINF:-1 tvg-id="1090541487_HIN" tvg-name="Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418830046255_PT20_Jalandhar-Warriors-vs-Mohali-Kings_live_landscape_thumb.jpg" group-title="Cricket",Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788674332~acl=/*~id=33205038491547225771165440307943~hmac=a50459e0b62e3c8b55ed3a263d6de9faf791c38880790c88d38d6cea52e4ae99
+#EXTINF:-1 tvg-id="1090541574_ENG" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788677984~acl=/*~id=53249989046398054683191897391152~hmac=15f82f71c22f165624ca94018ad54d29f407395adf95caa5735b3a15c494c411
 
-#EXTINF:-1 tvg-id="1090541487_PAN" tvg-name="Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418830046255_PT20_Jalandhar-Warriors-vs-Mohali-Kings_live_landscape_thumb.jpg" group-title="Cricket",Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788674332~acl=/*~id=33205038491547225771165440307943~hmac=a50459e0b62e3c8b55ed3a263d6de9faf791c38880790c88d38d6cea52e4ae99
+#EXTINF:-1 tvg-id="1090541574_HIN" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788677984~acl=/*~id=53249989046398054683191897391152~hmac=15f82f71c22f165624ca94018ad54d29f407395adf95caa5735b3a15c494c411
 
-#EXTINF:-1 tvg-id="1090541528_ENG" tvg-name="Pune Peshwas vs Rajasthan Rajvansh - Final - 5 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023522/1788600066961184_JPL_Final_Pune-Peshwas-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Cricket",Pune Peshwas vs Rajasthan Rajvansh - Final - 5 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022319/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788674332~acl=/*~id=33205038491547225771165440307943~hmac=a50459e0b62e3c8b55ed3a263d6de9faf791c38880790c88d38d6cea52e4ae99
+#EXTINF:-1 tvg-id="1090541574_TAM" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788677984~acl=/*~id=53249989046398054683191897391152~hmac=15f82f71c22f165624ca94018ad54d29f407395adf95caa5735b3a15c494c411
+
+#EXTINF:-1 tvg-id="1090541574_TEL" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788677984~acl=/*~id=53249989046398054683191897391152~hmac=15f82f71c22f165624ca94018ad54d29f407395adf95caa5735b3a15c494c411
+
+#EXTINF:-1 tvg-id="1090541574_KAN" tvg-name="UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788677984~acl=/*~id=53249989046398054683191897391152~hmac=15f82f71c22f165624ca94018ad54d29f407395adf95caa5735b3a15c494c411
 

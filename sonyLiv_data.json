@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:01:06 PM 05-09-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "05:00:36 PM 05-09-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788648691~acl=/*~id=99906831355039391282221785151838~hmac=49043f691c4fb8e3851e9cc6cc008af8623d4322762906acfdfa0b83de701615"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,18 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788648691~acl=/*~id=99906831355039391282221785151838~hmac=49043f691c4fb8e3851e9cc6cc008af8623d4322762906acfdfa0b83de701615"
+        },
+        {
+            "event_category": "Golf",
+            "contentId": "1090541489_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341899788287_DP-World-2026-Omega-European-Masters_Day3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Omega European Masters - Day 3 - 5 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788648691~acl=/*~id=99906831355039391282221785151838~hmac=49043f691c4fb8e3851e9cc6cc008af8623d4322762906acfdfa0b83de701615"
         },
         {
             "event_category": "Cricket",
@@ -61,7 +72,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023426/1788441987009355_WAC26_Sri_Lanka_vs_Bangladesh_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026",

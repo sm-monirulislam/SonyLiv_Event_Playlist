@@ -2,10 +2,21 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:37 AM 05-09-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "11:00:54 AM 05-09-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541486_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023514/1788552191862987_JPL_Qualifier2_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "JITO Premier League 2026",
+            "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - Qualifier 2 - 5 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788627390~acl=/*~id=30255306937353681495106324566035~hmac=32aaa41c68a4e7ec0bc6d48e259953ddddca1f18cbad2f613bd663eebeb840df"
+        },
         {
             "event_category": "Cricket",
             "contentId": 1090540064,

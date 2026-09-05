@@ -2,65 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:54 PM 05-09-2026",
-    "total_matches": 23,
-    "live_match": 8,
+    "last_update_time": "12:01:03 AM 06-09-2026",
+    "total_matches": 18,
+    "live_match": 3,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541497_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023393/17883759137558_AWC26_India_vs_Pakistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Pakistan Women - 5 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541497_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023393/17883759137558_AWC26_India_vs_Pakistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Pakistan Women - 5 Sep 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541497_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023393/17883759137558_AWC26_India_vs_Pakistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Pakistan Women - 5 Sep 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541497_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023393/17883759137558_AWC26_India_vs_Pakistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Pakistan Women - 5 Sep 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541497_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023393/17883759137558_AWC26_India_vs_Pakistan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Women's Asia Cup 2026",
-            "match_name": "India Women vs Pakistan Women - 5 Sep 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
-        },
         {
             "event_category": "Cricket",
             "contentId": "1090541487_HIN",
@@ -70,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788674332~acl=/*~id=33205038491547225771165440307943~hmac=a50459e0b62e3c8b55ed3a263d6de9faf791c38880790c88d38d6cea52e4ae99"
         },
         {
             "event_category": "Cricket",
@@ -81,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Jalandhar Warriors vs Mohali Kings- 5 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788674332~acl=/*~id=33205038491547225771165440307943~hmac=a50459e0b62e3c8b55ed3a263d6de9faf791c38880790c88d38d6cea52e4ae99"
         },
         {
             "event_category": "Cricket",
@@ -92,7 +37,7 @@
             "event_name": "JITO Premier League 2026",
             "match_name": "Pune Peshwas vs Rajasthan Rajvansh - Final - 5 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788670672~acl=/*~id=29705336600722023228476280415808~hmac=66891fa81ec68a8080cd6fb0b6dfaad44edb0a401ad76bd38f63511b2baa81cb"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/Criclive0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788674332~acl=/*~id=33205038491547225771165440307943~hmac=a50459e0b62e3c8b55ed3a263d6de9faf791c38880790c88d38d6cea52e4ae99"
         },
         {
             "event_category": "Sports",

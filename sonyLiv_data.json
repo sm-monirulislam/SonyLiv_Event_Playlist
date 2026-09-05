@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:42 AM 06-09-2026",
+    "last_update_time": "04:00:42 AM 06-09-2026",
     "total_matches": 20,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UFC Fight Night - Hooker vs Parnasse",
             "match_name": "UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788684660~acl=/*~id=50168025526402853565621310577109~hmac=894a3be8be88d03801bbcbb09510cd41a4e9e2c9ba5c68f904200e6b23034991"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea"
         },
         {
             "event_category": "Fight Sports",
@@ -26,7 +26,7 @@
             "event_name": "UFC Fight Night - Hooker vs Parnasse",
             "match_name": "UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788684660~acl=/*~id=50168025526402853565621310577109~hmac=894a3be8be88d03801bbcbb09510cd41a4e9e2c9ba5c68f904200e6b23034991"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea"
         },
         {
             "event_category": "Fight Sports",
@@ -37,7 +37,7 @@
             "event_name": "UFC Fight Night - Hooker vs Parnasse",
             "match_name": "UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788684660~acl=/*~id=50168025526402853565621310577109~hmac=894a3be8be88d03801bbcbb09510cd41a4e9e2c9ba5c68f904200e6b23034991"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea"
         },
         {
             "event_category": "Fight Sports",
@@ -48,7 +48,7 @@
             "event_name": "UFC Fight Night - Hooker vs Parnasse",
             "match_name": "UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788684660~acl=/*~id=50168025526402853565621310577109~hmac=894a3be8be88d03801bbcbb09510cd41a4e9e2c9ba5c68f904200e6b23034991"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea"
         },
         {
             "event_category": "Fight Sports",
@@ -59,7 +59,7 @@
             "event_name": "UFC Fight Night - Hooker vs Parnasse",
             "match_name": "UFC Fight Night - Hooker vs Parnasse - 6 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788684660~acl=/*~id=50168025526402853565621310577109~hmac=894a3be8be88d03801bbcbb09510cd41a4e9e2c9ba5c68f904200e6b23034991"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788688302~acl=/*~id=16227404679689418716502835281578~hmac=2ebca464fad4d856bd6b6141a4b728ce36c56dc3445ad2296e821c1fbee413ea"
         },
         {
             "event_category": "Sports",

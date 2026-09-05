@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:36 PM 05-09-2026",
-    "total_matches": 18,
+    "last_update_time": "06:00:40 PM 05-09-2026",
+    "total_matches": 19,
     "live_match": 3,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788648691~acl=/*~id=99906831355039391282221785151838~hmac=49043f691c4fb8e3851e9cc6cc008af8623d4322762906acfdfa0b83de701615"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788652341~acl=/*~id=15168041531960988597915209207901~hmac=2be074b046bf6aed81bbcff7c81bafd3019c2862467e1095bdae5f8c764b20b7"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Bathinda Royals - 5 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788648691~acl=/*~id=99906831355039391282221785151838~hmac=49043f691c4fb8e3851e9cc6cc008af8623d4322762906acfdfa0b83de701615"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788652341~acl=/*~id=15168041531960988597915209207901~hmac=2be074b046bf6aed81bbcff7c81bafd3019c2862467e1095bdae5f8c764b20b7"
         },
         {
             "event_category": "Golf",
@@ -37,7 +37,7 @@
             "event_name": "DP World Tour",
             "match_name": "Omega European Masters - Day 3 - 5 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788648691~acl=/*~id=99906831355039391282221785151838~hmac=49043f691c4fb8e3851e9cc6cc008af8623d4322762906acfdfa0b83de701615"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788652341~acl=/*~id=15168041531960988597915209207901~hmac=2be074b046bf6aed81bbcff7c81bafd3019c2862467e1095bdae5f8c764b20b7"
         },
         {
             "event_category": "Cricket",
@@ -56,6 +56,26 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090541426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859150945674_UCL_26_Real-Madrid-vs-Inter_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Real Madrid vs Inter Milan - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090541423,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859220175574_UCL_26_Liverpool-vs-Atletico_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -166,16 +186,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League Matchday 1",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090541426,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859150945674_UCL_26_Real-Madrid-vs-Inter_promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Inter Milan - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

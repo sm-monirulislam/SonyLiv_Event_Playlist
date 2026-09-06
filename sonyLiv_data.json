@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:43 PM 06-09-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "12:01:12 AM 07-09-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Bangladesh Women - 6 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788757028~acl=/*~id=61960274180600410476972023050831~hmac=0f95e5f8ebdc078d0722069b218ab3ae2b11896963525a46b0f337b155dccece"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788760076~acl=/*~id=43995174764703471922156083176924~hmac=1a9520f6818a9557b567f4b7a306f6d22dd3bcfc41f42ea59fc36d8ac312335d"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Bangladesh Women - 6 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788757028~acl=/*~id=61960274180600410476972023050831~hmac=0f95e5f8ebdc078d0722069b218ab3ae2b11896963525a46b0f337b155dccece"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788760076~acl=/*~id=43995174764703471922156083176924~hmac=1a9520f6818a9557b567f4b7a306f6d22dd3bcfc41f42ea59fc36d8ac312335d"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Bangladesh Women - 6 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788757028~acl=/*~id=61960274180600410476972023050831~hmac=0f95e5f8ebdc078d0722069b218ab3ae2b11896963525a46b0f337b155dccece"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788760076~acl=/*~id=43995174764703471922156083176924~hmac=1a9520f6818a9557b567f4b7a306f6d22dd3bcfc41f42ea59fc36d8ac312335d"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Bangladesh Women - 6 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788757028~acl=/*~id=61960274180600410476972023050831~hmac=0f95e5f8ebdc078d0722069b218ab3ae2b11896963525a46b0f337b155dccece"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788760076~acl=/*~id=43995174764703471922156083176924~hmac=1a9520f6818a9557b567f4b7a306f6d22dd3bcfc41f42ea59fc36d8ac312335d"
         },
         {
             "event_category": "Cricket",
@@ -59,29 +59,17 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Bangladesh Women - 6 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788757028~acl=/*~id=61960274180600410476972023050831~hmac=0f95e5f8ebdc078d0722069b218ab3ae2b11896963525a46b0f337b155dccece"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788760076~acl=/*~id=43995174764703471922156083176924~hmac=1a9520f6818a9557b567f4b7a306f6d22dd3bcfc41f42ea59fc36d8ac312335d"
         },
         {
-            "event_category": "Cricket",
-            "contentId": "1090541579_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": " Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788757028~acl=/*~id=61960274180600410476972023050831~hmac=0f95e5f8ebdc078d0722069b218ab3ae2b11896963525a46b0f337b155dccece"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541579_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": " Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026 [PAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788757028~acl=/*~id=61960274180600410476972023050831~hmac=0f95e5f8ebdc078d0722069b218ab3ae2b11896963525a46b0f337b155dccece"
+            "event_category": "Football",
+            "contentId": 1090541422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League Matchday 1",
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Sports",
@@ -210,16 +198,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand ",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090541422,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League Matchday 1",
             "status": "Upcoming",
             "stream_link": ""
         },

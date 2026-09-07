@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:47 AM 07-09-2026",
+    "last_update_time": "07:00:40 AM 07-09-2026",
     "total_matches": 20,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "WWE",
             "match_name": "Sunday Night Main Event - 7 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788785538~acl=/*~id=86294150636561974226080470416299~hmac=65fdad96cd5c414907c7c3fff55d25c9ab40b7e5b66104487aefce52f438ddb3"
         },
         {
             "event_category": "Sport",
@@ -26,7 +26,7 @@
             "event_name": "WWE",
             "match_name": "Sunday Night Main Event - 7 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788785538~acl=/*~id=86294150636561974226080470416299~hmac=65fdad96cd5c414907c7c3fff55d25c9ab40b7e5b66104487aefce52f438ddb3"
         },
         {
             "event_category": "Sport",
@@ -37,7 +37,7 @@
             "event_name": "WWE",
             "match_name": "Sunday Night Main Event - 7 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788785538~acl=/*~id=86294150636561974226080470416299~hmac=65fdad96cd5c414907c7c3fff55d25c9ab40b7e5b66104487aefce52f438ddb3"
         },
         {
             "event_category": "Sport",
@@ -48,7 +48,7 @@
             "event_name": "WWE",
             "match_name": "Sunday Night Main Event - 7 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788785538~acl=/*~id=86294150636561974226080470416299~hmac=65fdad96cd5c414907c7c3fff55d25c9ab40b7e5b66104487aefce52f438ddb3"
         },
         {
             "event_category": "Sport",
@@ -59,7 +59,7 @@
             "event_name": "WWE",
             "match_name": "Sunday Night Main Event - 7 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788781887~acl=/*~id=83744484770395900188393875597975~hmac=a4578fa11fb2eb51ac439235fc2b61ab6e76819ebb46674f7f62246bea91307f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788785538~acl=/*~id=86294150636561974226080470416299~hmac=65fdad96cd5c414907c7c3fff55d25c9ab40b7e5b66104487aefce52f438ddb3"
         },
         {
             "event_category": "Football",

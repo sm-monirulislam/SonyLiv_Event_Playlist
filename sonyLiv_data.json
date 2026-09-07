@@ -2,31 +2,31 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:40 PM 07-09-2026",
+    "last_update_time": "07:00:53 PM 07-09-2026",
     "total_matches": 17,
     "live_match": 2,
     "matches": [
         {
             "event_category": "Cricket",
             "contentId": "1090541606_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Mohali Kings vs Ludhiana Lions - 7 Sep 2026 [HIN]",
+            "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788825631~acl=/*~id=78473373840216645655145371969325~hmac=3b2f9f8463e7210ea0ae6837e64bd24b1b83ca6582a1f227b3184a8e9508f5b0"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788828669~acl=/*~id=33900668882052965460442767000612~hmac=75f6abe5b450f06d70dcce583a800f0c9ae10afc055f25a544c5ba3e6cc9a412"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541606_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Mohali Kings vs Ludhiana Lions - 7 Sep 2026 [PAN]",
+            "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788825631~acl=/*~id=78473373840216645655145371969325~hmac=3b2f9f8463e7210ea0ae6837e64bd24b1b83ca6582a1f227b3184a8e9508f5b0"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788828669~acl=/*~id=33900668882052965460442767000612~hmac=75f6abe5b450f06d70dcce583a800f0c9ae10afc055f25a544c5ba3e6cc9a412"
         },
         {
             "event_category": "Football",
@@ -170,11 +170,11 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090541424,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442143877189_ucl_napoli_vs_arsenal_landscape.jpg",
+            "contentId": 1090541742,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023618/1788782351186838_UCL---Porto-vs-Man-City-Thumbs_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Napoli vs Arsenal - UEFA Champions League 2026-27",
+            "event_name": "Upcoming - Porto vs Manchester City - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         }

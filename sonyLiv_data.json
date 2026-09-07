@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:53 PM 07-09-2026",
+    "last_update_time": "08:00:46 PM 07-09-2026",
     "total_matches": 17,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788828669~acl=/*~id=33900668882052965460442767000612~hmac=75f6abe5b450f06d70dcce583a800f0c9ae10afc055f25a544c5ba3e6cc9a412"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788832314~acl=/*~id=32593574276494653493544700973711~hmac=5b0c59538b966b741f7603e42bdbde8a631a66ba81a4b9b85f40f58de1b6bac7"
         },
         {
             "event_category": "Cricket",
@@ -26,15 +26,25 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788828669~acl=/*~id=33900668882052965460442767000612~hmac=75f6abe5b450f06d70dcce583a800f0c9ae10afc055f25a544c5ba3e6cc9a412"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788832314~acl=/*~id=32593574276494653493544700973711~hmac=5b0c59538b966b741f7603e42bdbde8a631a66ba81a4b9b85f40f58de1b6bac7"
         },
         {
             "event_category": "Football",
-            "contentId": 1090541422,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
+            "contentId": 1090541426,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859150945674_UCL_26_Real-Madrid-vs-Inter_promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League Matchday 1",
+            "event_name": "Upcoming - Real Madrid vs Inter Milan - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090541423,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698153784480_UCL2627_MD1_liverpool_vs_atletico_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -50,21 +60,11 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090541426,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859150945674_UCL_26_Real-Madrid-vs-Inter_promo_DDT_landscape_thumb.jpg",
+            "contentId": 1090541742,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023619/1788784627467392_UCL2627_MD1_Porto_vs_Man_city_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Real Madrid vs Inter Milan - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090541419,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
+            "event_name": "Upcoming - Porto vs Manchester City - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -80,11 +80,11 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090541423,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698153784480_UCL2627_MD1_liverpool_vs_atletico_dated_landscape_thumb.jpg",
+            "contentId": 1090541419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
+            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -170,11 +170,11 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090541742,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023618/1788782351186838_UCL---Porto-vs-Man-City-Thumbs_landscape.jpg",
+            "contentId": 1090541422,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788441889883189_UCL_md_1_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Porto vs Manchester City - UEFA Champions League 2026-27",
+            "event_name": "Upcoming - UEFA Champions League Matchday 1",
             "status": "Upcoming",
             "stream_link": ""
         }

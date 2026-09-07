@@ -2,10 +2,32 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:55 PM 07-09-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "01:00:33 PM 07-09-2026",
+    "total_matches": 17,
+    "live_match": 2,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541606_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Mohali Kings vs Ludhiana Lions - 7 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788807364~acl=/*~id=33741116855123610941465738110610~hmac=743847d234e330cb278eacf0afb8b6c4de24525fc9071108fda81be50c73d3e9"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541606_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023528/1788610858749325_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Mohali Kings vs Ludhiana Lions - 7 Sep 2026 [PAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788807364~acl=/*~id=33741116855123610941465738110610~hmac=743847d234e330cb278eacf0afb8b6c4de24525fc9071108fda81be50c73d3e9"
+        },
         {
             "event_category": "Football",
             "contentId": 1090541422,

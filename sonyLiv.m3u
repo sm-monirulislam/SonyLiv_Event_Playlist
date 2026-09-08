@@ -3,28 +3,31 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-09 00:00:53 (BD Time)
-#  Channels Count: 7
+#  Last Updated: 2026-09-09 01:01:02 (BD Time)
+#  Channels Count: 8
 #=================================
 
-#EXTINF:-1 tvg-id="1090541696_ENG" tvg-name="Club Brugge vs Aston Villa - MD 1 - 8 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788511646779822_UCL_26_MD1_Club-Brugge-vs-Aston-Villa_live_landscape_thumb.jpg" group-title="Football",Club Brugge vs Aston Villa - MD 1 - 8 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98
+#EXTINF:-1 tvg-id="1090541798_ENG" tvg-name="Real Madrid vs Inter - MD 1 - 9 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Football",Real Madrid vs Inter - MD 1 - 9 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
 
-#EXTINF:-1 tvg-id="1090541726_ENG" tvg-name="Bangladesh Women vs UAE Women - 8 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",Bangladesh Women vs UAE Women - 8 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98
+#EXTINF:-1 tvg-id="1090541798_HIN" tvg-name="Real Madrid vs Inter - MD 1 - 9 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Football",Real Madrid vs Inter - MD 1 - 9 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022320/footlive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
 
-#EXTINF:-1 tvg-id="1090541726_HIN" tvg-name="Bangladesh Women vs UAE Women - 8 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",Bangladesh Women vs UAE Women - 8 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98
+#EXTINF:-1 tvg-id="1090541798_TAM" tvg-name="Real Madrid vs Inter - MD 1 - 9 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Football",Real Madrid vs Inter - MD 1 - 9 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
 
-#EXTINF:-1 tvg-id="1090541726_TAM" tvg-name="Bangladesh Women vs UAE Women - 8 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",Bangladesh Women vs UAE Women - 8 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98
+#EXTINF:-1 tvg-id="1090541798_TEL" tvg-name="Real Madrid vs Inter - MD 1 - 9 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Football",Real Madrid vs Inter - MD 1 - 9 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022319/footlive0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
 
-#EXTINF:-1 tvg-id="1090541726_TEL" tvg-name="Bangladesh Women vs UAE Women - 8 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",Bangladesh Women vs UAE Women - 8 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98
+#EXTINF:-1 tvg-id="1090541798_KAN" tvg-name="Real Madrid vs Inter - MD 1 - 9 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Football",Real Madrid vs Inter - MD 1 - 9 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
 
-#EXTINF:-1 tvg-id="1090541726_KAN" tvg-name="Bangladesh Women vs UAE Women - 8 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",Bangladesh Women vs UAE Women - 8 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98
+#EXTINF:-1 tvg-id="1090541700_ENG" tvg-name="Porto vs Man City - MD 1 - 9 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788515051391822_UCL_26_MD1_Porto-vs-Manchester-City_live_landscape_thumb.jpg" group-title="Football",Porto vs Man City - MD 1 - 9 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
 
-#EXTINF:-1 tvg-id="1090541697_ENG" tvg-name="AEK Athens vs LASK - MD 1 - 8 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513038876822_UCL_26_MD1_AEK-Athens-vs-LASK_live_landscape_thumb.jpg" group-title="Football",AEK Athens vs LASK - MD 1 - 8 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98
+#EXTINF:-1 tvg-id="1090541701_ENG" tvg-name="Dortmund vs Villarreal - MD 1 - 9 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788516657640822_UCL_26_MD1_Dortmund-vs-Villarreal_live_landscape_thumb.jpg" group-title="Football",Dortmund vs Villarreal - MD 1 - 9 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
+
+#EXTINF:-1 tvg-id="1090541699_ENG" tvg-name="Lille vs Real Betis - MD 1 - 9 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788514202693822_UCL_26_MD1_Lille-vs-Real-Betis_live_landscape_thumb.jpg" group-title="Football",Lille vs Real Betis - MD 1 - 9 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788936780~acl=/*~id=41864743591018930112146528795301~hmac=7093b38727aa022a506e88274d8072175df976565908c70f4d3cbb1136f44516
 

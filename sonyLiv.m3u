@@ -3,13 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-08 17:00:54 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-09-08 19:01:02 (BD Time)
+#  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="1090541702_HIN" tvg-name="Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="Cricket",Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788908177~acl=/*~id=33991990301663817653911872496104~hmac=a73f16c95020809bb89e7915a62b090e06b3fbd41664de9f7bec6a28e75830c7
+#EXTINF:-1 tvg-id="1090541702_HIN" tvg-name="Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Cricket",Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788915467~acl=/*~id=17728927078056198523312839523587~hmac=1e6c2eda212a8d9430c03d4356e1163a9e6a9ebad1975b468b41a21350bbf3fc
 
-#EXTINF:-1 tvg-id="1090541702_PAN" tvg-name="Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="Cricket",Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788908177~acl=/*~id=33991990301663817653911872496104~hmac=a73f16c95020809bb89e7915a62b090e06b3fbd41664de9f7bec6a28e75830c7
+#EXTINF:-1 tvg-id="1090541702_PAN" tvg-name="Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg" group-title="Cricket",Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788915467~acl=/*~id=17728927078056198523312839523587~hmac=1e6c2eda212a8d9430c03d4356e1163a9e6a9ebad1975b468b41a21350bbf3fc
+
+#EXTINF:-1 tvg-id="1090541752_ENG" tvg-name="Club Brugge vs Aston Villa - 8 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Football",Club Brugge vs Aston Villa - 8 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788915467~acl=/*~id=17728927078056198523312839523587~hmac=1e6c2eda212a8d9430c03d4356e1163a9e6a9ebad1975b468b41a21350bbf3fc
 

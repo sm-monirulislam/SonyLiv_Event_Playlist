@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:55 PM 08-09-2026",
-    "total_matches": 23,
-    "live_match": 8,
+    "last_update_time": "10:01:00 PM 08-09-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Bangladesh Women vs UAE Women - 8 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788926433~acl=/*~id=36252130931848490736399557391631~hmac=0066d138ec4d202510eaca9f72f4dcf12026efb818c2efbf6eb5fa0315944499"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Bangladesh Women vs UAE Women - 8 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788926433~acl=/*~id=36252130931848490736399557391631~hmac=0066d138ec4d202510eaca9f72f4dcf12026efb818c2efbf6eb5fa0315944499"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Bangladesh Women vs UAE Women - 8 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788926433~acl=/*~id=36252130931848490736399557391631~hmac=0066d138ec4d202510eaca9f72f4dcf12026efb818c2efbf6eb5fa0315944499"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Bangladesh Women vs UAE Women - 8 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788926433~acl=/*~id=36252130931848490736399557391631~hmac=0066d138ec4d202510eaca9f72f4dcf12026efb818c2efbf6eb5fa0315944499"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Bangladesh Women vs UAE Women - 8 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788926433~acl=/*~id=36252130931848490736399557391631~hmac=0066d138ec4d202510eaca9f72f4dcf12026efb818c2efbf6eb5fa0315944499"
         },
         {
             "event_category": "Cricket",
@@ -70,7 +70,7 @@
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Jalandhar Warriors vs Ludhiana Lions - 8 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788926433~acl=/*~id=36252130931848490736399557391631~hmac=0066d138ec4d202510eaca9f72f4dcf12026efb818c2efbf6eb5fa0315944499"
         },
         {
             "event_category": "Cricket",
@@ -81,18 +81,7 @@
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Jalandhar Warriors vs Ludhiana Lions - 8 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090541755_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023588/1788716274000472_UYL26_Real_Madrid_vs_Inter_Milan_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2026-27",
-            "match_name": "Real Madrid vs Inter - 8 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788922773~acl=/*~id=34782814346194020441107924041589~hmac=828cc3a31396beec6c08a2bc0b9f8570c9821540ead345242de505906fd2098d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788926433~acl=/*~id=36252130931848490736399557391631~hmac=0066d138ec4d202510eaca9f72f4dcf12026efb818c2efbf6eb5fa0315944499"
         },
         {
             "event_category": "Football",

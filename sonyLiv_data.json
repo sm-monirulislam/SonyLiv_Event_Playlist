@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:40 AM 09-09-2026",
+    "last_update_time": "06:00:47 AM 09-09-2026",
     "total_matches": 15,
     "live_match": 0,
     "matches": [
@@ -27,22 +27,22 @@
             "stream_link": ""
         },
         {
-            "event_category": "Football",
-            "contentId": 1090541419,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
             "event_category": "Cricket",
             "contentId": 1090539554,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023526/1788608962567948_eng_vs_pak_3rd_d1_test_promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of England 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090541419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

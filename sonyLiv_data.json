@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:01:18 PM 09-09-2026",
+    "last_update_time": "03:01:08 PM 09-09-2026",
     "total_matches": 17,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788984013~acl=/*~id=16900654479492871156180991167091~hmac=3f4a8a8a8c1857b87b973b243532d72834aba6d750e7825db0531c12a835d77c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788987650~acl=/*~id=53977174778748346987600685566769~hmac=ad84cb617b65b0b3e6b646f76960988666a47eb34b9cc18ccce762b49828040d"
         },
         {
             "event_category": "Cricket",
@@ -26,15 +26,25 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788984013~acl=/*~id=16900654479492871156180991167091~hmac=3f4a8a8a8c1857b87b973b243532d72834aba6d750e7825db0531c12a835d77c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788987650~acl=/*~id=53977174778748346987600685566769~hmac=ad84cb617b65b0b3e6b646f76960988666a47eb34b9cc18ccce762b49828040d"
         },
         {
             "event_category": "Football",
-            "contentId": 1090541423,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698125388480_UCL2627_MD1_liverpool_vs_atletico_tonight_landscape_thumb.jpg",
+            "contentId": 1090541419,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788688066368563_UCL2627_MD1_Barcelona_vs_Feyenoord_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
+            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090540064,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023694/1788931296116486_WAC26_SF_India_vs_Bangladesh_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -50,16 +60,6 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090540064,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023694/1788931296116486_WAC26_SF_India_vs_Bangladesh_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Women's Asia Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
             "contentId": 1090539554,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023526/1788608962567948_eng_vs_pak_3rd_d1_test_promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
@@ -70,11 +70,11 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090541419,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788688066368563_UCL2627_MD1_Barcelona_vs_Feyenoord_tonight_landscape_thumb.jpg",
+            "contentId": 1090541423,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698125388480_UCL2627_MD1_liverpool_vs_atletico_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
+            "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -3,7 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-09 12:00:54 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-09-09 14:01:18 (BD Time)
+#  Channels Count: 2
 #=================================
+
+#EXTINF:-1 tvg-id="1090541733_HIN" tvg-name="Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Cricket",Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788984013~acl=/*~id=16900654479492871156180991167091~hmac=3f4a8a8a8c1857b87b973b243532d72834aba6d750e7825db0531c12a835d77c
+
+#EXTINF:-1 tvg-id="1090541733_PAN" tvg-name="Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg" group-title="Cricket",Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788984013~acl=/*~id=16900654479492871156180991167091~hmac=3f4a8a8a8c1857b87b973b243532d72834aba6d750e7825db0531c12a835d77c
 

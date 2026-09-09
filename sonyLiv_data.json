@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:01:30 PM 09-09-2026",
+    "last_update_time": "06:01:00 PM 09-09-2026",
     "total_matches": 18,
     "live_match": 3,
     "matches": [
@@ -15,29 +15,29 @@
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 1 - 3rd Test - 9 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788990693~acl=/*~id=54360569754677080625513395894834~hmac=3a88b8db2a279a7068812f4bd2f23e1b1af73c94269985e15d3bc0aacd8215af"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788997968~acl=/*~id=24079759654291429165235429868628~hmac=a0ecd724f686fec84853f8c45d863b59cd7459ba53197a6583b4ff38f7d908df"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541733_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]",
+            "match_name": "Mohali Kings vs Bathinda Royals - 9 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788990693~acl=/*~id=54360569754677080625513395894834~hmac=3a88b8db2a279a7068812f4bd2f23e1b1af73c94269985e15d3bc0aacd8215af"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788997968~acl=/*~id=24079759654291429165235429868628~hmac=a0ecd724f686fec84853f8c45d863b59cd7459ba53197a6583b4ff38f7d908df"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541733_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]",
+            "match_name": "Mohali Kings vs Bathinda Royals - 9 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788990693~acl=/*~id=54360569754677080625513395894834~hmac=3a88b8db2a279a7068812f4bd2f23e1b1af73c94269985e15d3bc0aacd8215af"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788997968~acl=/*~id=24079759654291429165235429868628~hmac=a0ecd724f686fec84853f8c45d863b59cd7459ba53197a6583b4ff38f7d908df"
         },
         {
             "event_category": "Football",
@@ -76,6 +76,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090541424,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788685890771563_UCL2627_MD1_Napoli_vs_Arsenal_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Napoli vs Arsenal - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -161,16 +171,6 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090541424,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442143877189_ucl_napoli_vs_arsenal_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Napoli vs Arsenal - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
             "contentId": 1090541425,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442117573189_ucl_psg_vs_slovan_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -182,7 +182,7 @@
         {
             "event_category": "Football",
             "contentId": 1090541421,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442055843189_ucl_bayern_vs_Bodo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788944588135809_UCL26_Bayern-Munich-vs-Bodo-Glimt_promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Bayern Munich vs Bodo/Glimt - UEFA Champions League 2026-27",

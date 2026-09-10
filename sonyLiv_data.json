@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:54 PM 10-09-2026",
+    "last_update_time": "02:00:43 PM 10-09-2026",
     "total_matches": 16,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789066463~acl=/*~id=63036665940925055237887635760475~hmac=c346e0ac484f5144213ef848b448835ccf3a0690965123d16c4abf04a696e59b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789070106~acl=/*~id=65461899877806643557608591899951~hmac=1b6df7b17ffe68b3201e4170499001652d06696c433929457747f2bdc9d0ba77"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League",
             "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789066463~acl=/*~id=63036665940925055237887635760475~hmac=c346e0ac484f5144213ef848b448835ccf3a0690965123d16c4abf04a696e59b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789070106~acl=/*~id=65461899877806643557608591899951~hmac=1b6df7b17ffe68b3201e4170499001652d06696c433929457747f2bdc9d0ba77"
         },
         {
             "event_category": "Football",
@@ -91,7 +91,7 @@
         {
             "event_category": "Sports",
             "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023409/1788428195486416_asian-games-promo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023754/1789023378620850_Asian_Games_2026_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",

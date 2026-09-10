@@ -3,7 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-10 12:00:45 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-09-10 13:00:54 (BD Time)
+#  Channels Count: 2
 #=================================
+
+#EXTINF:-1 tvg-id="1090541928_HIN" tvg-name="Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg" group-title="Cricket",Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789066463~acl=/*~id=63036665940925055237887635760475~hmac=c346e0ac484f5144213ef848b448835ccf3a0690965123d16c4abf04a696e59b
+
+#EXTINF:-1 tvg-id="1090541928_PAN" tvg-name="Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg" group-title="Cricket",Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [PAN]
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789066463~acl=/*~id=63036665940925055237887635760475~hmac=c346e0ac484f5144213ef848b448835ccf3a0690965123d16c4abf04a696e59b
 

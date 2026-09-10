@@ -2,10 +2,42 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:45 PM 10-09-2026",
-    "total_matches": 14,
-    "live_match": 0,
+    "last_update_time": "01:00:54 PM 10-09-2026",
+    "total_matches": 16,
+    "live_match": 2,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541928_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789066463~acl=/*~id=63036665940925055237887635760475~hmac=c346e0ac484f5144213ef848b448835ccf3a0690965123d16c4abf04a696e59b"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541928_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [PAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789066463~acl=/*~id=63036665940925055237887635760475~hmac=c346e0ac484f5144213ef848b448835ccf3a0690965123d16c4abf04a696e59b"
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090540264,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788945860124809_UCL26_Manchester-United-vs-Sabah_promo_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
         {
             "event_category": "Cricket",
             "contentId": 1090540064,
@@ -113,16 +145,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League Matchday 1",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090540264,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788945849467809_UCL26_Manchester-United-vs-Sabah_promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

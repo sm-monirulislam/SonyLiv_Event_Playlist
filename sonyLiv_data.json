@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:01:08 PM 11-09-2026",
-    "total_matches": 20,
-    "live_match": 9,
+    "last_update_time": "12:01:18 AM 12-09-2026",
+    "total_matches": 18,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "DP World Women's Asia Cup 2026",
             "match_name": "Sri Lanka Women vs Pakistan Women - Semi-final - 11 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86"
         },
         {
             "event_category": "Cricket",
@@ -70,29 +70,7 @@
             "event_name": "Pakistan Tour of England 2026",
             "match_name": "Day 3 - 3rd Test - 11 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090542087_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023843/1789140338689723_PT20_amritsar_soormas_vs_ludhiana_lions_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League 2026 ",
-            "match_name": "Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090542087_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023843/1789140338689723_PT20_amritsar_soormas_vs_ludhiana_lions_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League 2026 ",
-            "match_name": "Amritsar Soormas vs Ludhiana Lions - 11 Sep 2026 [PAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037142/criclive1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86"
         },
         {
             "event_category": "Golf",
@@ -103,7 +81,7 @@
             "event_name": "DP World Tour",
             "match_name": "Amgen Irish Open - Day 2 - Session 2 - 11 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789189103~acl=/*~id=37101964194567390572966693496840~hmac=a1e5f1d914f194eed355e35dd4bf2563f37cd14d5af7a0914abbc2ce0f46c74e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037141/Golf_Amg1109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789192752~acl=/*~id=59342883666902671705855901868483~hmac=b9346d80f6ad69a94aaf351c9b1fb8c02f9001047a551bba54175d2e57651f86"
         },
         {
             "event_category": "Sports",

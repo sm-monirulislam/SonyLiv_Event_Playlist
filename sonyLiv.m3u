@@ -3,13 +3,19 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-12 19:02:06 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-09-12 22:01:53 (BD Time)
+#  Channels Count: 4
 #=================================
 
 #EXTINF:-1 tvg-id="1090542233_HIN" tvg-name="Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
 
 #EXTINF:-1 tvg-id="1090542233_PAN" tvg-name="Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Cricket",Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]
-https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256
+https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
+
+#EXTINF:-1 tvg-id="1090542276_ENG" tvg-name="Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Archery",Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
+
+#EXTINF:-1 tvg-id="1090542235_ENG" tvg-name="Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="Golf",Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7
 

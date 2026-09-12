@@ -2,10 +2,32 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:02:06 PM 12-09-2026",
-    "total_matches": 11,
-    "live_match": 0,
+    "last_update_time": "01:01:23 PM 12-09-2026",
+    "total_matches": 13,
+    "live_match": 2,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090542233_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League 2026",
+            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789239342~acl=/*~id=40500715991571440527269333294156~hmac=efccf3ee45bc708a7e89f7a1f927398b2353307d3f8405c850b4d3fc2f480f80"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090542233_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League 2026",
+            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789239342~acl=/*~id=40500715991571440527269333294156~hmac=efccf3ee45bc708a7e89f7a1f927398b2353307d3f8405c850b4d3fc2f480f80"
+        },
         {
             "event_category": "Cricket",
             "contentId": 1090542256,

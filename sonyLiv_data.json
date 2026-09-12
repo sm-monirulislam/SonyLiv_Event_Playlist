@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:01:18 PM 12-09-2026",
+    "last_update_time": "06:01:51 PM 12-09-2026",
     "total_matches": 15,
     "live_match": 3,
     "matches": [
@@ -20,24 +20,24 @@
         {
             "event_category": "Cricket",
             "contentId": "1090542233_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
-            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
+            "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789253903~acl=/*~id=69467008865475930038269220904897~hmac=9198e312d0bf032572632d2c2ff38317af5d4af0edefe90c4f63d1c1514eff0e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789257550~acl=/*~id=25322099648207180579070299403127~hmac=269a067176514eed0346436947b28bc03dd3a4ea47f6254e0a68b94cb6e85d42"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090542233_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Sher-E-Punjab T20 League 2026",
-            "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
+            "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789253903~acl=/*~id=69467008865475930038269220904897~hmac=9198e312d0bf032572632d2c2ff38317af5d4af0edefe90c4f63d1c1514eff0e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789257550~acl=/*~id=25322099648207180579070299403127~hmac=269a067176514eed0346436947b28bc03dd3a4ea47f6254e0a68b94cb6e85d42"
         },
         {
             "event_category": "Cricket",

@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:01:55 PM 12-09-2026",
-    "total_matches": 13,
+    "last_update_time": "03:01:52 PM 12-09-2026",
+    "total_matches": 14,
     "live_match": 2,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789242978~acl=/*~id=28735983593933333183128245942765~hmac=9b72939a5622dc98f0f2378414a9cbe54a5fce2fc8b50b776a1d118d0cc7ae41"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789246614~acl=/*~id=47833541589827231784744000079353~hmac=21f82befbee32d3201be3e8441424b3da212186d99e2e287056f0770856951c4"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789242978~acl=/*~id=28735983593933333183128245942765~hmac=9b72939a5622dc98f0f2378414a9cbe54a5fce2fc8b50b776a1d118d0cc7ae41"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789246614~acl=/*~id=47833541589827231784744000079353~hmac=21f82befbee32d3201be3e8441424b3da212186d99e2e287056f0770856951c4"
         },
         {
             "event_category": "Cricket",
@@ -75,6 +75,16 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090542399,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023880/178919892840953_ind_vs_SL_thumbs_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Final - DP World Women's Asia Cup 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

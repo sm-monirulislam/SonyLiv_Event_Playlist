@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:01:53 PM 12-09-2026",
+    "last_update_time": "11:01:54 PM 12-09-2026",
     "total_matches": 16,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789275153~acl=/*~id=73691474276350118279041855909732~hmac=c899a6715160166190246e2f3a46150e12f6d5de38f15b08046d89779d8ae935"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "Sher-E-Punjab T20 League 2026",
             "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789275153~acl=/*~id=73691474276350118279041855909732~hmac=c899a6715160166190246e2f3a46150e12f6d5de38f15b08046d89779d8ae935"
         },
         {
             "event_category": "Archery",
@@ -37,7 +37,7 @@
             "event_name": "Hyundai Archery World Cup Final",
             "match_name": "Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789275153~acl=/*~id=73691474276350118279041855909732~hmac=c899a6715160166190246e2f3a46150e12f6d5de38f15b08046d89779d8ae935"
         },
         {
             "event_category": "Golf",
@@ -48,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789271510~acl=/*~id=88621029477640192653238377798169~hmac=d5d3a6dc258fb78450e2085cdaee8e2f2bfada5ad80e36166775612ab43b78d7"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789275153~acl=/*~id=73691474276350118279041855909732~hmac=c899a6715160166190246e2f3a46150e12f6d5de38f15b08046d89779d8ae935"
         },
         {
             "event_category": "Cricket",

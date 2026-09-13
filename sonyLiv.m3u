@@ -3,22 +3,10 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-14 01:02:01 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-09-14 02:01:20 (BD Time)
+#  Channels Count: 1
 #=================================
 
-#EXTINF:-1 tvg-id="1090542250_ENG" tvg-name="India Women vs Sri Lanka Women - Final - 13 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="Cricket",India Women vs Sri Lanka Women - Final - 13 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789369110~acl=/*~id=50971291710643513125575078962947~hmac=78b3868ddcff8ccc8be746a4facc4918b271c48ec7e2bbe70d5a46e28480818e
-
-#EXTINF:-1 tvg-id="1090542250_HIN" tvg-name="India Women vs Sri Lanka Women - Final - 13 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="Cricket",India Women vs Sri Lanka Women - Final - 13 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789369110~acl=/*~id=50971291710643513125575078962947~hmac=78b3868ddcff8ccc8be746a4facc4918b271c48ec7e2bbe70d5a46e28480818e
-
-#EXTINF:-1 tvg-id="1090542250_TAM" tvg-name="India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="Cricket",India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789369110~acl=/*~id=50971291710643513125575078962947~hmac=78b3868ddcff8ccc8be746a4facc4918b271c48ec7e2bbe70d5a46e28480818e
-
-#EXTINF:-1 tvg-id="1090542250_TEL" tvg-name="India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="Cricket",India Women vs Sri Lanka Women - Final - 13 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789369110~acl=/*~id=50971291710643513125575078962947~hmac=78b3868ddcff8ccc8be746a4facc4918b271c48ec7e2bbe70d5a46e28480818e
-
-#EXTINF:-1 tvg-id="1090542250_KAN" tvg-name="India Women vs Sri Lanka Women - Final - 13 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg" group-title="Cricket",India Women vs Sri Lanka Women - Final - 13 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789369110~acl=/*~id=50971291710643513125575078962947~hmac=78b3868ddcff8ccc8be746a4facc4918b271c48ec7e2bbe70d5a46e28480818e
+#EXTINF:-1 tvg-id="1090542287_ENG" tvg-name="Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Archery",Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789372746~acl=/*~id=09138547352741025786735641816549~hmac=7bd9c008d2f484929502e01efcacdec8f90d92d919f6808351bdbb802cbda86c
 

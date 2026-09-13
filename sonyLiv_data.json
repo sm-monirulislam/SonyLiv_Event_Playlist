@@ -2,65 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:01:45 AM 13-09-2026",
-    "total_matches": 17,
-    "live_match": 5,
+    "last_update_time": "07:01:35 AM 13-09-2026",
+    "total_matches": 12,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090542394_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "NOCHE UFC - Silva vs Delgado",
-            "match_name": "NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789300020~acl=/*~id=03571076689405499791912445176389~hmac=5fd4f4d9304453367f17436d7f2bb042030ec1e4c5ed103beb72ae99becbc563"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090542394_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "NOCHE UFC - Silva vs Delgado",
-            "match_name": "NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789300020~acl=/*~id=03571076689405499791912445176389~hmac=5fd4f4d9304453367f17436d7f2bb042030ec1e4c5ed103beb72ae99becbc563"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090542394_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "NOCHE UFC - Silva vs Delgado",
-            "match_name": "NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789300020~acl=/*~id=03571076689405499791912445176389~hmac=5fd4f4d9304453367f17436d7f2bb042030ec1e4c5ed103beb72ae99becbc563"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090542394_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "NOCHE UFC - Silva vs Delgado",
-            "match_name": "NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789300020~acl=/*~id=03571076689405499791912445176389~hmac=5fd4f4d9304453367f17436d7f2bb042030ec1e4c5ed103beb72ae99becbc563"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090542394_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "NOCHE UFC - Silva vs Delgado",
-            "match_name": "NOCHE UFC - Silva vs Delgado - 13 Sep 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789300020~acl=/*~id=03571076689405499791912445176389~hmac=5fd4f4d9304453367f17436d7f2bb042030ec1e4c5ed103beb72ae99becbc563"
-        },
         {
             "event_category": "Cricket",
             "contentId": 1090542256,

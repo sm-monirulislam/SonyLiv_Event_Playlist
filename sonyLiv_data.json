@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:01:32 AM 14-09-2026",
-    "total_matches": 12,
-    "live_match": 1,
+    "last_update_time": "06:01:35 AM 14-09-2026",
+    "total_matches": 11,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Archery",
-            "contentId": "1090542287_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Hyundai Archery World Cup Final",
-            "match_name": "Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789383640~acl=/*~id=33522384743063668654710301072638~hmac=9576f244e6a78672e270049690ae71be3faa187bebd6c2fe7187d461229f389a"
-        },
         {
             "event_category": "Sports",
             "contentId": 1090539555,

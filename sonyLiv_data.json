@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:02:29 PM 14-09-2026",
-    "total_matches": 11,
+    "last_update_time": "05:00:23 PM 14-09-2026",
+    "total_matches": 12,
     "live_match": 0,
     "matches": [
         {
@@ -47,6 +47,16 @@
             "stream_link": ""
         },
         {
+            "event_category": "Football",
+            "contentId": 1090542538,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023957/1789378250364675_UEL2627_promo_MD1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 1 - UEFA Europa League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
             "event_category": "Cricket",
             "contentId": 1090538916,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
@@ -62,7 +72,7 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023939/1789325459946480_IND_vs_NZ_landsacpe_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand ",
+            "event_name": "Upcoming - India Tour of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

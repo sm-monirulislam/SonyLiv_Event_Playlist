@@ -2,10 +2,21 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:25 PM 15-09-2026",
-    "total_matches": 12,
-    "live_match": 0,
+    "last_update_time": "11:30:27 PM 15-09-2026",
+    "total_matches": 13,
+    "live_match": 1,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090542511_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Sri Lanka Tour of England 2026",
+            "match_name": "1st T20I - 15 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789536159~acl=/*~id=77244288632473805431779012412043~hmac=3d1a9527a18b7e2bffb348b93167c206a09efacce89fcf8fdf3ddbf3944bf198"
+        },
         {
             "event_category": "Sports",
             "contentId": 1090540014,
@@ -27,16 +38,6 @@
             "stream_link": ""
         },
         {
-            "event_category": "Cricket",
-            "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023982/1789474039710211_ENGvsSL26_1t20i_Promo_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sri Lanka Tour of England 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
             "event_category": "Football",
             "contentId": 1090542538,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023985/1789476919991402_UEL26_AC_Milan_vs_Benfica_dated_landscape_thumb.jpg",
@@ -53,6 +54,16 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090541822,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sri Lanka Tour of England 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

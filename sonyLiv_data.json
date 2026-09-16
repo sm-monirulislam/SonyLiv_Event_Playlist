@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:23 PM 16-09-2026",
+    "last_update_time": "11:30:44 PM 16-09-2026",
     "total_matches": 14,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Omonia vs Celta - MD1 - 16 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620942~acl=/*~id=77097083120307531100158907365654~hmac=4af631b735e7c41a40a7d5261d3cc86bc8998db85b373b0df77a807a15c5f709"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789622761~acl=/*~id=77758098381346467192379845864195~hmac=99e10998dd8f7f507e0a6368e74485894538c770f2447a32637a860fbd6bce24"
         },
         {
             "event_category": "Football",
@@ -26,12 +26,12 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Ararat-Armenia vs Sparta Praha - MD1 - 16 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789620942~acl=/*~id=77097083120307531100158907365654~hmac=4af631b735e7c41a40a7d5261d3cc86bc8998db85b373b0df77a807a15c5f709"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789622761~acl=/*~id=77758098381346467192379845864195~hmac=99e10998dd8f7f507e0a6368e74485894538c770f2447a32637a860fbd6bce24"
         },
         {
             "event_category": "Sports",
             "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023754/1789023378620850_Asian_Games_2026_Promo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024044/1789575257227717_AG26_QF_bangladesh_vs_china_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",

@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:30:35 AM 18-09-2026",
-    "total_matches": 24,
-    "live_match": 8,
+    "last_update_time": "03:00:27 AM 18-09-2026",
+    "total_matches": 23,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Football",
@@ -15,18 +15,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Juventus vs N.E.C. - MD1 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090542669_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Sri Lanka Tour of England 2026",
-            "match_name": "2nd T20I - 17 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9"
         },
         {
             "event_category": "Football",
@@ -37,7 +26,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9"
         },
         {
             "event_category": "Football",
@@ -48,7 +37,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Real Sociedad vs Bournemouth - MD1 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9"
         },
         {
             "event_category": "Football",
@@ -59,7 +48,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Besiktas vs Marseille - MD1 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9"
         },
         {
             "event_category": "Football",
@@ -70,7 +59,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Celtic vs Ferencvaros - MD1 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9"
         },
         {
             "event_category": "Football",
@@ -81,7 +70,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Viktoria Plzen vs Union SG - MD1 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9"
         },
         {
             "event_category": "Football",
@@ -92,7 +81,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Lillestrom vs Torreense - MD1 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719788~acl=/*~id=16236083141565698503779422943915~hmac=e61e8c69f666671b5b8e933dc460052ff8a033fdfe05e48fd2b400a1e50bf811"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9"
         },
         {
             "event_category": "Sports",

@@ -3,28 +3,7 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-18 03:00:27 (BD Time)
-#  Channels Count: 7
+#  Last Updated: 2026-09-18 03:30:24 (BD Time)
+#  Channels Count: 0
 #=================================
-
-#EXTINF:-1 tvg-id="1090542748_ENG" tvg-name="Juventus vs N.E.C. - MD1 - 18 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg" group-title="Football",Juventus vs N.E.C. - MD1 - 18 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9
-
-#EXTINF:-1 tvg-id="1090542751_ENG" tvg-name="Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532891246688_UEL2627_MD1_Crystal_Palace_vs_Lech_Poznan_4sep_landscape_thumb.jpg" group-title="Football",Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9
-
-#EXTINF:-1 tvg-id="1090542749_ENG" tvg-name="Real Sociedad vs Bournemouth - MD1 - 18 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532535195688_UEL2627_MD1_Real_Sociedad_vs_Bournemouth_4sep_landscape_thumb.jpg" group-title="Football",Real Sociedad vs Bournemouth - MD1 - 18 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9
-
-#EXTINF:-1 tvg-id="1090542752_ENG" tvg-name="Besiktas vs Marseille - MD1 - 18 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788533233404688_UEL2627_MD1_Besiktas_vs_Marseille_4sep_landscape_thumb.jpg" group-title="Football",Besiktas vs Marseille - MD1 - 18 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9
-
-#EXTINF:-1 tvg-id="1090542754_ENG" tvg-name="Celtic vs Ferencvaros - MD1 - 18 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534760819688_UEL2627_MD1_Celtic_vs_Ferencvaros_4sep_landscape_thumb.jpg" group-title="Football",Celtic vs Ferencvaros - MD1 - 18 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9
-
-#EXTINF:-1 tvg-id="1090542753_ENG" tvg-name="Viktoria Plzen vs Union SG - MD1 - 18 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534519058688_UEL2627_MD1_Viktoria_Plzen_vs_Union_SG_4sep_landscape_thumb.jpg" group-title="Football",Viktoria Plzen vs Union SG - MD1 - 18 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9
-
-#EXTINF:-1 tvg-id="1090542755_ENG" tvg-name="Lillestrom vs Torreense - MD1 - 18 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788535295410688_UEL2627_MD1_Lillestrom_vs_Torreense_4sep_landscape_thumb.jpg" group-title="Football",Lillestrom vs Torreense - MD1 - 18 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789721612~acl=/*~id=70224958235834974941177841999896~hmac=4db7e9cc7325e9607e48afdb5d234ba7777a7d851e0d491c4df454fbb99435c9
 

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:30:22 PM 17-09-2026",
+    "last_update_time": "02:00:21 PM 17-09-2026",
     "total_matches": 13,
     "live_match": 1,
     "matches": [
@@ -13,9 +13,9 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Pakistan Women vs Thailand Women - QF 2 - 17 Sep 2026 [ENG]",
+            "match_name": "Pakistan Women vs Thailand Women - Quarter-Final - 17 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789673094~acl=/*~id=15886144829185599510743941705773~hmac=f547b4dd1479f10f2cf50413372f5981e789531b3b387f7cac2dfd989ba6d1bc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789674910~acl=/*~id=47294526952953471027755683574334~hmac=9570ff06b0c8806f01faa92aba3c6b5f2c5016fc78c393bb6640682e47fdc038"
         },
         {
             "event_category": "Sports",

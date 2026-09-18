@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:30:26 PM 18-09-2026",
-    "total_matches": 16,
+    "last_update_time": "06:00:25 PM 18-09-2026",
+    "total_matches": 17,
     "live_match": 1,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789773698~acl=/*~id=79815606298776802845315033227900~hmac=438ef0d688bfe235ccf480034850d751f785fad7bd06327f457fa08afb867d54"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789775515~acl=/*~id=52308456963668634245601506033973~hmac=73c12edcc0a1a55e9b5763667414ec653ffa48f365204eda1ef5a496cd113b5c"
         },
         {
             "event_category": "Sports",
@@ -28,12 +28,32 @@
             "stream_link": ""
         },
         {
+            "event_category": "Hockey",
+            "contentId": 1090542858,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024128/1789719294270711_ag_hockey_promo_dated_landscape_Thum.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
             "event_category": "Football",
             "contentId": 1090542429,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Kabaddi",
+            "contentId": 1090542862,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024138/1789725215020559_ag_promo_INDvsJPN_kabbadi_dated_landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Kabaddi - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -134,16 +154,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Hockey",
-            "contentId": 1090542858,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024128/1789719294270711_ag_hockey_promo_dated_landscape_Thum.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:30:23 PM 18-09-2026",
+    "last_update_time": "08:30:39 PM 18-09-2026",
     "total_matches": 17,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789780964~acl=/*~id=73019121061233166509822659632128~hmac=df24701ae84224d4c98a209db1b78621c8003bb4e188555acfddb5f2541da5d1"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14"
         },
         {
             "event_category": "Sports",

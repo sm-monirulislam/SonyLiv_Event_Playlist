@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:30:21 PM 18-09-2026",
+    "last_update_time": "02:00:23 PM 18-09-2026",
     "total_matches": 15,
     "live_match": 0,
     "matches": [
@@ -117,6 +117,16 @@
             "stream_link": ""
         },
         {
+            "event_category": "Cricket",
+            "contentId": 1090542857,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
             "event_category": "Hockey",
             "contentId": 1090542858,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789668850015908_AG26_hockey_dated_promo_landscape_thumb.jpg",
@@ -143,16 +153,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Weightlifting",
-            "contentId": 1090542860,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         }

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:24 PM 18-09-2026",
+    "last_update_time": "12:30:26 PM 18-09-2026",
     "total_matches": 20,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India Women vs Japan Women - Quarter-Final - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789754310~acl=/*~id=68023063871230741547825044475655~hmac=56ea39c1769cbe4e3c1c68b1489b9ee9a4d71741071b64249a3b008238b66f6d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India Women vs Japan Women - Quarter-Final - 18 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789754310~acl=/*~id=68023063871230741547825044475655~hmac=56ea39c1769cbe4e3c1c68b1489b9ee9a4d71741071b64249a3b008238b66f6d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India Women vs Japan Women - Quarter-Final - 18 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789754310~acl=/*~id=68023063871230741547825044475655~hmac=56ea39c1769cbe4e3c1c68b1489b9ee9a4d71741071b64249a3b008238b66f6d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India Women vs Japan Women - Quarter-Final - 18 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789754310~acl=/*~id=68023063871230741547825044475655~hmac=56ea39c1769cbe4e3c1c68b1489b9ee9a4d71741071b64249a3b008238b66f6d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India Women vs Japan Women - Quarter-Final - 18 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789754310~acl=/*~id=68023063871230741547825044475655~hmac=56ea39c1769cbe4e3c1c68b1489b9ee9a4d71741071b64249a3b008238b66f6d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
         },
         {
             "event_category": "Sports",

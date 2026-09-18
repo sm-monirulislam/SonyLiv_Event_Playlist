@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:30:39 PM 18-09-2026",
+    "last_update_time": "09:00:40 PM 18-09-2026",
     "total_matches": 17,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,17 @@
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789784600~acl=/*~id=07417498481019639630477343893467~hmac=aae8394c5ec3caed5a494940c9244b70f34ac478bd4751f5b51ccc32ba040e14"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789786365~acl=/*~id=57105054722316246361235488449691~hmac=38deb8ad32aac691d2eacfe35cf0d75f23964b832f3e9907c0e991bd39e99dd0"
+        },
+        {
+            "event_category": "Sports",
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Sports",
@@ -74,16 +84,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand ",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Sports",
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

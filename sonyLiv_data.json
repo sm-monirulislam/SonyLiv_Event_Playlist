@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:30:39 AM 19-09-2026",
+    "last_update_time": "03:00:46 AM 19-09-2026",
     "total_matches": 16,
     "live_match": 0,
     "matches": [
@@ -97,6 +97,16 @@
             "stream_link": ""
         },
         {
+            "event_category": "Fight Sports",
+            "contentId": 1090542974,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024171/1789759268704750_UFC331_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
             "event_category": "Sports",
             "contentId": 1090539080,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
@@ -153,16 +163,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Boxing",
-            "contentId": 1090542859,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         }

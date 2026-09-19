@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:39 PM 19-09-2026",
+    "last_update_time": "09:30:41 PM 19-09-2026",
     "total_matches": 18,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "3rd T20I - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789873038~acl=/*~id=94994463690686071791534544988118~hmac=21fa47a9935f6a563669db26bbc2efdfc84eb541cac49042ec3e77403dc8c2ef"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789874855~acl=/*~id=08022257003705014319123261755333~hmac=9999c492676165a59c507c92141533329819bb01a2bc315fb7b3ebb7bf063c14"
         },
         {
             "event_category": "Golf",
@@ -26,15 +26,15 @@
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 3 - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789873038~acl=/*~id=94994463690686071791534544988118~hmac=21fa47a9935f6a563669db26bbc2efdfc84eb541cac49042ec3e77403dc8c2ef"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789874855~acl=/*~id=08022257003705014319123261755333~hmac=9999c492676165a59c507c92141533329819bb01a2bc315fb7b3ebb7bf063c14"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Cricket",
             "contentId": 1090542973,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024214/1789824440669995_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Bangladesh",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India",
             "status": "Upcoming",
             "stream_link": ""
         },

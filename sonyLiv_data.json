@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:30:41 PM 19-09-2026",
+    "last_update_time": "10:00:42 PM 19-09-2026",
     "total_matches": 18,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "3rd T20I - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789874855~acl=/*~id=08022257003705014319123261755333~hmac=9999c492676165a59c507c92141533329819bb01a2bc315fb7b3ebb7bf063c14"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876673~acl=/*~id=03497971470107808052138742523194~hmac=21e5c1145a9d942f4b7941e9741931a477f7fc6f5407dea3f7b3c0443fb4fb70"
         },
         {
             "event_category": "Golf",
@@ -26,7 +26,7 @@
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 3 - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789874855~acl=/*~id=08022257003705014319123261755333~hmac=9999c492676165a59c507c92141533329819bb01a2bc315fb7b3ebb7bf063c14"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876673~acl=/*~id=03497971470107808052138742523194~hmac=21e5c1145a9d942f4b7941e9741931a477f7fc6f5407dea3f7b3c0443fb4fb70"
         },
         {
             "event_category": "Cricket",

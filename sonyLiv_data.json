@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:30:39 PM 19-09-2026",
+    "last_update_time": "08:00:40 PM 19-09-2026",
     "total_matches": 18,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "3rd T20I - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789867579~acl=/*~id=34144078646214748029031691223294~hmac=daf84957d311c2d6b2c5d2fcf92cabd3b8860e9dafeb1d119e47bc5b1d329429"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3"
         },
         {
             "event_category": "Golf",
@@ -26,12 +26,12 @@
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 3 - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789867579~acl=/*~id=34144078646214748029031691223294~hmac=daf84957d311c2d6b2c5d2fcf92cabd3b8860e9dafeb1d119e47bc5b1d329429"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3"
         },
         {
             "event_category": "Sports",
             "contentId": 1090542973,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769640462343_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024214/1789824440669995_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Bangladesh",

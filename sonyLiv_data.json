@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:40 PM 19-09-2026",
+    "last_update_time": "08:30:40 PM 19-09-2026",
     "total_matches": 18,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "3rd T20I - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789871219~acl=/*~id=70755509100662082633561397761468~hmac=554af3a2494e170eb82dd9cf73b91293f506255fe5bf95e4ea8d8de0ef63ba45"
         },
         {
             "event_category": "Golf",
@@ -26,7 +26,7 @@
             "event_name": "DP World Tour",
             "match_name": "BMW PGA Championship - Day 3 - 19 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789871219~acl=/*~id=70755509100662082633561397761468~hmac=554af3a2494e170eb82dd9cf73b91293f506255fe5bf95e4ea8d8de0ef63ba45"
         },
         {
             "event_category": "Sports",
@@ -45,16 +45,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Sports",
-            "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -95,6 +85,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Sports",
+            "contentId": 1090539555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

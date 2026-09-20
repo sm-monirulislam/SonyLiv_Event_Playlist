@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:39 AM 20-09-2026",
-    "total_matches": 18,
-    "live_match": 2,
+    "last_update_time": "06:30:40 AM 20-09-2026",
+    "total_matches": 22,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Pakistan Women vs Sri Lanka Women - Semi-Final - 20 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789906937~acl=/*~id=49744912871662993673731646928247~hmac=935e1ca97d6f7b977ba1dea6fabab7b5e079369a2c914d83dc907d6342700fd2"
         },
         {
             "event_category": "Fight Sports",
@@ -26,7 +26,51 @@
             "event_name": "UFC 331 - Van vs Pantoja 2",
             "match_name": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789906937~acl=/*~id=49744912871662993673731646928247~hmac=935e1ca97d6f7b977ba1dea6fabab7b5e079369a2c914d83dc907d6342700fd2"
+        },
+        {
+            "event_category": "Badminton",
+            "contentId": "1090541381_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Indonesia vs Mongolia - Badminton - 20 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789906937~acl=/*~id=49744912871662993673731646928247~hmac=935e1ca97d6f7b977ba1dea6fabab7b5e079369a2c914d83dc907d6342700fd2"
+        },
+        {
+            "event_category": "Badminton",
+            "contentId": "1090541381_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Indonesia vs Mongolia - Badminton - 20 Sep 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789906937~acl=/*~id=49744912871662993673731646928247~hmac=935e1ca97d6f7b977ba1dea6fabab7b5e079369a2c914d83dc907d6342700fd2"
+        },
+        {
+            "event_category": "Badminton",
+            "contentId": "1090541381_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Indonesia vs Mongolia - Badminton - 20 Sep 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789906937~acl=/*~id=49744912871662993673731646928247~hmac=935e1ca97d6f7b977ba1dea6fabab7b5e079369a2c914d83dc907d6342700fd2"
+        },
+        {
+            "event_category": "Badminton",
+            "contentId": "1090541381_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Indonesia vs Mongolia - Badminton - 20 Sep 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789906937~acl=/*~id=49744912871662993673731646928247~hmac=935e1ca97d6f7b977ba1dea6fabab7b5e079369a2c914d83dc907d6342700fd2"
         },
         {
             "event_category": "Cricket",

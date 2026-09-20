@@ -2,85 +2,108 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:41 AM 20-09-2026",
-    "total_matches": 22,
-    "live_match": 6,
+    "last_update_time": "10:30:40 AM 20-09-2026",
+    "total_matches": 25,
+    "live_match": 9,
     "matches": [
         {
-            "event_category": "Hockey",
-            "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
+            "event_category": "Cricket",
+            "contentId": "1090541371_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Uzbekistan - Women's Hockey - 20 Sep 2026 [ENG]",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919686~acl=/*~id=38817178920944899287096181267659~hmac=54708f9f0f9fa79d9d6d725e7e4b3e8cf1efa6a925f908379cb4976bc9c1ba87"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541371_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541371_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541371_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541371_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
+        },
+        {
+            "event_category": "Hockey",
+            "contentId": "1090541381_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Day 2 - 20 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
         },
         {
             "event_category": "Hockey",
             "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Uzbekistan - Women's Hockey - 20 Sep 2026 [TAM]",
+            "match_name": "Day 2 - 20 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789919686~acl=/*~id=38817178920944899287096181267659~hmac=54708f9f0f9fa79d9d6d725e7e4b3e8cf1efa6a925f908379cb4976bc9c1ba87"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
         },
         {
             "event_category": "Hockey",
             "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Uzbekistan - Women's Hockey - 20 Sep 2026 [TEL]",
+            "match_name": "Day 2 - 20 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789919686~acl=/*~id=38817178920944899287096181267659~hmac=54708f9f0f9fa79d9d6d725e7e4b3e8cf1efa6a925f908379cb4976bc9c1ba87"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
         },
         {
             "event_category": "Hockey",
             "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Uzbekistan - Women's Hockey - 20 Sep 2026 [KAN]",
+            "match_name": "Day 2 - 20 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789919686~acl=/*~id=38817178920944899287096181267659~hmac=54708f9f0f9fa79d9d6d725e7e4b3e8cf1efa6a925f908379cb4976bc9c1ba87"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541367_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024212/1789821616972902_AG26_womens_SF_pak_vs_sl_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Pakistan Women vs Sri Lanka Women - Semi-Final - 20 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919686~acl=/*~id=38817178920944899287096181267659~hmac=54708f9f0f9fa79d9d6d725e7e4b3e8cf1efa6a925f908379cb4976bc9c1ba87"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090542963_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 331 - Van vs Pantoja 2",
-            "match_name": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919686~acl=/*~id=38817178920944899287096181267659~hmac=54708f9f0f9fa79d9d6d725e7e4b3e8cf1efa6a925f908379cb4976bc9c1ba87"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090542973,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769649728343_AG26_womens_SF_india_vs_bangladesh_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789921512~acl=/*~id=45122236243177005781854012123162~hmac=fabbe5e297378bce2151c29abb5f8fe0abeefe67f0139d8c01296c1cdd2b7348"
         },
         {
             "event_category": "Hockey",
@@ -229,6 +252,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Wrestling",
+            "contentId": 1090542856,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         }

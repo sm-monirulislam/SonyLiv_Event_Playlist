@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:30:42 PM 20-09-2026",
-    "total_matches": 17,
-    "live_match": 1,
+    "last_update_time": "12:00:37 AM 21-09-2026",
+    "total_matches": 16,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090543049_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Metro Bank One Day Cup 2026",
-            "match_name": "Leicestershire vs Middlesex - Final - 20 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789968218~acl=/*~id=42551141087980101889612951848763~hmac=bbaf429ca0c6b3e3fd6fa00ebe259b9a7a46285d225c3e5413d9495529e49002"
-        },
         {
             "event_category": "Sports",
             "contentId": 1090540014,

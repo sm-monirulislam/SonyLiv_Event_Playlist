@@ -3,7 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-20 20:30:37 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-09-20 21:00:41 (BD Time)
+#  Channels Count: 2
 #=================================
+
+#EXTINF:-1 tvg-id="1090543049_ENG" tvg-name="Leicestershire vs Middlesex - Final - 20 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg" group-title="Cricket",Leicestershire vs Middlesex - Final - 20 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789959123~acl=/*~id=35488294037276334008531778966986~hmac=5307bf9a31046da255fc6483499fdefb31d0243e9a882ab371c16c05a0350da8
+
+#EXTINF:-1 tvg-id="1090542905_ENG" tvg-name="BMW PGA Championship - Day 4 - 20 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788437884723492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day4_landscape_thumb.jpg" group-title="Golf",BMW PGA Championship - Day 4 - 20 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789959123~acl=/*~id=35488294037276334008531778966986~hmac=5307bf9a31046da255fc6483499fdefb31d0243e9a882ab371c16c05a0350da8
 

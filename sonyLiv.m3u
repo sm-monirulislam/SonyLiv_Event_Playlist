@@ -3,34 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-21 17:00:41 (BD Time)
-#  Channels Count: 9
+#  Last Updated: 2026-09-21 17:30:45 (BD Time)
+#  Channels Count: 5
 #=================================
 
 #EXTINF:-1 tvg-id="1090543296_ENG" tvg-name="India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="Sports",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Hocke2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
+https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Hocke2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790033100~acl=/*~id=50181952932466499642598224307287~hmac=175bf8c988ca6891184621c690c106ae93d083255fe59e24964b96e79b763d3f
 
 #EXTINF:-1 tvg-id="1090543296_HIN" tvg-name="India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="Sports",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Hocke2109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Hocke2109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790033100~acl=/*~id=50181952932466499642598224307287~hmac=175bf8c988ca6891184621c690c106ae93d083255fe59e24964b96e79b763d3f
 
 #EXTINF:-1 tvg-id="1090543296_TAM" tvg-name="India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="Sports",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Hocke2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
+https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Hocke2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790033100~acl=/*~id=50181952932466499642598224307287~hmac=175bf8c988ca6891184621c690c106ae93d083255fe59e24964b96e79b763d3f
 
 #EXTINF:-1 tvg-id="1090543296_TEL" tvg-name="India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="Sports",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Hocke2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
+https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Hocke2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790033100~acl=/*~id=50181952932466499642598224307287~hmac=175bf8c988ca6891184621c690c106ae93d083255fe59e24964b96e79b763d3f
 
 #EXTINF:-1 tvg-id="1090543296_KAN" tvg-name="India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="Sports",India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Hocke2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-
-#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="India In Action - Table Tennis - 21 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Table Tennis",India In Action - Table Tennis - 21 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-
-#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="India In Action - Table Tennis - 21 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Table Tennis",India In Action - Table Tennis - 21 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-
-#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="India In Action - Table Tennis - 21 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Table Tennis",India In Action - Table Tennis - 21 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
-
-#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="India In Action - Table Tennis - 21 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Table Tennis",India In Action - Table Tennis - 21 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790031274~acl=/*~id=64038038418288618108655253299291~hmac=c2d50d636d33f30de44ce148afe129dcae9ba66bdef51c46f91701e6fa6fff12
+https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Hocke2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790033100~acl=/*~id=50181952932466499642598224307287~hmac=175bf8c988ca6891184621c690c106ae93d083255fe59e24964b96e79b763d3f
 

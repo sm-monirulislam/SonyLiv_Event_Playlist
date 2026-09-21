@@ -2,53 +2,53 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:38 PM 21-09-2026",
+    "last_update_time": "01:30:39 PM 21-09-2026",
     "total_matches": 20,
     "live_match": 4,
     "matches": [
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [ENG]",
+            "match_name": "Kabaddi - 21 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790016694~acl=/*~id=72368539817598654789610904540505~hmac=f6e6f307d9628a4f774b5d8741c09e756fe255b11fe15c5003cd606894fc5871"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790018515~acl=/*~id=00732703915760139357594905670119~hmac=fbea2452df7793183b3751e120e682d321e0b1244972556f3dcf34a643000542"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [TAM]",
+            "match_name": "Kabaddi - 21 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790016694~acl=/*~id=72368539817598654789610904540505~hmac=f6e6f307d9628a4f774b5d8741c09e756fe255b11fe15c5003cd606894fc5871"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790018515~acl=/*~id=00732703915760139357594905670119~hmac=fbea2452df7793183b3751e120e682d321e0b1244972556f3dcf34a643000542"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [TEL]",
+            "match_name": "Kabaddi - 21 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790016694~acl=/*~id=72368539817598654789610904540505~hmac=f6e6f307d9628a4f774b5d8741c09e756fe255b11fe15c5003cd606894fc5871"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790018515~acl=/*~id=00732703915760139357594905670119~hmac=fbea2452df7793183b3751e120e682d321e0b1244972556f3dcf34a643000542"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 3 - 21 Sep 2026 [KAN]",
+            "match_name": "Kabaddi - 21 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790016694~acl=/*~id=72368539817598654789610904540505~hmac=f6e6f307d9628a4f774b5d8741c09e756fe255b11fe15c5003cd606894fc5871"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790018515~acl=/*~id=00732703915760139357594905670119~hmac=fbea2452df7793183b3751e120e682d321e0b1244972556f3dcf34a643000542"
         },
         {
             "event_category": "Hockey",

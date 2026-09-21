@@ -3,7 +3,19 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-21 14:30:45 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-09-21 15:00:39 (BD Time)
+#  Channels Count: 4
 #=================================
+
+#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="Boxing - 21 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing",Boxing - 21 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790023989~acl=/*~id=73856802050140532573553498714508~hmac=f13446588f2d152a70ae75615760789cc608d94db826f90c8a1b8d19eeaf85d5
+
+#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Boxing - 21 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing",Boxing - 21 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022322/AG_Strea2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790023989~acl=/*~id=73856802050140532573553498714508~hmac=f13446588f2d152a70ae75615760789cc608d94db826f90c8a1b8d19eeaf85d5
+
+#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Boxing - 21 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing",Boxing - 21 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790023989~acl=/*~id=73856802050140532573553498714508~hmac=f13446588f2d152a70ae75615760789cc608d94db826f90c8a1b8d19eeaf85d5
+
+#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Boxing - 21 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing",Boxing - 21 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2037140/AG_Strea2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790023989~acl=/*~id=73856802050140532573553498714508~hmac=f13446588f2d152a70ae75615760789cc608d94db826f90c8a1b8d19eeaf85d5
 

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:31:08 PM 22-09-2026",
+    "last_update_time": "06:01:06 PM 22-09-2026",
     "total_matches": 20,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "1st ODI - 22 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790119314~acl=/*~id=97031784729509087755712427270013~hmac=a5e317a16a2eeb8532bb96782d6ec390aed2f5ffcf0e34d8acd430a141d091dd"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790121139~acl=/*~id=41123380009401784915344292048285~hmac=cfd3f95ee653d500fc92b0c275238daa39df67a63a45209a80c3c2551af3eda6"
         },
         {
             "event_category": "Hockey",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Men's Hockey - 22 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790119314~acl=/*~id=97031784729509087755712427270013~hmac=a5e317a16a2eeb8532bb96782d6ec390aed2f5ffcf0e34d8acd430a141d091dd"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790121139~acl=/*~id=41123380009401784915344292048285~hmac=cfd3f95ee653d500fc92b0c275238daa39df67a63a45209a80c3c2551af3eda6"
         },
         {
             "event_category": "Hockey",
@@ -37,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Men's Hockey - 22 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790119314~acl=/*~id=97031784729509087755712427270013~hmac=a5e317a16a2eeb8532bb96782d6ec390aed2f5ffcf0e34d8acd430a141d091dd"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790121139~acl=/*~id=41123380009401784915344292048285~hmac=cfd3f95ee653d500fc92b0c275238daa39df67a63a45209a80c3c2551af3eda6"
         },
         {
             "event_category": "Hockey",
@@ -48,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Men's Hockey - 22 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790119314~acl=/*~id=97031784729509087755712427270013~hmac=a5e317a16a2eeb8532bb96782d6ec390aed2f5ffcf0e34d8acd430a141d091dd"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790121139~acl=/*~id=41123380009401784915344292048285~hmac=cfd3f95ee653d500fc92b0c275238daa39df67a63a45209a80c3c2551af3eda6"
         },
         {
             "event_category": "Hockey",
@@ -59,7 +59,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Men's Hockey - 22 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790119314~acl=/*~id=97031784729509087755712427270013~hmac=a5e317a16a2eeb8532bb96782d6ec390aed2f5ffcf0e34d8acd430a141d091dd"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790121139~acl=/*~id=41123380009401784915344292048285~hmac=cfd3f95ee653d500fc92b0c275238daa39df67a63a45209a80c3c2551af3eda6"
         },
         {
             "event_category": "Football",
@@ -68,6 +68,16 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090543448,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024414/1790028993226986_IFL_promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India's International Friendlies",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -162,52 +172,42 @@
             "stream_link": ""
         },
         {
-            "event_category": "Badminton",
-            "contentId": 1090542855,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669329317908_AG26_badminton_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "Football",
+            "contentId": 1090543662,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075161009558_Football-Indias-International-Friendlies-Teaser-Thumbs-3_landscape.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PV Sindhu - Badminton - 20th Asian Games Aichi-Nagoya 2026",
+            "event_name": "Upcoming - India vs Brazil - Teaser 2",
             "status": "Upcoming",
             "stream_link": ""
         },
         {
-            "event_category": "Hockey",
-            "contentId": 1090542858,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789668850015908_AG26_hockey_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Boxing",
-            "contentId": 1090542859,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Wrestling",
-            "contentId": 1090542856,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Weightlifting",
-            "contentId": 1090542860,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "Football",
+            "contentId": 1090543661,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075181873558_Football-Indias-International-Friendlies-Teaser-Thumbs-4_landscape.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026",
+            "event_name": "Upcoming - India vs Brazil - Teaser 1",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090543663,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075124349558_Football-Indias-International-Friendlies-Teaser-Thumbs-2_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India vs Brazil - Teaser 3",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090543664,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India vs Brazil - Teaser 4",
             "status": "Upcoming",
             "stream_link": ""
         }

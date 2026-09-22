@@ -3,22 +3,10 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-22 19:31:07 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-09-22 21:01:16 (BD Time)
+#  Channels Count: 1
 #=================================
 
 #EXTINF:-1 tvg-id="1090543392_ENG" tvg-name="1st ODI - 22 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg" group-title="Cricket",1st ODI - 22 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790126606~acl=/*~id=54544201355059875613049830115026~hmac=78b379a2b3d56ce443c368812509a65bc9c2105857dd0b0ab33f42ebdcf8dc22
-
-#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="Day 4 - 22 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Kabaddi",Day 4 - 22 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790126606~acl=/*~id=54544201355059875613049830115026~hmac=78b379a2b3d56ce443c368812509a65bc9c2105857dd0b0ab33f42ebdcf8dc22
-
-#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Day 4 - 22 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Kabaddi",Day 4 - 22 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790126606~acl=/*~id=54544201355059875613049830115026~hmac=78b379a2b3d56ce443c368812509a65bc9c2105857dd0b0ab33f42ebdcf8dc22
-
-#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Day 4 - 22 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Kabaddi",Day 4 - 22 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790126606~acl=/*~id=54544201355059875613049830115026~hmac=78b379a2b3d56ce443c368812509a65bc9c2105857dd0b0ab33f42ebdcf8dc22
-
-#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Day 4 - 22 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Kabaddi",Day 4 - 22 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790126606~acl=/*~id=54544201355059875613049830115026~hmac=78b379a2b3d56ce443c368812509a65bc9c2105857dd0b0ab33f42ebdcf8dc22
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790132065~acl=/*~id=33664443059689376092366983041168~hmac=99f70e38f3eb201324521c4f097e882131cd5a83f04334bf657a6499c2896655
 

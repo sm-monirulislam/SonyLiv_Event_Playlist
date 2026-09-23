@@ -3,19 +3,19 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-23 18:31:08 (BD Time)
+#  Last Updated: 2026-09-23 19:01:14 (BD Time)
 #  Channels Count: 4
 #=================================
 
-#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="Table Tennis - 23 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sports",Table Tennis - 23 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790209736~acl=/*~id=36680464444707842922246762043643~hmac=a323828c18f5f5e8e6799a08a0992ae8c797a399a13a73e78e97a6ea784bb506
+#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="Day 5 - 23 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 5 - 23 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790211558~acl=/*~id=47882109450290223765908520966728~hmac=69679a61427392f8cbc7fe0de144de2b130388b87e6f52140a669b736eba9f0e
 
-#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Table Tennis - 23 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sports",Table Tennis - 23 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790209736~acl=/*~id=36680464444707842922246762043643~hmac=a323828c18f5f5e8e6799a08a0992ae8c797a399a13a73e78e97a6ea784bb506
+#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Day 5 - 23 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 5 - 23 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790211558~acl=/*~id=47882109450290223765908520966728~hmac=69679a61427392f8cbc7fe0de144de2b130388b87e6f52140a669b736eba9f0e
 
-#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Table Tennis - 23 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sports",Table Tennis - 23 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790209736~acl=/*~id=36680464444707842922246762043643~hmac=a323828c18f5f5e8e6799a08a0992ae8c797a399a13a73e78e97a6ea784bb506
+#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Day 5 - 23 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 5 - 23 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790211558~acl=/*~id=47882109450290223765908520966728~hmac=69679a61427392f8cbc7fe0de144de2b130388b87e6f52140a669b736eba9f0e
 
-#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Table Tennis - 23 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sports",Table Tennis - 23 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790209736~acl=/*~id=36680464444707842922246762043643~hmac=a323828c18f5f5e8e6799a08a0992ae8c797a399a13a73e78e97a6ea784bb506
+#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Day 5 - 23 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 5 - 23 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790211558~acl=/*~id=47882109450290223765908520966728~hmac=69679a61427392f8cbc7fe0de144de2b130388b87e6f52140a669b736eba9f0e
 

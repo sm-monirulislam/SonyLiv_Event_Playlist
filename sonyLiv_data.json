@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:31:20 AM 24-09-2026",
+    "last_update_time": "01:01:13 AM 24-09-2026",
     "total_matches": 15,
     "live_match": 0,
     "matches": [
@@ -19,10 +19,10 @@
         {
             "event_category": "Football",
             "contentId": 1090543448,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024482/1790087785944617_IND_PAN_DDT_Promo_landscape_Thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024583/1790188903565263_FIFA_international_friendlies_india_vs_panama_dated_rev_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India's International Friendlies",
+            "event_name": "Upcoming - India vs Panama - India's International Friendlies",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -39,10 +39,10 @@
         {
             "event_category": "Football",
             "contentId": 1090543727,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024504/1790111246357701_FIFA_international_friendlies_india_vs_brazil_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024578/1790187144920418_FIFA_international_friendlies_india_vs_brazil_dated_rev_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Brazil -India's International Friendlies ",
+            "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
             "status": "Upcoming",
             "stream_link": ""
         },

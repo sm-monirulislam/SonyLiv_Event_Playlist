@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:31:10 PM 23-09-2026",
+    "last_update_time": "10:01:15 PM 23-09-2026",
     "total_matches": 17,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UEFA International Friendlies",
             "match_name": "Azerbaijan vs Tajikstan - 23 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790220066~acl=/*~id=91625236930633887613356956340308~hmac=fa8cb8becd794cb921dfc1ae3f67b97c422bfb7958b44ce85153ca8b335bbf42"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790221891~acl=/*~id=10679084942367945637444123702487~hmac=f44b7040abc9e6fd004003b7fa84b814e440c6a19d37a72d915e44664d40e0c6"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "UEFA International Friendlies",
             "match_name": "Gibraltar vs São Tomé and Príncipe - 23 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790220066~acl=/*~id=91625236930633887613356956340308~hmac=fa8cb8becd794cb921dfc1ae3f67b97c422bfb7958b44ce85153ca8b335bbf42"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2119931/liv20262309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790221891~acl=/*~id=10679084942367945637444123702487~hmac=f44b7040abc9e6fd004003b7fa84b814e440c6a19d37a72d915e44664d40e0c6"
         },
         {
             "event_category": "Football",

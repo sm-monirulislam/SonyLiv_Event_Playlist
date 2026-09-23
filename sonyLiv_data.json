@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:31:05 AM 23-09-2026",
+    "last_update_time": "12:01:19 PM 23-09-2026",
     "total_matches": 21,
     "live_match": 6,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Women's Final - Weightlifting - 23 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790184199~acl=/*~id=21076326302262685755131480940365~hmac=7f24f9795d31ae4c131982f81a4b023bd0ee78e7cc8da91cd2bfad2355b19142"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
         },
         {
             "event_category": "Weightlifting",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Women's Final - Weightlifting - 23 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790184199~acl=/*~id=21076326302262685755131480940365~hmac=7f24f9795d31ae4c131982f81a4b023bd0ee78e7cc8da91cd2bfad2355b19142"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
         },
         {
             "event_category": "Weightlifting",
@@ -37,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Women's Final - Weightlifting - 23 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790184199~acl=/*~id=21076326302262685755131480940365~hmac=7f24f9795d31ae4c131982f81a4b023bd0ee78e7cc8da91cd2bfad2355b19142"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
         },
         {
             "event_category": "Weightlifting",
@@ -48,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Women's Final - Weightlifting - 23 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790184199~acl=/*~id=21076326302262685755131480940365~hmac=7f24f9795d31ae4c131982f81a4b023bd0ee78e7cc8da91cd2bfad2355b19142"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
         },
         {
             "event_category": "Weightlifting",
@@ -59,18 +59,18 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Women's Final - Weightlifting - 23 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790184199~acl=/*~id=21076326302262685755131480940365~hmac=7f24f9795d31ae4c131982f81a4b023bd0ee78e7cc8da91cd2bfad2355b19142"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
         },
         {
-            "event_category": "Kabaddi",
-            "contentId": "1090541376_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024509/1790116735137397_AG26_23Sep_Kabaddi_Mens_Bangladesh_vs_India_live_landscape_thumb.jpg",
+            "event_category": "Shooting",
+            "contentId": "1090541386_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024521/1790135789870822_Shooting_Skeet_Women_Individual_Final_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Bangladesh vs India - Men's Team - Kabaddi - 23 Sep 2026 [ENG]",
+            "match_name": "India In Action - Shooting - 23 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790184199~acl=/*~id=21076326302262685755131480940365~hmac=7f24f9795d31ae4c131982f81a4b023bd0ee78e7cc8da91cd2bfad2355b19142"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX5_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
         },
         {
             "event_category": "Football",

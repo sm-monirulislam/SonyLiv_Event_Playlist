@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:01:06 PM 23-09-2026",
+    "last_update_time": "01:31:08 PM 23-09-2026",
     "total_matches": 20,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790189680~acl=/*~id=45268439021405019596727320904795~hmac=d1e206ece1c731fe96884358aa42d47d0905b19fd0b6297abba3c159287b008b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790191503~acl=/*~id=44447657787766063506921128773462~hmac=30d012e0b5d1a86430e654469fd5f5e795a1fe63d972749c054e5ddfdd16df42"
         },
         {
             "event_category": "Badminton",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790189680~acl=/*~id=45268439021405019596727320904795~hmac=d1e206ece1c731fe96884358aa42d47d0905b19fd0b6297abba3c159287b008b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790191503~acl=/*~id=44447657787766063506921128773462~hmac=30d012e0b5d1a86430e654469fd5f5e795a1fe63d972749c054e5ddfdd16df42"
         },
         {
             "event_category": "Badminton",
@@ -37,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790189680~acl=/*~id=45268439021405019596727320904795~hmac=d1e206ece1c731fe96884358aa42d47d0905b19fd0b6297abba3c159287b008b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790191503~acl=/*~id=44447657787766063506921128773462~hmac=30d012e0b5d1a86430e654469fd5f5e795a1fe63d972749c054e5ddfdd16df42"
         },
         {
             "event_category": "Badminton",
@@ -48,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790189680~acl=/*~id=45268439021405019596727320904795~hmac=d1e206ece1c731fe96884358aa42d47d0905b19fd0b6297abba3c159287b008b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790191503~acl=/*~id=44447657787766063506921128773462~hmac=30d012e0b5d1a86430e654469fd5f5e795a1fe63d972749c054e5ddfdd16df42"
         },
         {
             "event_category": "Hockey",
@@ -59,7 +59,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Thailand vs India - Hockey - 23 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790189680~acl=/*~id=45268439021405019596727320904795~hmac=d1e206ece1c731fe96884358aa42d47d0905b19fd0b6297abba3c159287b008b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790191503~acl=/*~id=44447657787766063506921128773462~hmac=30d012e0b5d1a86430e654469fd5f5e795a1fe63d972749c054e5ddfdd16df42"
         },
         {
             "event_category": "Football",

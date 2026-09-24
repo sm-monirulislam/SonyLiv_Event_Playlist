@@ -2,53 +2,53 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:31:03 AM 24-09-2026",
+    "last_update_time": "10:01:11 AM 24-09-2026",
     "total_matches": 19,
     "live_match": 4,
     "matches": [
         {
-            "event_category": "Athletics",
+            "event_category": "Sports",
             "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024589/1790194179251522_AG26_24Sep_Athletics_Womens_Heptathlon_High_Jump_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 24 Sep 2026 [ENG]",
+            "match_name": "Day 6 - 24 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790263793~acl=/*~id=83704743165841675365061194786508~hmac=28220f32197913948a3ecbfb36fdc3294ca0e7726aa6e8561eda6b0b6db16872"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790265613~acl=/*~id=29241346397996398787137343293671~hmac=c288ff4c059b3b967abce3c51333f3ef02a4f973ae1719116297f98039a3f0a0"
         },
         {
-            "event_category": "Athletics",
+            "event_category": "Sports",
             "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024589/1790194179251522_AG26_24Sep_Athletics_Womens_Heptathlon_High_Jump_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 24 Sep 2026 [TAM]",
+            "match_name": "Day 6 - 24 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790263793~acl=/*~id=83704743165841675365061194786508~hmac=28220f32197913948a3ecbfb36fdc3294ca0e7726aa6e8561eda6b0b6db16872"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790265613~acl=/*~id=29241346397996398787137343293671~hmac=c288ff4c059b3b967abce3c51333f3ef02a4f973ae1719116297f98039a3f0a0"
         },
         {
-            "event_category": "Athletics",
+            "event_category": "Sports",
             "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024589/1790194179251522_AG26_24Sep_Athletics_Womens_Heptathlon_High_Jump_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 24 Sep 2026 [TEL]",
+            "match_name": "Day 6 - 24 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790263793~acl=/*~id=83704743165841675365061194786508~hmac=28220f32197913948a3ecbfb36fdc3294ca0e7726aa6e8561eda6b0b6db16872"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790265613~acl=/*~id=29241346397996398787137343293671~hmac=c288ff4c059b3b967abce3c51333f3ef02a4f973ae1719116297f98039a3f0a0"
         },
         {
-            "event_category": "Athletics",
+            "event_category": "Sports",
             "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024589/1790194179251522_AG26_24Sep_Athletics_Womens_Heptathlon_High_Jump_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 24 Sep 2026 [KAN]",
+            "match_name": "Day 6 - 24 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790263793~acl=/*~id=83704743165841675365061194786508~hmac=28220f32197913948a3ecbfb36fdc3294ca0e7726aa6e8561eda6b0b6db16872"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790265613~acl=/*~id=29241346397996398787137343293671~hmac=c288ff4c059b3b967abce3c51333f3ef02a4f973ae1719116297f98039a3f0a0"
         },
         {
             "event_category": "Sports",
@@ -162,41 +162,41 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090543661,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075181873558_Football-Indias-International-Friendlies-Teaser-Thumbs-4_landscape.jpg",
+            "contentId": 1090543806,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024511/1790119208982848_indvsbrazil_promo1_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Brazil - Teaser 1",
+            "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
             "status": "Upcoming",
             "stream_link": ""
         },
         {
             "event_category": "Football",
-            "contentId": 1090543662,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075161009558_Football-Indias-International-Friendlies-Teaser-Thumbs-3_landscape.jpg",
+            "contentId": 1090543810,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187607004785_india_vs_brazil_promo4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India vs Brazil - Teaser 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Brazil -India's International Friendlies ",
             "status": "Upcoming",
             "stream_link": ""
         },
         {
             "event_category": "Football",
-            "contentId": 1090543663,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075124349558_Football-Indias-International-Friendlies-Teaser-Thumbs-2_landscape.jpg",
+            "contentId": 1090543811,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024511/1790119270730848_indvsbrazil_promo3_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India vs Brazil - Teaser 3",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
             "status": "Upcoming",
             "stream_link": ""
         },
         {
             "event_category": "Football",
-            "contentId": 1090543664,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg",
+            "contentId": 1090543731,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187597972785_india_vs_brazil_promo3_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India vs Brazil - Teaser 4",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India's International Friendlies ",
             "status": "Upcoming",
             "stream_link": ""
         }

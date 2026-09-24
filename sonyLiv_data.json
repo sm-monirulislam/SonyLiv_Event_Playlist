@@ -2,10 +2,21 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:31:35 AM 24-09-2026",
-    "total_matches": 15,
-    "live_match": 0,
+    "last_update_time": "06:01:06 AM 24-09-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541367_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024552/1790159442582620_AG26_Mens-Cricket-Afghanistan-vs-Japan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Afghanistan vs Japan - 24 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG2026_D2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790251026~acl=/*~id=60502595850977979255533572626066~hmac=17c99fac96d950dd1dbf5ad27ba4fa0c24dfebc7f948e947d545a14333982780"
+        },
         {
             "event_category": "Sports",
             "contentId": 1090540014,

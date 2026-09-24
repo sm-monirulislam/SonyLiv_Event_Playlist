@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:30:34 PM 24-09-2026",
+    "last_update_time": "12:00:37 AM 25-09-2026",
     "total_matches": 17,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "2nd ODI - 24 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790313672~acl=/*~id=56377662815782718177121572990799~hmac=ef998608ea5d268525d26c94fae017fc989d0f5d9c56e2cfd98d6cb11dbcb064"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790315491~acl=/*~id=05799617669441770730698257971286~hmac=1a7a4040d9dcfe84047dbbc5066a29c886f6cb3ecf7bbfedf18fe9f26140ea0e"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Andorra vs Malta - 24 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790313672~acl=/*~id=56377662815782718177121572990799~hmac=ef998608ea5d268525d26c94fae017fc989d0f5d9c56e2cfd98d6cb11dbcb064"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790315491~acl=/*~id=05799617669441770730698257971286~hmac=1a7a4040d9dcfe84047dbbc5066a29c886f6cb3ecf7bbfedf18fe9f26140ea0e"
         },
         {
             "event_category": "Football",

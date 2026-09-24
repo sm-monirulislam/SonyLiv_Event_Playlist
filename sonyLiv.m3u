@@ -3,22 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-24 12:01:12 (BD Time)
+#  Last Updated: 2026-09-24 13:01:15 (BD Time)
 #  Channels Count: 5
 #=================================
 
-#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="Day 6 - 24 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 6 - 24 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790272296~acl=/*~id=73902772333320732457604234959035~hmac=bfc88db2c04395ce6c50413d9537729d1b636f6a543822a2f32633baa933bdf8
+#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Republic Of Korea vs India - Hockey - 24 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790275946~acl=/*~id=06564992803245111150007079872998~hmac=9e9539653c5b0a32d0f9412ef8e710e03bfd55f7c2319048c0f12aa684009d1d
 
-#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Day 6 - 24 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 6 - 24 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790272296~acl=/*~id=73902772333320732457604234959035~hmac=bfc88db2c04395ce6c50413d9537729d1b636f6a543822a2f32633baa933bdf8
+#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Republic Of Korea vs India - Hockey - 24 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790275946~acl=/*~id=06564992803245111150007079872998~hmac=9e9539653c5b0a32d0f9412ef8e710e03bfd55f7c2319048c0f12aa684009d1d
 
-#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Day 6 - 24 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 6 - 24 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790272296~acl=/*~id=73902772333320732457604234959035~hmac=bfc88db2c04395ce6c50413d9537729d1b636f6a543822a2f32633baa933bdf8
+#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Republic Of Korea vs India - Hockey - 24 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_Strea2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790275946~acl=/*~id=06564992803245111150007079872998~hmac=9e9539653c5b0a32d0f9412ef8e710e03bfd55f7c2319048c0f12aa684009d1d
 
-#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Day 6 - 24 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports",Day 6 - 24 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790272296~acl=/*~id=73902772333320732457604234959035~hmac=bfc88db2c04395ce6c50413d9537729d1b636f6a543822a2f32633baa933bdf8
+#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="Republic Of Korea vs India - Hockey - 24 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Republic Of Korea vs India - Hockey - 24 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790275946~acl=/*~id=06564992803245111150007079872998~hmac=9e9539653c5b0a32d0f9412ef8e710e03bfd55f7c2319048c0f12aa684009d1d
 
 #EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Hong Kong,China vs Malaysia - 24 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024552/1790161238344620_AG26_Mens-Cricket-Hong-Kong-China-vs-Malaysia_landscape_thumb.jpg" group-title="Cricket",Hong Kong,China vs Malaysia - 24 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG2026_D2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790272296~acl=/*~id=73902772333320732457604234959035~hmac=bfc88db2c04395ce6c50413d9537729d1b636f6a543822a2f32633baa933bdf8
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG2026_D2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790275946~acl=/*~id=06564992803245111150007079872998~hmac=9e9539653c5b0a32d0f9412ef8e710e03bfd55f7c2319048c0f12aa684009d1d
 

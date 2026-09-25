@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:01:17 PM 25-09-2026",
-    "total_matches": 29,
-    "live_match": 14,
+    "last_update_time": "08:31:09 PM 25-09-2026",
+    "total_matches": 27,
+    "live_match": 12,
     "matches": [
         {
             "event_category": "Football",
@@ -15,7 +15,7 @@
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Panama - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Panama - 25 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Panama - 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Football",
@@ -48,7 +48,7 @@
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Panama - 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Football",
@@ -59,7 +59,7 @@
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Panama - 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Football",
@@ -70,7 +70,7 @@
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Panama - 25 Sep 2026 [BEN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Athletics",
@@ -81,7 +81,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 7 - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Athletics",
@@ -92,7 +92,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 7 - 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Athletics",
@@ -103,7 +103,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 7 - 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Athletics",
@@ -114,7 +114,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 7 - 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Tennis",
@@ -125,29 +125,7 @@
             "event_name": "Laver Cup 2026",
             "match_name": "Day 1 - Session 1 - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
-        },
-        {
-            "event_category": "Badminton",
-            "contentId": "1090541376_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024755/1790325620491914_AG26_Badminton-Mens-Doubles-RD32-Hariharan-Arjun-v-Fajar-Muh-Shohibul_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Hariharan/Arjun vs Fajar/Shohibul - Men's Doubles Badminton - 25 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
-        },
-        {
-            "event_category": "Athletics",
-            "contentId": "1090541380_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Athletics - 25 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Golf",
@@ -158,7 +136,7 @@
             "event_name": "DP World Tour",
             "match_name": "FedEx Open de France - Day 2 - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387715~acl=/*~id=03380309603009374608348531684565~hmac=760d538d32c1297206d4c5c1749f7537a84d10c8107080a4834d484e85f047ea"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790389543~acl=/*~id=47915908433817826205511823786537~hmac=ee5040dc3349dd66a5b9547b29eb34ee5e1ae185b54621df22f617a1aa48d5d5"
         },
         {
             "event_category": "Sports",

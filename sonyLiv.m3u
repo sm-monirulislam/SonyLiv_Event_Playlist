@@ -3,13 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-25 08:01:28 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-09-25 08:31:21 (BD Time)
+#  Channels Count: 6
 #=================================
 
-#EXTINF:-1 tvg-id="1090541378_ENG" tvg-name="India In Action - Swimming - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024701/1790280976131899_AG26_25Sep_Swimming_Mens_400m_Freestyle_Aneesh_live_landscape_thumb.jpg" group-title="Swimming",India In Action - Swimming - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36
+#EXTINF:-1 tvg-id="1090543296_ENG" tvg-name="Japan vs India - Women's Hockey - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Japan vs India - Women's Hockey - 25 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790346431~acl=/*~id=47612360995122118276843070001096~hmac=755daa3031810144370393baee0267f61b0fa8a429d974871e35a432e60992cf
+
+#EXTINF:-1 tvg-id="1090543296_HIN" tvg-name="Japan vs India - Women's Hockey - 25 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Japan vs India - Women's Hockey - 25 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790346431~acl=/*~id=47612360995122118276843070001096~hmac=755daa3031810144370393baee0267f61b0fa8a429d974871e35a432e60992cf
+
+#EXTINF:-1 tvg-id="1090543296_TAM" tvg-name="Japan vs India - Women's Hockey - 25 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Japan vs India - Women's Hockey - 25 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790346431~acl=/*~id=47612360995122118276843070001096~hmac=755daa3031810144370393baee0267f61b0fa8a429d974871e35a432e60992cf
+
+#EXTINF:-1 tvg-id="1090543296_TEL" tvg-name="Japan vs India - Women's Hockey - 25 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Japan vs India - Women's Hockey - 25 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790346431~acl=/*~id=47612360995122118276843070001096~hmac=755daa3031810144370393baee0267f61b0fa8a429d974871e35a432e60992cf
+
+#EXTINF:-1 tvg-id="1090543296_KAN" tvg-name="Japan vs India - Women's Hockey - 25 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg" group-title="Hockey",Japan vs India - Women's Hockey - 25 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790346431~acl=/*~id=47612360995122118276843070001096~hmac=755daa3031810144370393baee0267f61b0fa8a429d974871e35a432e60992cf
 
 #EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Hong Kong, China vs Oman - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024653/1790246768445288_AG26_Mens-Cricket-CHINA-vs-OMAN_LIVE_landscape_thumb.jpg" group-title="Cricket",Hong Kong, China vs Oman - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790346431~acl=/*~id=47612360995122118276843070001096~hmac=755daa3031810144370393baee0267f61b0fa8a429d974871e35a432e60992cf
 

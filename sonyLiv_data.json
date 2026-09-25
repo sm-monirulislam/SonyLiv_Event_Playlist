@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:31:25 AM 25-09-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "10:01:37 AM 25-09-2026",
+    "total_matches": 21,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Shooting",
@@ -15,73 +15,62 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Shooting - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
         },
         {
-            "event_category": "Hockey",
+            "event_category": "Sports",
             "contentId": "1090543296_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [ENG]",
+            "match_name": "Day 7 - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
         },
         {
-            "event_category": "Hockey",
+            "event_category": "Sports",
             "contentId": "1090543296_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [HIN]",
+            "match_name": "Day 7 - 25 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
         },
         {
-            "event_category": "Hockey",
+            "event_category": "Sports",
             "contentId": "1090543296_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [TAM]",
+            "match_name": "Day 7 - 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
         },
         {
-            "event_category": "Hockey",
+            "event_category": "Sports",
             "contentId": "1090543296_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [TEL]",
+            "match_name": "Day 7 - 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
         },
         {
-            "event_category": "Hockey",
+            "event_category": "Sports",
             "contentId": "1090543296_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [KAN]",
+            "match_name": "Day 7 - 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541367_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024653/1790246768445288_AG26_Mens-Cricket-CHINA-vs-OMAN_LIVE_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Hong Kong, China vs Oman - 25 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
         },
         {
             "event_category": "Sports",

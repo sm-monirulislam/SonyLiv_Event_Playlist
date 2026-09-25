@@ -2,10 +2,21 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:01:47 AM 25-09-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "09:31:25 AM 25-09-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "matches": [
+        {
+            "event_category": "Shooting",
+            "contentId": "1090541378_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024717/1790296562418842_AG26_25Sep_Shooting_10m_Air_Pistol_Mixed_Final_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Shooting - 25 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
+        },
         {
             "event_category": "Hockey",
             "contentId": "1090543296_ENG",
@@ -15,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
         },
         {
             "event_category": "Hockey",
@@ -26,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
         },
         {
             "event_category": "Hockey",
@@ -37,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
         },
         {
             "event_category": "Hockey",
@@ -48,7 +59,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
         },
         {
             "event_category": "Hockey",
@@ -59,7 +70,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
         },
         {
             "event_category": "Cricket",
@@ -70,7 +81,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Hong Kong, China vs Oman - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790350072~acl=/*~id=95012120376415851510488689013430~hmac=f28079fbf7e3ec3671d601511393486e3597a17fbce1ce4194f46a7d9837f92a"
         },
         {
             "event_category": "Sports",

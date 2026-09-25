@@ -3,13 +3,28 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-26 00:01:52 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-09-26 00:31:15 (BD Time)
+#  Channels Count: 7
 #=================================
 
-#EXTINF:-1 tvg-id="1090544164_ENG" tvg-name="Day 1 - Session 2 - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg" group-title="Tennis",Day 1 - Session 2 - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790402306~acl=/*~id=09498815590882683204440690309507~hmac=d6a1a22dcae62c0db21d707a2e24fd62e5c6dc6f2662644cce15b7450718b656
+#EXTINF:-1 tvg-id="1090544525_ENG" tvg-name="Türkiye vs France - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024810/1790351939736564_UNL2627_Turkiye_vs_France_landscape_thumb.jpg" group-title="Football",Türkiye vs France - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
 
-#EXTINF:-1 tvg-id="1090544260_ENG" tvg-name="Georgia vs Northern Ireland - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023561/1788637773558485_UNL26_Georgia_vs_Northern_Ireland_live_landscape_thumb.jpg" group-title="Football",Georgia vs Northern Ireland - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790402306~acl=/*~id=09498815590882683204440690309507~hmac=d6a1a22dcae62c0db21d707a2e24fd62e5c6dc6f2662644cce15b7450718b656
+#EXTINF:-1 tvg-id="1090544524_ENG" tvg-name="Italy vs Belgium - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023596/1788702394472375_UNL26_Italy_vs_Belgium_live_landscape_thumb.jpg" group-title="Football",Italy vs Belgium - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+
+#EXTINF:-1 tvg-id="1090544164_ENG" tvg-name="Day 1 - Session 2 - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg" group-title="Tennis",Day 1 - Session 2 - 25 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+
+#EXTINF:-1 tvg-id="1090544527_ENG" tvg-name="Poland vs Bosnia & Herzegovina - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023598/1788732930050414_UNL26_Poland_vs_Bosnia_live_landscape_thumb.jpg" group-title="Football",Poland vs Bosnia & Herzegovina - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+
+#EXTINF:-1 tvg-id="1090544526_ENG" tvg-name="Hungary vs Ukraine - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023598/1788731876033414_UNL26_Hungary_vs_Ukraine_live_landscape_thumb.jpg" group-title="Football",Hungary vs Ukraine - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+
+#EXTINF:-1 tvg-id="1090544528_ENG" tvg-name="Sweden vs Romania - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123456609737_UNL_26_Sweden-vs-Romania_live_landscape_thumb.jpg" group-title="Football",Sweden vs Romania - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
+
+#EXTINF:-1 tvg-id="1090544529_ENG" tvg-name="Montenegro vs Cyprus - 26 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123766036737_UNL_26_Montenegro-vs-Cyprus_live_landscape_thumb.jpg" group-title="Football",Montenegro vs Cyprus - 26 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404128~acl=/*~id=09280605184514834943550378738381~hmac=7591183e7c754b5746436dd5ad2b84ac4c9e09025f9c33ef98c52bbf50d3cda4
 

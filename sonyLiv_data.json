@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:31:13 PM 25-09-2026",
+    "last_update_time": "02:01:12 PM 25-09-2026",
     "total_matches": 19,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Badminton - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790364641~acl=/*~id=46981893923491871956921650964923~hmac=5623e0f5b52a2761a510a4261308e277edb3ba4671b251da6fbd9006608fb5d8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790366459~acl=/*~id=41335772026645097736567684257401~hmac=34b7195dfcc703d868008b9ca8e15a8b6428ec6f80adc5b57023399dd8b24ce8"
         },
         {
             "event_category": "Badminton",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Badminton - 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790364641~acl=/*~id=46981893923491871956921650964923~hmac=5623e0f5b52a2761a510a4261308e277edb3ba4671b251da6fbd9006608fb5d8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790366459~acl=/*~id=41335772026645097736567684257401~hmac=34b7195dfcc703d868008b9ca8e15a8b6428ec6f80adc5b57023399dd8b24ce8"
         },
         {
             "event_category": "Badminton",
@@ -37,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Badminton - 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790364641~acl=/*~id=46981893923491871956921650964923~hmac=5623e0f5b52a2761a510a4261308e277edb3ba4671b251da6fbd9006608fb5d8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790366459~acl=/*~id=41335772026645097736567684257401~hmac=34b7195dfcc703d868008b9ca8e15a8b6428ec6f80adc5b57023399dd8b24ce8"
         },
         {
             "event_category": "Badminton",
@@ -48,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Badminton - 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790364641~acl=/*~id=46981893923491871956921650964923~hmac=5623e0f5b52a2761a510a4261308e277edb3ba4671b251da6fbd9006608fb5d8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790366459~acl=/*~id=41335772026645097736567684257401~hmac=34b7195dfcc703d868008b9ca8e15a8b6428ec6f80adc5b57023399dd8b24ce8"
         },
         {
             "event_category": "Football",

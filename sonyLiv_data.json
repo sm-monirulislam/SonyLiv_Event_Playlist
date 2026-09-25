@@ -2,75 +2,119 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:01:37 AM 25-09-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "10:31:19 AM 25-09-2026",
+    "total_matches": 25,
+    "live_match": 10,
     "matches": [
         {
-            "event_category": "Shooting",
-            "contentId": "1090541378_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024717/1790296562418842_AG26_25Sep_Shooting_10m_Air_Pistol_Mixed_Final_live_landscape_thumb.jpg",
+            "event_category": "Squash",
+            "contentId": "1090544375_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Shooting - 25 Sep 2026 [ENG]",
+            "match_name": "India In Action - Squash - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Squash",
+            "contentId": "1090544375_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Squash - 25 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
+        },
+        {
+            "event_category": "Squash",
+            "contentId": "1090544375_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Squash - 25 Sep 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
+        },
+        {
+            "event_category": "Squash",
+            "contentId": "1090544375_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Squash - 25 Sep 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
+        },
+        {
+            "event_category": "Squash",
+            "contentId": "1090544375_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Squash - 25 Sep 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
+        },
+        {
+            "event_category": "Kabaddi",
             "contentId": "1090543296_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [ENG]",
+            "match_name": "India vs Nepal - Kabaddi - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [HIN]",
+            "match_name": "India vs Nepal - Kabaddi - 25 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [TAM]",
+            "match_name": "India vs Nepal - Kabaddi - 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [TEL]",
+            "match_name": "India vs Nepal - Kabaddi - 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [KAN]",
+            "match_name": "India vs Nepal - Kabaddi - 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790351894~acl=/*~id=96463862155641320951621194678229~hmac=8bfbcd6e66125e23ce61d84f39dffe741d70ec122a921865cb11ade3a6924af6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353715~acl=/*~id=11773103763349202158672680195070~hmac=af50a53f9f38761365c310fcf25683a868dd09f920d2b6980af60b2c9fca2b65"
         },
         {
             "event_category": "Sports",

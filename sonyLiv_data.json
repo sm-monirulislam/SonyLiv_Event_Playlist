@@ -2,129 +2,119 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:01:18 AM 25-09-2026",
+    "last_update_time": "11:31:52 AM 25-09-2026",
     "total_matches": 25,
     "live_match": 10,
     "matches": [
         {
             "event_category": "Squash",
             "contentId": "1090544375_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024714/1790294020331410_AG26_25Sep_Squash_Womens_Singles_QF_Anahat_vs_Tanvi_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
             "event_category": "Squash",
             "contentId": "1090544375_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024714/1790294020331410_AG26_25Sep_Squash_Womens_Singles_QF_Anahat_vs_Tanvi_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 25 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
             "event_category": "Squash",
             "contentId": "1090544375_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024714/1790294020331410_AG26_25Sep_Squash_Womens_Singles_QF_Anahat_vs_Tanvi_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
             "event_category": "Squash",
             "contentId": "1090544375_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024714/1790294020331410_AG26_25Sep_Squash_Womens_Singles_QF_Anahat_vs_Tanvi_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
             "event_category": "Squash",
             "contentId": "1090544375_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024714/1790294020331410_AG26_25Sep_Squash_Womens_Singles_QF_Anahat_vs_Tanvi_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790286479341410_AG26_25Sep_Squash_Mens_Singles_QF_Veer_vs_Muhammad_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Squash - 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [ENG]",
+            "match_name": "India vs Thailand - Kabaddi- 25 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [HIN]",
+            "match_name": "India vs Thailand - Kabaddi- 25 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [TAM]",
+            "match_name": "India vs Thailand - Kabaddi- 25 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [TEL]",
+            "match_name": "India vs Thailand - Kabaddi- 25 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024724/1790303424912133_AG26_Kabaddi_mens_Team_Semifinal_India_vs_Thailand_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 7 - 25 Sep 2026 [KAN]",
+            "match_name": "India vs Thailand - Kabaddi- 25 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790355539~acl=/*~id=64705286916867764712532669053217~hmac=62fc60cf658f742941c0d14f52077a348bb29d1c4763573e1fd5c332d235107a"
-        },
-        {
-            "event_category": "Sports",
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790357363~acl=/*~id=23735031431558808776507893346713~hmac=3c238a989787d514b1ea15062f0c8f5d31ef50534e70b8bdeaa10e9400641c9a"
         },
         {
             "event_category": "Football",
@@ -183,6 +173,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Sports",
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -3,16 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-25 23:31:19 (BD Time)
-#  Channels Count: 3
+#  Last Updated: 2026-09-26 00:01:52 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="1090544164_ENG" tvg-name="Day 1 - Session 2 - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg" group-title="Tennis",Day 1 - Session 2 - 25 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790402306~acl=/*~id=09498815590882683204440690309507~hmac=d6a1a22dcae62c0db21d707a2e24fd62e5c6dc6f2662644cce15b7450718b656
+
 #EXTINF:-1 tvg-id="1090544260_ENG" tvg-name="Georgia vs Northern Ireland - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023561/1788637773558485_UNL26_Georgia_vs_Northern_Ireland_live_landscape_thumb.jpg" group-title="Football",Georgia vs Northern Ireland - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790400486~acl=/*~id=67200707677502078017845773215378~hmac=76b9d97584846df7d45e6627a32d7fc916101699015f476e8352cd5175b682a8
-
-#EXTINF:-1 tvg-id="1090544263_ENG" tvg-name="Armenia vs Latvia - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023563/1788639748339213_UNL26_Armenia_vs_Latvia_live_landscape_thumb.jpg" group-title="Football",Armenia vs Latvia - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790400486~acl=/*~id=67200707677502078017845773215378~hmac=76b9d97584846df7d45e6627a32d7fc916101699015f476e8352cd5175b682a8
-
-#EXTINF:-1 tvg-id="1090544116_ENG" tvg-name="FedEx Open de France - Day 2 - 25 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844981232657_DP_World_Tour_FedEx_Open_de_France_Day2_landscape_thumb.jpg" group-title="Golf",FedEx Open de France - Day 2 - 25 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790400486~acl=/*~id=67200707677502078017845773215378~hmac=76b9d97584846df7d45e6627a32d7fc916101699015f476e8352cd5175b682a8
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790402306~acl=/*~id=09498815590882683204440690309507~hmac=d6a1a22dcae62c0db21d707a2e24fd62e5c6dc6f2662644cce15b7450718b656
 

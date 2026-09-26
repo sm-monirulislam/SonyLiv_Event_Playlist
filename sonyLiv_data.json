@@ -2,85 +2,75 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:30:24 AM 26-09-2026",
+    "last_update_time": "10:30:32 AM 26-09-2026",
     "total_matches": 22,
     "live_match": 6,
     "matches": [
         {
-            "event_category": "Sports",
-            "contentId": "1090541378_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Lin vs Manush - Men's Singles - Table Tennis - 26 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
-        },
-        {
-            "event_category": "Squash",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024859/1790383778657591_AG26_Squash_Mixed_Doubles_Lee_Tang_vs_Joshana_Velavan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Squash - 26 Sep 2026 [ENG]",
+            "match_name": "India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790439943~acl=/*~id=47073743829682649049292182768342~hmac=16de4765c0339195b6a79f192eb3d3b28c5a71e3193697ce7145821d79577eec"
         },
         {
-            "event_category": "Squash",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024859/1790383778657591_AG26_Squash_Mixed_Doubles_Lee_Tang_vs_Joshana_Velavan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Squash - 26 Sep 2026 [HIN]",
+            "match_name": "India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790439943~acl=/*~id=47073743829682649049292182768342~hmac=16de4765c0339195b6a79f192eb3d3b28c5a71e3193697ce7145821d79577eec"
         },
         {
-            "event_category": "Squash",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024859/1790383778657591_AG26_Squash_Mixed_Doubles_Lee_Tang_vs_Joshana_Velavan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Squash - 26 Sep 2026 [TAM]",
+            "match_name": "India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790439943~acl=/*~id=47073743829682649049292182768342~hmac=16de4765c0339195b6a79f192eb3d3b28c5a71e3193697ce7145821d79577eec"
         },
         {
-            "event_category": "Squash",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024859/1790383778657591_AG26_Squash_Mixed_Doubles_Lee_Tang_vs_Joshana_Velavan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Squash - 26 Sep 2026 [TEL]",
+            "match_name": "India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790439943~acl=/*~id=47073743829682649049292182768342~hmac=16de4765c0339195b6a79f192eb3d3b28c5a71e3193697ce7145821d79577eec"
         },
         {
-            "event_category": "Squash",
+            "event_category": "Kabaddi",
             "contentId": "1090543296_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024859/1790383778657591_AG26_Squash_Mixed_Doubles_Lee_Tang_vs_Joshana_Velavan_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Squash - 26 Sep 2026 [KAN]",
+            "match_name": "India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790436296~acl=/*~id=23867034839921368729148307586115~hmac=eacbdc50ad4817edb309d22e72685e1d64b2f58dcd80c3bd2e02e3fe31661171"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790439943~acl=/*~id=47073743829682649049292182768342~hmac=16de4765c0339195b6a79f192eb3d3b28c5a71e3193697ce7145821d79577eec"
         },
         {
-            "event_category": "Sports",
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "event_category": "Shooting",
+            "contentId": "1090541387_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024869/1790391046250929_AG26_Shooting_50m_Rifle_3_Positions_Women_Individual_FINAL_Vidarsa_and_Tilottama_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Shooting - 26 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX6_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790439943~acl=/*~id=47073743829682649049292182768342~hmac=16de4765c0339195b6a79f192eb3d3b28c5a71e3193697ce7145821d79577eec"
         },
         {
             "event_category": "Football",
@@ -139,6 +129,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Laver Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Sports",
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

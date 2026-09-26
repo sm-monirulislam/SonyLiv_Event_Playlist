@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:30:20 AM 27-09-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "03:00:39 AM 27-09-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": "1090544613_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790030560493628_UNL2627_England_vs_Spain_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "England vs Spain - 27 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022322/UNL_engv2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790497681~acl=/*~id=75707897226925716418652497799482~hmac=ee29702dd8ff05977ff5e12a1de118b42fc918812fd6beda1e7df1dbbc9039c6"
-        },
         {
             "event_category": "Tennis",
             "contentId": "1090544604_ENG",
@@ -26,51 +15,17 @@
             "event_name": "Laver Cup 2026",
             "match_name": "Ruud/Zverev vs Bublik/Nakashima - Day 2 - Session 2 - 26 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790497681~acl=/*~id=75707897226925716418652497799482~hmac=ee29702dd8ff05977ff5e12a1de118b42fc918812fd6beda1e7df1dbbc9039c6"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790499501~acl=/*~id=96236187287692454025166970544240~hmac=5493163b1c04e235ff75ee31e13f7dede0f68e66dc6a0ecb21f9a962b9425555"
         },
         {
-            "event_category": "Football",
-            "contentId": "1090544619_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790032422635628_UNL2627_Czechia_vs_Croatia_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Czechia vs Croatia - 27 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UNL_Czec2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790497681~acl=/*~id=75707897226925716418652497799482~hmac=ee29702dd8ff05977ff5e12a1de118b42fc918812fd6beda1e7df1dbbc9039c6"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090544618_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790032251981813_UNL2627_North_Macedonia_vs_Switzerland_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "North Macedonia vs Switzerland - 27 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790497681~acl=/*~id=75707897226925716418652497799482~hmac=ee29702dd8ff05977ff5e12a1de118b42fc918812fd6beda1e7df1dbbc9039c6"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090544616_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790030687983628_UNL2627_Albania_vs_Belarus_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Albania vs Belarus - 27 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790497681~acl=/*~id=75707897226925716418652497799482~hmac=ee29702dd8ff05977ff5e12a1de118b42fc918812fd6beda1e7df1dbbc9039c6"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090544617_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790030876933813_UNL2627_Slovakia_vs_Moldova_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Slovakia vs Moldova - 27 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790497681~acl=/*~id=75707897226925716418652497799482~hmac=ee29702dd8ff05977ff5e12a1de118b42fc918812fd6beda1e7df1dbbc9039c6"
+            "event_category": "Sports",
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Sports",
@@ -119,16 +74,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Laver Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Sports",
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

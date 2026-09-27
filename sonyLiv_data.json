@@ -2,20 +2,75 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:30:30 AM 27-09-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "08:00:29 AM 27-09-2026",
+    "total_matches": 22,
+    "live_match": 7,
     "matches": [
         {
-            "event_category": "Athletics",
-            "contentId": "1090541377_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024975/1790451094011299_AG26_27Sep_Athletics_Womens_Marathon_Race_Walk_live_landscape_thumb.jpg",
+            "event_category": "Badminton",
+            "contentId": "1090541385_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024992/1790469184645748_AG26_27Sep_Badminton_Womens_Doubles_QF_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India in Action - Athletics - 27 Sep 2026 [ENG]",
+            "match_name": "India In Action - Badminton - 27 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790512224~acl=/*~id=86178932042286787065687141599864~hmac=244c49a581ba0cf67106a03fd2ffb91e7f0bdce348560d4cc89e2f9e34713701"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790517081~acl=/*~id=26156859527198758770102172740232~hmac=ba778433dc4692e728e1a2da1b29f0062960c370fa32adbcfb1884917555b137"
+        },
+        {
+            "event_category": "Athletics",
+            "contentId": "1090541381_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790517081~acl=/*~id=26156859527198758770102172740232~hmac=ba778433dc4692e728e1a2da1b29f0062960c370fa32adbcfb1884917555b137"
+        },
+        {
+            "event_category": "Athletics",
+            "contentId": "1090541381_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790517081~acl=/*~id=26156859527198758770102172740232~hmac=ba778433dc4692e728e1a2da1b29f0062960c370fa32adbcfb1884917555b137"
+        },
+        {
+            "event_category": "Athletics",
+            "contentId": "1090541381_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790517081~acl=/*~id=26156859527198758770102172740232~hmac=ba778433dc4692e728e1a2da1b29f0062960c370fa32adbcfb1884917555b137"
+        },
+        {
+            "event_category": "Athletics",
+            "contentId": "1090541381_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790517081~acl=/*~id=26156859527198758770102172740232~hmac=ba778433dc4692e728e1a2da1b29f0062960c370fa32adbcfb1884917555b137"
+        },
+        {
+            "event_category": "Athletics",
+            "contentId": "1090541381_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790517081~acl=/*~id=26156859527198758770102172740232~hmac=ba778433dc4692e728e1a2da1b29f0062960c370fa32adbcfb1884917555b137"
         },
         {
             "event_category": "Fight Sports",
@@ -26,7 +81,7 @@
             "event_name": "UFC Fight Night - Rosas Jr. vs Barcelos",
             "match_name": "UFC Fight Night - Rosas Jr. vs Barcelos - 27 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFC_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790512224~acl=/*~id=86178932042286787065687141599864~hmac=244c49a581ba0cf67106a03fd2ffb91e7f0bdce348560d4cc89e2f9e34713701"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFC_2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790517081~acl=/*~id=26156859527198758770102172740232~hmac=ba778433dc4692e728e1a2da1b29f0062960c370fa32adbcfb1884917555b137"
         },
         {
             "event_category": "Sports",
@@ -40,11 +95,11 @@
         },
         {
             "event_category": "Sports",
-            "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+            "contentId": 1090544924,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024994/1790471046227126_AG26_QF_IND_vs_AFG_promo_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+            "event_name": "Upcoming - India vs Afghanistan - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -60,11 +115,11 @@
         },
         {
             "event_category": "Sports",
-            "contentId": 1090544924,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024967/1790446565022364_AG26_IND_vs_AFG_promo_landscape_thumb.jpg",
+            "contentId": 1090539555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Afghanistan - 20th Asian Games Aichi-Nagoya 2026",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,75 +2,20 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:30:20 PM 27-09-2026",
-    "total_matches": 22,
-    "live_match": 8,
+    "last_update_time": "06:30:21 PM 27-09-2026",
+    "total_matches": 17,
+    "live_match": 3,
     "matches": [
         {
             "event_category": "Athletics",
-            "contentId": "1090541381_ENG",
+            "contentId": "1090545053_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Athletics - 27 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
-        },
-        {
-            "event_category": "Athletics",
-            "contentId": "1090541381_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 27 Sep 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
-        },
-        {
-            "event_category": "Athletics",
-            "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 27 Sep 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
-        },
-        {
-            "event_category": "Athletics",
-            "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 27 Sep 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
-        },
-        {
-            "event_category": "Athletics",
-            "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Athletics - 27 Sep 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
-        },
-        {
-            "event_category": "Hockey",
-            "contentId": "1090541379_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024990/1790465182173438_AG26_27Sep_Hockey_Womens_India_vs_Singapore_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Singapore - Women - Hockey - 27 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DX1_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790555354~acl=/*~id=56257739607580090149660704944623~hmac=7d8e556cac48ce396dd91ca2df1dc813f0bd82c9d020078a2cf57aea59bc863a"
         },
         {
             "event_category": "Cricket",
@@ -81,7 +26,7 @@
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "3rd ODI - 27 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790555354~acl=/*~id=56257739607580090149660704944623~hmac=7d8e556cac48ce396dd91ca2df1dc813f0bd82c9d020078a2cf57aea59bc863a"
         },
         {
             "event_category": "Tennis",
@@ -92,7 +37,7 @@
             "event_name": "Laver Cup 2026",
             "match_name": "Cobolli/Mensik vs de Minaur/Fritz - Day 3 - Session 1 - 27 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790551709~acl=/*~id=04863241013433931136794913853786~hmac=9be50ef874051d6f3857145951727ec4b4e5a880673b9255762d6fe34b3d4b72"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790555354~acl=/*~id=56257739607580090149660704944623~hmac=7d8e556cac48ce396dd91ca2df1dc813f0bd82c9d020078a2cf57aea59bc863a"
         },
         {
             "event_category": "Sports",

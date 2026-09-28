@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:32 PM 28-09-2026",
+    "last_update_time": "06:30:35 PM 28-09-2026",
     "total_matches": 14,
-    "live_match": 2,
+    "live_match": 1,
     "matches": [
         {
             "event_category": "Athletics",
@@ -15,18 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Athletics - 28 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790639642~acl=/*~id=08299150825354634631752842860618~hmac=5631f00adfcb13a9dfbf19f692f8d9cc37e3b11687786fcafb54a60f3b630329"
-        },
-        {
-            "event_category": "Hockey",
-            "contentId": "1090541380_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025111/1790548484069263_AG26_28Sep_Hockey_Mens_India_vs_Bangladesh_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Bangladesh - Men - Hockey - 28 Sep 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790639642~acl=/*~id=08299150825354634631752842860618~hmac=5631f00adfcb13a9dfbf19f692f8d9cc37e3b11687786fcafb54a60f3b630329"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790641461~acl=/*~id=84012137453255107277765641443420~hmac=2c1573546c2030176c7a5a40c59e7d77be51209dddb75a398e3be2fa98ca0c1f"
         },
         {
             "event_category": "Football",
@@ -35,6 +24,16 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090545396,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025115/1790553494255885_UNL26_belgium_vs_france_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 2 - UEFA Nations League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:01:48 AM 29-09-2026",
+    "last_update_time": "09:30:25 AM 29-09-2026",
     "total_matches": 17,
     "live_match": 4,
     "matches": [
@@ -13,9 +13,9 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [ENG]",
+            "match_name": "Men's and Women's Finals - Badminton - 29 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790693602~acl=/*~id=93705813340566006103661349423347~hmac=bbcac11e7a8d41f434fd201b601758f599275cb011013d58b90b22a39285c030"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790695420~acl=/*~id=35241295264831373121905503023567~hmac=5f068fff3e8532ccb7a65d77f3deb0c61e515c5490621be02011ae4ebff3bd4b"
         },
         {
             "event_category": "Badminton",
@@ -24,9 +24,9 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [TAM]",
+            "match_name": "Men's and Women's Finals - Badminton - 29 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790693602~acl=/*~id=93705813340566006103661349423347~hmac=bbcac11e7a8d41f434fd201b601758f599275cb011013d58b90b22a39285c030"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790695420~acl=/*~id=35241295264831373121905503023567~hmac=5f068fff3e8532ccb7a65d77f3deb0c61e515c5490621be02011ae4ebff3bd4b"
         },
         {
             "event_category": "Badminton",
@@ -35,9 +35,9 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [TEL]",
+            "match_name": "Men's and Women's Finals - Badminton - 29 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790693602~acl=/*~id=93705813340566006103661349423347~hmac=bbcac11e7a8d41f434fd201b601758f599275cb011013d58b90b22a39285c030"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790695420~acl=/*~id=35241295264831373121905503023567~hmac=5f068fff3e8532ccb7a65d77f3deb0c61e515c5490621be02011ae4ebff3bd4b"
         },
         {
             "event_category": "Badminton",
@@ -46,9 +46,9 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [KAN]",
+            "match_name": "Men's and Women's Finals - Badminton - 29 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790693602~acl=/*~id=93705813340566006103661349423347~hmac=bbcac11e7a8d41f434fd201b601758f599275cb011013d58b90b22a39285c030"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790695420~acl=/*~id=35241295264831373121905503023567~hmac=5f068fff3e8532ccb7a65d77f3deb0c61e515c5490621be02011ae4ebff3bd4b"
         },
         {
             "event_category": "Sports",

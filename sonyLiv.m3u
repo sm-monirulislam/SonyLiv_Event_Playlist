@@ -3,22 +3,19 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-29 12:01:50 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-09-29 12:30:22 (BD Time)
+#  Channels Count: 4
 #=================================
 
-#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="India In Action - Boxing - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808
+#EXTINF:-1 tvg-id="1090541381_ENG" tvg-name="India In Action - Boxing - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025238/1790651264291806_AG26_29Sep_Boxing_Mens_90kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790706340~acl=/*~id=12506140074703265500021662652494~hmac=72b2d7ebf9c8687ceb93410753ff2f3aa33062688ed7e595525dbbf53ae83d1a
 
-#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="India In Action - Boxing - 29 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808
+#EXTINF:-1 tvg-id="1090541381_TAM" tvg-name="India In Action - Boxing - 29 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025238/1790651264291806_AG26_29Sep_Boxing_Mens_90kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790706340~acl=/*~id=12506140074703265500021662652494~hmac=72b2d7ebf9c8687ceb93410753ff2f3aa33062688ed7e595525dbbf53ae83d1a
 
-#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="India In Action - Boxing - 29 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808
+#EXTINF:-1 tvg-id="1090541381_TEL" tvg-name="India In Action - Boxing - 29 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025238/1790651264291806_AG26_29Sep_Boxing_Mens_90kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790706340~acl=/*~id=12506140074703265500021662652494~hmac=72b2d7ebf9c8687ceb93410753ff2f3aa33062688ed7e595525dbbf53ae83d1a
 
-#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="India In Action - Boxing - 29 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808
-
-#EXTINF:-1 tvg-id="1090541378_ENG" tvg-name="India In Action - Shooting - 29 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025243/1790655871879576_Trap_Women_Individual_Final_landscape_thumb.jpg" group-title="Shooting",India In Action - Shooting - 29 Sep 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808
+#EXTINF:-1 tvg-id="1090541381_KAN" tvg-name="India In Action - Boxing - 29 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025238/1790651264291806_AG26_29Sep_Boxing_Mens_90kg_Semi_Final_live_landscape_thumb.jpg" group-title="Boxing",India In Action - Boxing - 29 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790706340~acl=/*~id=12506140074703265500021662652494~hmac=72b2d7ebf9c8687ceb93410753ff2f3aa33062688ed7e595525dbbf53ae83d1a
 

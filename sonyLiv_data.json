@@ -2,53 +2,53 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:31:48 AM 29-09-2026",
+    "last_update_time": "12:00:28 PM 29-09-2026",
     "total_matches": 18,
     "live_match": 5,
     "matches": [
         {
-            "event_category": "Sports",
+            "event_category": "Boxing",
             "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [ENG]",
+            "match_name": "India In Action - Boxing - 29 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790702697~acl=/*~id=41646665107717148847709850908603~hmac=feaa72ac3ee39baa254da2214cbf837246c200b134e8e167eaab01f2bc628cc4"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Boxing",
             "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [TAM]",
+            "match_name": "India In Action - Boxing - 29 Sep 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790702697~acl=/*~id=41646665107717148847709850908603~hmac=feaa72ac3ee39baa254da2214cbf837246c200b134e8e167eaab01f2bc628cc4"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Boxing",
             "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [TEL]",
+            "match_name": "India In Action - Boxing - 29 Sep 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790702697~acl=/*~id=41646665107717148847709850908603~hmac=feaa72ac3ee39baa254da2214cbf837246c200b134e8e167eaab01f2bc628cc4"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Boxing",
             "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025239/1790651750532578_AG26_29Sep_Boxing_Mens_80kg_Semi_Final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 11 - 29 Sep 2026 [KAN]",
+            "match_name": "India In Action - Boxing - 29 Sep 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790702697~acl=/*~id=41646665107717148847709850908603~hmac=feaa72ac3ee39baa254da2214cbf837246c200b134e8e167eaab01f2bc628cc4"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808"
         },
         {
             "event_category": "Shooting",
@@ -59,7 +59,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Shooting - 29 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790702697~acl=/*~id=41646665107717148847709850908603~hmac=feaa72ac3ee39baa254da2214cbf837246c200b134e8e167eaab01f2bc628cc4"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790704517~acl=/*~id=72271305964865225970408894601517~hmac=c32e083990ab22a2c0dd8eff8ddf9f478403396a8aef9abf5523e534e2d63808"
         },
         {
             "event_category": "Sports",

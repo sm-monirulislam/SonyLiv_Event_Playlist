@@ -3,7 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-09-30 16:01:55 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-09-30 16:30:34 (BD Time)
+#  Channels Count: 5
 #=================================
+
+#EXTINF:-1 tvg-id="1090545783_ENG" tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Hockey",India vs Republic Of Korea - Hockey - 30 Sep 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790807376~acl=/*~id=62079754158707184482909330960696~hmac=c6236505ee66a0beded44572e27216a510b2c01f27e050cf57d713b2a5e9f324
+
+#EXTINF:-1 tvg-id="1090545783_HIN" tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Hockey",India vs Republic Of Korea - Hockey - 30 Sep 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790807376~acl=/*~id=62079754158707184482909330960696~hmac=c6236505ee66a0beded44572e27216a510b2c01f27e050cf57d713b2a5e9f324
+
+#EXTINF:-1 tvg-id="1090545783_TAM" tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Hockey",India vs Republic Of Korea - Hockey - 30 Sep 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790807376~acl=/*~id=62079754158707184482909330960696~hmac=c6236505ee66a0beded44572e27216a510b2c01f27e050cf57d713b2a5e9f324
+
+#EXTINF:-1 tvg-id="1090545783_TEL" tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Hockey",India vs Republic Of Korea - Hockey - 30 Sep 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790807376~acl=/*~id=62079754158707184482909330960696~hmac=c6236505ee66a0beded44572e27216a510b2c01f27e050cf57d713b2a5e9f324
+
+#EXTINF:-1 tvg-id="1090545783_KAN" tvg-name="India vs Republic Of Korea - Hockey - 30 Sep 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Hockey",India vs Republic Of Korea - Hockey - 30 Sep 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790807376~acl=/*~id=62079754158707184482909330960696~hmac=c6236505ee66a0beded44572e27216a510b2c01f27e050cf57d713b2a5e9f324
 

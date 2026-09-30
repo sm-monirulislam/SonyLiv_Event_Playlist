@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:31:30 PM 30-09-2026",
+    "last_update_time": "07:01:31 PM 30-09-2026",
     "total_matches": 17,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 12 - 30 Sep 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790814056~acl=/*~id=73789624729811269250357795888254~hmac=f411d78a0da28722e108f033678bd7975efdb57c69ee98ff009b6d950b678ad5"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790816484~acl=/*~id=88022541178917455404206970813180~hmac=eb438b127ba2bc1c21eb01f18e2b6292b04597f032faef6c5d5ae68da2869b7a"
         },
         {
             "event_category": "Sports",
@@ -64,6 +64,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand ",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Sports",
+            "contentId": 1090545958,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025418/1790769484196940_Cri_Football_Hoc_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India's Triple Sporting Action - 3 Oct 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -164,16 +174,6 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090543731,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187597972785_india_vs_brazil_promo3_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India's International Friendlies ",
             "status": "Upcoming",
             "stream_link": ""
         }

@@ -2,20 +2,20 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:31:19 AM 01-10-2026",
-    "total_matches": 22,
-    "live_match": 6,
+    "last_update_time": "09:01:27 AM 01-10-2026",
+    "total_matches": 18,
+    "live_match": 2,
     "matches": [
         {
-            "event_category": "Wrestling",
+            "event_category": "Sports",
             "contentId": "1090541386_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025455/1790807947195474_AG26_Wrestling_combo_mansi_and_aman_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Wrestling - 1 Oct 2026 [ENG]",
+            "match_name": "Day 13 - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790866807~acl=/*~id=25684540588584667800931160836096~hmac=60492f9978d3b7b32fa45ef9a909b128e62c4a26d61f85bc0b6d4c91a45f2f5d"
         },
         {
             "event_category": "Cricket",
@@ -26,51 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Pakistan vs Bangladesh - Semifinal - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
-        },
-        {
-            "event_category": "Volleyball",
-            "contentId": "1090545992_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
-        },
-        {
-            "event_category": "Volleyball",
-            "contentId": "1090545992_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
-        },
-        {
-            "event_category": "Volleyball",
-            "contentId": "1090545992_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
-        },
-        {
-            "event_category": "Volleyball",
-            "contentId": "1090545992_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790866807~acl=/*~id=25684540588584667800931160836096~hmac=60492f9978d3b7b32fa45ef9a909b128e62c4a26d61f85bc0b6d4c91a45f2f5d"
         },
         {
             "event_category": "Sports",

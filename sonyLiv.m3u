@@ -3,25 +3,37 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-01 13:01:22 (BD Time)
-#  Channels Count: 6
+#  Last Updated: 2026-10-01 13:30:41 (BD Time)
+#  Channels Count: 10
 #=================================
 
+#EXTINF:-1 tvg-id="1090546010_ENG" tvg-name="India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg" group-title="Hockey",India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
+
+#EXTINF:-1 tvg-id="1090546010_TAM" tvg-name="India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg" group-title="Hockey",India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
+
+#EXTINF:-1 tvg-id="1090546010_TEL" tvg-name="India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg" group-title="Hockey",India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
+
+#EXTINF:-1 tvg-id="1090546010_KAN" tvg-name="India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025503/1790833966022180_AG26_Hockey_SF_IND_vs_PAK_live_landscape_thumb.jpg" group-title="Hockey",India vs Pakistan - Men's Semifinal - Hockey - 1 Oct 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
+
 #EXTINF:-1 tvg-id="1090541371_ENG" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790880781~acl=/*~id=30222848111211656602579575263518~hmac=bcd46b28836ada4deebdf166eae9cf4b9610b63eaefc79e52b38928502efb5d0
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
 
 #EXTINF:-1 tvg-id="1090541371_HIN" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790880781~acl=/*~id=30222848111211656602579575263518~hmac=bcd46b28836ada4deebdf166eae9cf4b9610b63eaefc79e52b38928502efb5d0
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
 
 #EXTINF:-1 tvg-id="1090541371_TAM" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790880781~acl=/*~id=30222848111211656602579575263518~hmac=bcd46b28836ada4deebdf166eae9cf4b9610b63eaefc79e52b38928502efb5d0
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
 
 #EXTINF:-1 tvg-id="1090541371_TEL" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790880781~acl=/*~id=30222848111211656602579575263518~hmac=bcd46b28836ada4deebdf166eae9cf4b9610b63eaefc79e52b38928502efb5d0
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
 
 #EXTINF:-1 tvg-id="1090541371_KAN" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790880781~acl=/*~id=30222848111211656602579575263518~hmac=bcd46b28836ada4deebdf166eae9cf4b9610b63eaefc79e52b38928502efb5d0
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
 
 #EXTINF:-1 tvg-id="1090541378_ENG" tvg-name="India In Action - Shooting - 1 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025466/1790813993942387_AG26_1st_Oct_Shooting_Final_Anish_live_landscape_thumb.jpg" group-title="Shooting",India In Action - Shooting - 1 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790880781~acl=/*~id=30222848111211656602579575263518~hmac=bcd46b28836ada4deebdf166eae9cf4b9610b63eaefc79e52b38928502efb5d0
+https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790881998~acl=/*~id=64734595627263290821690654091716~hmac=2bd62d289e6f0adde5cdf75e23c1d9a7d568f7d1b60ce061bf5c7527af663b66
 

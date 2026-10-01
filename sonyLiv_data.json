@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:01:24 AM 01-10-2026",
+    "last_update_time": "11:30:46 AM 01-10-2026",
     "total_matches": 23,
     "live_match": 6,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790873499~acl=/*~id=08234651640005843321937461282061~hmac=0ff5d0a2229e53df7a450bbdf731a2e746525e7549d497ed9519e67c3669505b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790875320~acl=/*~id=33906110200148735292911641393304~hmac=a8b3d4e88ae4c6faeed02a7de06a7c3bd6acfb7327ba5bbc4866c28670e3c9b5"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790873499~acl=/*~id=08234651640005843321937461282061~hmac=0ff5d0a2229e53df7a450bbdf731a2e746525e7549d497ed9519e67c3669505b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790875320~acl=/*~id=33906110200148735292911641393304~hmac=a8b3d4e88ae4c6faeed02a7de06a7c3bd6acfb7327ba5bbc4866c28670e3c9b5"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790873499~acl=/*~id=08234651640005843321937461282061~hmac=0ff5d0a2229e53df7a450bbdf731a2e746525e7549d497ed9519e67c3669505b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790875320~acl=/*~id=33906110200148735292911641393304~hmac=a8b3d4e88ae4c6faeed02a7de06a7c3bd6acfb7327ba5bbc4866c28670e3c9b5"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790873499~acl=/*~id=08234651640005843321937461282061~hmac=0ff5d0a2229e53df7a450bbdf731a2e746525e7549d497ed9519e67c3669505b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790875320~acl=/*~id=33906110200148735292911641393304~hmac=a8b3d4e88ae4c6faeed02a7de06a7c3bd6acfb7327ba5bbc4866c28670e3c9b5"
         },
         {
             "event_category": "Cricket",
@@ -59,18 +59,18 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790873499~acl=/*~id=08234651640005843321937461282061~hmac=0ff5d0a2229e53df7a450bbdf731a2e746525e7549d497ed9519e67c3669505b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790875320~acl=/*~id=33906110200148735292911641393304~hmac=a8b3d4e88ae4c6faeed02a7de06a7c3bd6acfb7327ba5bbc4866c28670e3c9b5"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Archery",
             "contentId": "1090541386_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025450/1790801268598406_AG26_1stOct_Archery_Mens_Individual_Semi_Final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 13 - 1 Oct 2026 [ENG]",
+            "match_name": "India In Action - Archery - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790873499~acl=/*~id=08234651640005843321937461282061~hmac=0ff5d0a2229e53df7a450bbdf731a2e746525e7549d497ed9519e67c3669505b"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790875320~acl=/*~id=33906110200148735292911641393304~hmac=a8b3d4e88ae4c6faeed02a7de06a7c3bd6acfb7327ba5bbc4866c28670e3c9b5"
         },
         {
             "event_category": "Hockey",

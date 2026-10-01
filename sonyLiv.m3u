@@ -3,13 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-01 09:31:19 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-10-01 10:01:20 (BD Time)
+#  Channels Count: 6
 #=================================
 
-#EXTINF:-1 tvg-id="1090541386_ENG" tvg-name="Day 13 - 1 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports",Day 13 - 1 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790868021~acl=/*~id=02357572728505765376805695709472~hmac=3022d4210a12f6d9fd7e1daeaac2c62921a02bac0d168f4c0f5ac86c7841c7bd
+#EXTINF:-1 tvg-id="1090541371_ENG" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790869846~acl=/*~id=17832569403079809669701769390881~hmac=49abbe37465543f14cbc4fc836e018e2e5916290118bbc310afb1e2a1bda578f
 
-#EXTINF:-1 tvg-id="1090541367_ENG" tvg-name="Pakistan vs Bangladesh - Semifinal - 1 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025422/1790772771135414_AG26_pak_vs_ban_SF_live_landscpae_thumb.jpg" group-title="Cricket",Pakistan vs Bangladesh - Semifinal - 1 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790868021~acl=/*~id=02357572728505765376805695709472~hmac=3022d4210a12f6d9fd7e1daeaac2c62921a02bac0d168f4c0f5ac86c7841c7bd
+#EXTINF:-1 tvg-id="1090541371_HIN" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790869846~acl=/*~id=17832569403079809669701769390881~hmac=49abbe37465543f14cbc4fc836e018e2e5916290118bbc310afb1e2a1bda578f
+
+#EXTINF:-1 tvg-id="1090541371_TAM" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790869846~acl=/*~id=17832569403079809669701769390881~hmac=49abbe37465543f14cbc4fc836e018e2e5916290118bbc310afb1e2a1bda578f
+
+#EXTINF:-1 tvg-id="1090541371_TEL" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790869846~acl=/*~id=17832569403079809669701769390881~hmac=49abbe37465543f14cbc4fc836e018e2e5916290118bbc310afb1e2a1bda578f
+
+#EXTINF:-1 tvg-id="1090541371_KAN" tvg-name="India vs Sri Lanka - Semifinal - 1 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg" group-title="Cricket",India vs Sri Lanka - Semifinal - 1 Oct 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790869846~acl=/*~id=17832569403079809669701769390881~hmac=49abbe37465543f14cbc4fc836e018e2e5916290118bbc310afb1e2a1bda578f
+
+#EXTINF:-1 tvg-id="1090541386_ENG" tvg-name="Day 13 - 1 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports",Day 13 - 1 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790869846~acl=/*~id=17832569403079809669701769390881~hmac=49abbe37465543f14cbc4fc836e018e2e5916290118bbc310afb1e2a1bda578f
 

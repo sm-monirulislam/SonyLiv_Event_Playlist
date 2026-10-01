@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:01:27 AM 01-10-2026",
+    "last_update_time": "09:31:19 AM 01-10-2026",
     "total_matches": 18,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 13 - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790866807~acl=/*~id=25684540588584667800931160836096~hmac=60492f9978d3b7b32fa45ef9a909b128e62c4a26d61f85bc0b6d4c91a45f2f5d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790868021~acl=/*~id=02357572728505765376805695709472~hmac=3022d4210a12f6d9fd7e1daeaac2c62921a02bac0d168f4c0f5ac86c7841c7bd"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Pakistan vs Bangladesh - Semifinal - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790866807~acl=/*~id=25684540588584667800931160836096~hmac=60492f9978d3b7b32fa45ef9a909b128e62c4a26d61f85bc0b6d4c91a45f2f5d"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790868021~acl=/*~id=02357572728505765376805695709472~hmac=3022d4210a12f6d9fd7e1daeaac2c62921a02bac0d168f4c0f5ac86c7841c7bd"
         },
         {
             "event_category": "Sports",

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:31:23 AM 01-10-2026",
+    "last_update_time": "07:01:25 AM 01-10-2026",
     "total_matches": 18,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Pakistan vs Bangladesh - Semifinal - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790857697~acl=/*~id=91848507310098235211926526521362~hmac=aafd50154506d4eb1435b5f19820cc70e87335d781dbfa76383820ee6ae05b49"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790859517~acl=/*~id=80697798930168256666709733003792~hmac=ad9dc2069625a992ee803439bdbd46caf6639480a47d990b95b7d0524cbcb199"
         },
         {
             "event_category": "Archery",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Archery - 1 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790857697~acl=/*~id=91848507310098235211926526521362~hmac=aafd50154506d4eb1435b5f19820cc70e87335d781dbfa76383820ee6ae05b49"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790859517~acl=/*~id=80697798930168256666709733003792~hmac=ad9dc2069625a992ee803439bdbd46caf6639480a47d990b95b7d0524cbcb199"
         },
         {
             "event_category": "Sports",

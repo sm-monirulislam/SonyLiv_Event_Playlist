@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:01:11 PM 02-10-2026",
-    "total_matches": 20,
-    "live_match": 4,
+    "last_update_time": "10:30:58 PM 02-10-2026",
+    "total_matches": 18,
+    "live_match": 2,
     "matches": [
         {
             "event_category": "Football",
@@ -15,7 +15,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Latvia vs Montenegro - 2 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790999614~acl=/*~id=13702322257224382085087291165185~hmac=de20c62ae339b72d597e6bd171aa3c65af1653bde91b8a06939d47e6ff6629f2"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791001434~acl=/*~id=33589521014521475607147639030098~hmac=1127655c2e39328a3ce05c311a046cf57e63e773cdc22cd3b3fa3c0ce78e8382"
         },
         {
             "event_category": "Football",
@@ -26,29 +26,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Cyprus vs Armenia - 2 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790999614~acl=/*~id=13702322257224382085087291165185~hmac=de20c62ae339b72d597e6bd171aa3c65af1653bde91b8a06939d47e6ff6629f2"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090546407_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741981754668_UNL2627_Kazakhstan_vs_Moldova_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Kazakhstan vs Moldova - 2 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790999614~acl=/*~id=13702322257224382085087291165185~hmac=de20c62ae339b72d597e6bd171aa3c65af1653bde91b8a06939d47e6ff6629f2"
-        },
-        {
-            "event_category": "Golf",
-            "contentId": "1090546406_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561614716673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Alfred Dunhill Links Championship - Day 2 - 2 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_Alf0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790999614~acl=/*~id=13702322257224382085087291165185~hmac=de20c62ae339b72d597e6bd171aa3c65af1653bde91b8a06939d47e6ff6629f2"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791001434~acl=/*~id=33589521014521475607147639030098~hmac=1127655c2e39328a3ce05c311a046cf57e63e773cdc22cd3b3fa3c0ce78e8382"
         },
         {
             "event_category": "Sports",

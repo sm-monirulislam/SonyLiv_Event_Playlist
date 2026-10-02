@@ -2,10 +2,32 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:01:06 AM 03-10-2026",
-    "total_matches": 16,
-    "live_match": 0,
+    "last_update_time": "05:30:34 AM 03-10-2026",
+    "total_matches": 18,
+    "live_match": 2,
     "matches": [
+        {
+            "event_category": "Archery",
+            "contentId": "1090543297_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Men's & Women's Archery Finals - 3 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090541367_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4"
+        },
         {
             "event_category": "Sports",
             "contentId": 1090546365,

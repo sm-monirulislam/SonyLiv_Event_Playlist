@@ -2,130 +2,75 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:59 PM 03-10-2026",
-    "total_matches": 21,
-    "live_match": 11,
+    "last_update_time": "07:30:54 PM 03-10-2026",
+    "total_matches": 16,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Football",
             "contentId": "1090546668_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Brazil - 3 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791077251~acl=/*~id=67682511578508228819575835755286~hmac=1301841c7cf091535e11690718074edbc64ea3650d9a0ce9c0eadec8d3957d01"
         },
         {
             "event_category": "Football",
             "contentId": "1090546668_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Brazil - 3 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791077251~acl=/*~id=67682511578508228819575835755286~hmac=1301841c7cf091535e11690718074edbc64ea3650d9a0ce9c0eadec8d3957d01"
         },
         {
             "event_category": "Football",
             "contentId": "1090546668_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Brazil - 3 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791077251~acl=/*~id=67682511578508228819575835755286~hmac=1301841c7cf091535e11690718074edbc64ea3650d9a0ce9c0eadec8d3957d01"
         },
         {
             "event_category": "Football",
             "contentId": "1090546668_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Brazil - 3 Oct 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791077251~acl=/*~id=67682511578508228819575835755286~hmac=1301841c7cf091535e11690718074edbc64ea3650d9a0ce9c0eadec8d3957d01"
         },
         {
             "event_category": "Football",
             "contentId": "1090546668_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Brazil - 3 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791077251~acl=/*~id=67682511578508228819575835755286~hmac=1301841c7cf091535e11690718074edbc64ea3650d9a0ce9c0eadec8d3957d01"
         },
         {
             "event_category": "Football",
             "contentId": "1090546668_MAL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "India's International Friendlies 2026",
             "match_name": "India vs Brazil - 3 Oct 2026 [MAL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
-        },
-        {
-            "event_category": "Sports",
-            "contentId": "1090546707_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 13 - 3 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
-        },
-        {
-            "event_category": "Sports",
-            "contentId": "1090546707_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 13 - 3 Oct 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
-        },
-        {
-            "event_category": "Sports",
-            "contentId": "1090546707_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 13 - 3 Oct 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
-        },
-        {
-            "event_category": "Sports",
-            "contentId": "1090546707_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 13 - 3 Oct 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
-        },
-        {
-            "event_category": "Sports",
-            "contentId": "1090546707_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 13 - 3 Oct 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791075430~acl=/*~id=10729104198960407741663591625815~hmac=25961c0d40c97ca07895fb9ffd53534dbe245336d29a927cc262575333694351"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791077251~acl=/*~id=67682511578508228819575835755286~hmac=1301841c7cf091535e11690718074edbc64ea3650d9a0ce9c0eadec8d3957d01"
         },
         {
             "event_category": "Cricket",
@@ -220,10 +165,10 @@
         {
             "event_category": "Football",
             "contentId": 1090543731,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187597972785_india_vs_brazil_promo3_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025779/1791032098821171_india_vs_uruguay_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India's International Friendlies ",
+            "event_name": "Upcoming - India's International Friendlies - India vs Uruguay",
             "status": "Upcoming",
             "stream_link": ""
         }

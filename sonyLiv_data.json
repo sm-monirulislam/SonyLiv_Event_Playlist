@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:30:54 AM 03-10-2026",
+    "last_update_time": "12:00:27 PM 03-10-2026",
     "total_matches": 20,
     "live_match": 6,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791048116~acl=/*~id=87437606961948477576142192993172~hmac=857db46bccc0aa78fc031cd9f57a39e3396f0bb66899cacfa198190fd5ff7e13"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791049937~acl=/*~id=01031677503605109635367676434870~hmac=5ebfabd4cb6d5e7740477f3564e9179c64aed7616867054aeeff0372baa1dca5"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791048116~acl=/*~id=87437606961948477576142192993172~hmac=857db46bccc0aa78fc031cd9f57a39e3396f0bb66899cacfa198190fd5ff7e13"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791049937~acl=/*~id=01031677503605109635367676434870~hmac=5ebfabd4cb6d5e7740477f3564e9179c64aed7616867054aeeff0372baa1dca5"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791048116~acl=/*~id=87437606961948477576142192993172~hmac=857db46bccc0aa78fc031cd9f57a39e3396f0bb66899cacfa198190fd5ff7e13"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791049937~acl=/*~id=01031677503605109635367676434870~hmac=5ebfabd4cb6d5e7740477f3564e9179c64aed7616867054aeeff0372baa1dca5"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791048116~acl=/*~id=87437606961948477576142192993172~hmac=857db46bccc0aa78fc031cd9f57a39e3396f0bb66899cacfa198190fd5ff7e13"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791049937~acl=/*~id=01031677503605109635367676434870~hmac=5ebfabd4cb6d5e7740477f3564e9179c64aed7616867054aeeff0372baa1dca5"
         },
         {
             "event_category": "Cricket",
@@ -59,18 +59,18 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791048116~acl=/*~id=87437606961948477576142192993172~hmac=857db46bccc0aa78fc031cd9f57a39e3396f0bb66899cacfa198190fd5ff7e13"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791049937~acl=/*~id=01031677503605109635367676434870~hmac=5ebfabd4cb6d5e7740477f3564e9179c64aed7616867054aeeff0372baa1dca5"
         },
         {
-            "event_category": "Archery",
+            "event_category": "Sports",
             "contentId": "1090543297_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025684/1790972086476130_AG26_3rd_Oct_Archery_Neeraj_Chauhan_Semi_Final_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Archery - Oct 2026 [ENG]",
+            "match_name": "Day 15 - 3 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791048116~acl=/*~id=87437606961948477576142192993172~hmac=857db46bccc0aa78fc031cd9f57a39e3396f0bb66899cacfa198190fd5ff7e13"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791049937~acl=/*~id=01031677503605109635367676434870~hmac=5ebfabd4cb6d5e7740477f3564e9179c64aed7616867054aeeff0372baa1dca5"
         },
         {
             "event_category": "Football",

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:53 AM 04-10-2026",
+    "last_update_time": "04:31:01 AM 04-10-2026",
     "total_matches": 13,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": " UFC 332 - Silva vs Wang",
             "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791109446~acl=/*~id=98790252064552385183695468838266~hmac=6dc0ec4991a45ee62f96919c6ee560540c947da67f67143f72378eb664fbbe65"
         },
         {
             "event_category": "Fight Sports",
@@ -26,7 +26,7 @@
             "event_name": " UFC 332 - Silva vs Wang",
             "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791109446~acl=/*~id=98790252064552385183695468838266~hmac=6dc0ec4991a45ee62f96919c6ee560540c947da67f67143f72378eb664fbbe65"
         },
         {
             "event_category": "Fight Sports",
@@ -37,7 +37,7 @@
             "event_name": " UFC 332 - Silva vs Wang",
             "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791109446~acl=/*~id=98790252064552385183695468838266~hmac=6dc0ec4991a45ee62f96919c6ee560540c947da67f67143f72378eb664fbbe65"
         },
         {
             "event_category": "Fight Sports",
@@ -48,7 +48,7 @@
             "event_name": " UFC 332 - Silva vs Wang",
             "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791109446~acl=/*~id=98790252064552385183695468838266~hmac=6dc0ec4991a45ee62f96919c6ee560540c947da67f67143f72378eb664fbbe65"
         },
         {
             "event_category": "Fight Sports",
@@ -59,7 +59,7 @@
             "event_name": " UFC 332 - Silva vs Wang",
             "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791109446~acl=/*~id=98790252064552385183695468838266~hmac=6dc0ec4991a45ee62f96919c6ee560540c947da67f67143f72378eb664fbbe65"
         },
         {
             "event_category": "Cricket",

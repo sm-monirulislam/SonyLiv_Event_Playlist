@@ -2,64 +2,64 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:30:26 AM 03-10-2026",
-    "total_matches": 22,
-    "live_match": 7,
+    "last_update_time": "10:00:59 AM 03-10-2026",
+    "total_matches": 20,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Cricket",
             "contentId": "1090541371_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791040836~acl=/*~id=94101927542536965309254516863788~hmac=8df6f5ab6bb67f34ea9b6db27db74bb9209c3b6e987d13a2be0eced4d7fe6473"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541371_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791040836~acl=/*~id=94101927542536965309254516863788~hmac=8df6f5ab6bb67f34ea9b6db27db74bb9209c3b6e987d13a2be0eced4d7fe6473"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541371_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791040836~acl=/*~id=94101927542536965309254516863788~hmac=8df6f5ab6bb67f34ea9b6db27db74bb9209c3b6e987d13a2be0eced4d7fe6473"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541371_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791040836~acl=/*~id=94101927542536965309254516863788~hmac=8df6f5ab6bb67f34ea9b6db27db74bb9209c3b6e987d13a2be0eced4d7fe6473"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f"
         },
         {
             "event_category": "Cricket",
             "contentId": "1090541371_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791040836~acl=/*~id=94101927542536965309254516863788~hmac=8df6f5ab6bb67f34ea9b6db27db74bb9209c3b6e987d13a2be0eced4d7fe6473"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f"
         },
         {
             "event_category": "Sports",
@@ -70,23 +70,12 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Day 15 - Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791040836~acl=/*~id=94101927542536965309254516863788~hmac=8df6f5ab6bb67f34ea9b6db27db74bb9209c3b6e987d13a2be0eced4d7fe6473"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090541367_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791040836~acl=/*~id=94101927542536965309254516863788~hmac=8df6f5ab6bb67f34ea9b6db27db74bb9209c3b6e987d13a2be0eced4d7fe6473"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791042657~acl=/*~id=77642055295285810859915714128712~hmac=a585c0051da06f9a0dfd6ed832b6f19484600b382e91cc0a7d6c7a0fbc9e990f"
         },
         {
             "event_category": "Football",
             "contentId": 1090543727,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024997/1790476914887357_FIFA_international_friendlies_india_vs_brazil_rev_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025706/1790997540331986_INDvsBRAZIL_tonight_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
@@ -120,16 +109,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 332 - Silva vs Wang",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Sports",
-            "contentId": 1090546568,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025607/1790914308183161_INDvsPAK_2oct_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

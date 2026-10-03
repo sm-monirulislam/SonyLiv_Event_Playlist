@@ -3,19 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-04 00:01:01 (BD Time)
-#  Channels Count: 4
+#  Last Updated: 2026-10-04 00:30:42 (BD Time)
+#  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="1090546628_ENG" tvg-name="Croatia vs England - 3 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg" group-title="Football",Croatia vs England - 3 Oct 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791093080~acl=/*~id=35110014618903588471674587638456~hmac=b1354ece28984490171aa2a202b8ce16659e6ce56325262c7e81241cdd0df4cc
+#EXTINF:-1 tvg-id="1090546684_ENG" tvg-name="Spain vs Czechia - 4 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg" group-title="Football",Spain vs Czechia - 4 Oct 2026  [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71
 
-#EXTINF:-1 tvg-id="1090546637_ENG" tvg-name="Iceland vs Bulgaria - 3 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg" group-title="Football",Iceland vs Bulgaria - 3 Oct 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791093080~acl=/*~id=35110014618903588471674587638456~hmac=b1354ece28984490171aa2a202b8ce16659e6ce56325262c7e81241cdd0df4cc
+#EXTINF:-1 tvg-id="1090546685_ENG" tvg-name="Switzerland vs Slovenia - 4 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg" group-title="Football",Switzerland vs Slovenia - 4 Oct 2026  [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71
 
-#EXTINF:-1 tvg-id="1090546671_ENG" tvg-name="Estonia vs Luxembourg - 3 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg" group-title="Football",Estonia vs Luxembourg - 3 Oct 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791093080~acl=/*~id=35110014618903588471674587638456~hmac=b1354ece28984490171aa2a202b8ce16659e6ce56325262c7e81241cdd0df4cc
-
-#EXTINF:-1 tvg-id="1090546635_ENG" tvg-name="Belarus vs San Marino - 3 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg" group-title="Football",Belarus vs San Marino - 3 Oct 2026  [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791093080~acl=/*~id=35110014618903588471674587638456~hmac=b1354ece28984490171aa2a202b8ce16659e6ce56325262c7e81241cdd0df4cc
+#EXTINF:-1 tvg-id="1090546686_ENG" tvg-name="North Macedonia vs Scotland - 4 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg" group-title="Football",North Macedonia vs Scotland - 4 Oct 2026  [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71
 

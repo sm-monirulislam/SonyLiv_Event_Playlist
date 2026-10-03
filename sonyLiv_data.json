@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:31:07 AM 04-10-2026",
+    "last_update_time": "01:00:54 AM 04-10-2026",
     "total_matches": 12,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Spain vs Czechia - 4 Oct 2026  [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791096718~acl=/*~id=24772551040498636864791005921000~hmac=625517053cd684d21be8656b87edcb9ce28b245f2f71d4f6b0d754718daf4cea"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Switzerland vs Slovenia - 4 Oct 2026  [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791096718~acl=/*~id=24772551040498636864791005921000~hmac=625517053cd684d21be8656b87edcb9ce28b245f2f71d4f6b0d754718daf4cea"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "North Macedonia vs Scotland - 4 Oct 2026  [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791096718~acl=/*~id=24772551040498636864791005921000~hmac=625517053cd684d21be8656b87edcb9ce28b245f2f71d4f6b0d754718daf4cea"
         },
         {
             "event_category": "Cricket",

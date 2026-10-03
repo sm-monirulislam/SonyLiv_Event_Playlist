@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:59 AM 03-10-2026",
+    "last_update_time": "08:30:37 AM 03-10-2026",
     "total_matches": 18,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "India In Action - Archery - 3 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791035990~acl=/*~id=93567534738645262160633673095817~hmac=5f1730b47725256e230224077097033d2604864b62c150f130491ee81540d019"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
             "match_name": "Sri Lanka vs Bangladesh - Bronze Medal Match - Men's Cricket - 3 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791035990~acl=/*~id=93567534738645262160633673095817~hmac=5f1730b47725256e230224077097033d2604864b62c150f130491ee81540d019"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39"
         },
         {
             "event_category": "Sports",

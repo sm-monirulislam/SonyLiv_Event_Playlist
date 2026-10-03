@@ -3,25 +3,28 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-03 15:01:01 (BD Time)
-#  Channels Count: 6
+#  Last Updated: 2026-10-03 15:30:43 (BD Time)
+#  Channels Count: 7
 #=================================
 
-#EXTINF:-1 tvg-id="1090541371_ENG" tvg-name="India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791060861~acl=/*~id=48335910724163491554831948137297~hmac=59607a34e52bb3fa91c56269432454821281e5d6fec411f3179960aa15120eb9
+#EXTINF:-1 tvg-id="1090543296_ENG" tvg-name="Wrestling - Finals - 3 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Wrestling",Wrestling - Finals - 3 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120306/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791062682~acl=/*~id=33731309021528271671377056099192~hmac=41c7750143b310d20c3afbef14385915dc3c066bbc122290e45612953174049e
 
-#EXTINF:-1 tvg-id="1090541371_HIN" tvg-name="India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791060861~acl=/*~id=48335910724163491554831948137297~hmac=59607a34e52bb3fa91c56269432454821281e5d6fec411f3179960aa15120eb9
+#EXTINF:-1 tvg-id="1090543296_HIN" tvg-name="Wrestling - Finals - 3 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Wrestling",Wrestling - Finals - 3 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120306/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791062682~acl=/*~id=33731309021528271671377056099192~hmac=41c7750143b310d20c3afbef14385915dc3c066bbc122290e45612953174049e
 
-#EXTINF:-1 tvg-id="1090541371_TAM" tvg-name="India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TAM]
-https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791060861~acl=/*~id=48335910724163491554831948137297~hmac=59607a34e52bb3fa91c56269432454821281e5d6fec411f3179960aa15120eb9
+#EXTINF:-1 tvg-id="1090546707_ENG" tvg-name="India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Hockey",India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791062682~acl=/*~id=33731309021528271671377056099192~hmac=41c7750143b310d20c3afbef14385915dc3c066bbc122290e45612953174049e
 
-#EXTINF:-1 tvg-id="1090541371_TEL" tvg-name="India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [TEL]
-https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791060861~acl=/*~id=48335910724163491554831948137297~hmac=59607a34e52bb3fa91c56269432454821281e5d6fec411f3179960aa15120eb9
+#EXTINF:-1 tvg-id="1090546707_HIN" tvg-name="India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Hockey",India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791062682~acl=/*~id=33731309021528271671377056099192~hmac=41c7750143b310d20c3afbef14385915dc3c066bbc122290e45612953174049e
 
-#EXTINF:-1 tvg-id="1090541371_KAN" tvg-name="India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [KAN]
-https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791060861~acl=/*~id=48335910724163491554831948137297~hmac=59607a34e52bb3fa91c56269432454821281e5d6fec411f3179960aa15120eb9
+#EXTINF:-1 tvg-id="1090546707_TAM" tvg-name="India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Hockey",India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [TAM]
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791062682~acl=/*~id=33731309021528271671377056099192~hmac=41c7750143b310d20c3afbef14385915dc3c066bbc122290e45612953174049e
 
-#EXTINF:-1 tvg-id="1090543297_ENG" tvg-name="Day 15 - 3 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports",Day 15 - 3 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791060861~acl=/*~id=48335910724163491554831948137297~hmac=59607a34e52bb3fa91c56269432454821281e5d6fec411f3179960aa15120eb9
+#EXTINF:-1 tvg-id="1090546707_TEL" tvg-name="India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Hockey",India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [TEL]
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791062682~acl=/*~id=33731309021528271671377056099192~hmac=41c7750143b310d20c3afbef14385915dc3c066bbc122290e45612953174049e
+
+#EXTINF:-1 tvg-id="1090546707_KAN" tvg-name="India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Hockey",India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 [KAN]
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791062682~acl=/*~id=33731309021528271671377056099192~hmac=41c7750143b310d20c3afbef14385915dc3c066bbc122290e45612953174049e
 

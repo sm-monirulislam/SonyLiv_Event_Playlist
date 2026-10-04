@@ -2,65 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:53 AM 04-10-2026",
-    "total_matches": 13,
-    "live_match": 5,
+    "last_update_time": "09:30:40 AM 04-10-2026",
+    "total_matches": 8,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090546670_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791125827~acl=/*~id=95886956948758124683824852833258~hmac=d54339d9ccab883692af82be1597951640a71a9a5473898720db6fbfb35e75bd"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090546670_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791125827~acl=/*~id=95886956948758124683824852833258~hmac=d54339d9ccab883692af82be1597951640a71a9a5473898720db6fbfb35e75bd"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090546670_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791125827~acl=/*~id=95886956948758124683824852833258~hmac=d54339d9ccab883692af82be1597951640a71a9a5473898720db6fbfb35e75bd"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090546670_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791125827~acl=/*~id=95886956948758124683824852833258~hmac=d54339d9ccab883692af82be1597951640a71a9a5473898720db6fbfb35e75bd"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090546670_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791125827~acl=/*~id=95886956948758124683824852833258~hmac=d54339d9ccab883692af82be1597951640a71a9a5473898720db6fbfb35e75bd"
-        },
         {
             "event_category": "Cricket",
             "contentId": 1090546015,
@@ -84,7 +29,7 @@
         {
             "event_category": "Football",
             "contentId": 1090546952,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025771/179102924286596_UNL_Portugal_vs_Norway_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025822/1791064274144264_UNL2627_Portugal_vs_Norway_tonight_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Portugal vs Norway - UEFA Nations League 2026-27",
@@ -94,7 +39,7 @@
         {
             "event_category": "Football",
             "contentId": 1090546951,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025771/179102914965796_UNL_France_vs_Belgium_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025823/1791065007677637_UNL2627_France_vs_Belgium_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - France vs Belgium - UEFA Nations League 2026-27",

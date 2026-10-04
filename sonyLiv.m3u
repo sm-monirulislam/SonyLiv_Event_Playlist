@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-04 18:00:59 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-04 18:30:59 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="1090546998_ENG" tvg-name="Azerbaijan vs Lithuania - 4 Oct 2026  [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794655063993_UNL2627_MD4_Azerbaijan_vs_Lithuania_landscape_thumb.jpg" group-title="Football",Azerbaijan vs Lithuania - 4 Oct 2026  [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6
+
 #EXTINF:-1 tvg-id="1090546993_ENG" tvg-name="Alfred Dunhill Links Championship - Day 4 - 4 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561630121673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day4_landscape_thumb.jpg" group-title="Golf",Alfred Dunhill Links Championship - Day 4 - 4 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791157957~acl=/*~id=55416841096315329229394167624026~hmac=1ff88e01f706e45726691f14a3148b37cee510c5acd894d54532c735cf8efbc7
+https://sonydaimenew.akamaized.net/hls/live/2120301/golflive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791159775~acl=/*~id=31292415602629768397011227129590~hmac=8adcbf79dd7820a0bf70096b100dba75dd7e872f5631e8df690ea833c49104f6
 

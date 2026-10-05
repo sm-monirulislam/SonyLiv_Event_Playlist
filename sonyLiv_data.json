@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:31:06 PM 05-10-2026",
-    "total_matches": 8,
-    "live_match": 1,
+    "last_update_time": "12:01:11 AM 06-10-2026",
+    "total_matches": 7,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": "1090547070_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Cyprus vs Latvia - 5 Oct 2026  [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791264559~acl=/*~id=94394599622032606860228683917186~hmac=98d2c862d22ade6a1e3eda679926ed383cce3c1b22728902ae4b7c38e9090ba5"
-        },
         {
             "event_category": "Football",
             "contentId": 1090546951,

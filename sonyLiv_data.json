@@ -2,31 +2,31 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:01:06 PM 07-10-2026",
+    "last_update_time": "10:01:10 PM 07-10-2026",
     "total_matches": 7,
     "live_match": 2,
     "matches": [
         {
             "event_category": "Volleyball",
             "contentId": "1090547324_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025944/1791297098402989_VCL_Ayodhya-Garjan-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Ayodhya Garjan vs Garvi Gujjus - 7 Oct 2026 [ENG]",
+            "match_name": "Hooghly Hitters vs Namma Bengaluru Smashers - 7 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791428284~acl=/*~id=07670807405843809050714704225348~hmac=e6a02e9caf9b84c60e0590a17ac0eb83583f4915403a6dafadae2172dca61f08"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791431924~acl=/*~id=35133509318803168175975162004492~hmac=25c571f68d8e8e07b941e45ef00a15806033b15ce3fa7c62a489177fd2a15ee1"
         },
         {
             "event_category": "Volleyball",
             "contentId": "1090547324_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025944/1791297098402989_VCL_Ayodhya-Garjan-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Ayodhya Garjan vs Garvi Gujjus - 7 Oct 2026 [HIN]",
+            "match_name": "Hooghly Hitters vs Namma Bengaluru Smashers - 7 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791428284~acl=/*~id=07670807405843809050714704225348~hmac=e6a02e9caf9b84c60e0590a17ac0eb83583f4915403a6dafadae2172dca61f08"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791431924~acl=/*~id=35133509318803168175975162004492~hmac=25c571f68d8e8e07b941e45ef00a15806033b15ce3fa7c62a489177fd2a15ee1"
         },
         {
             "event_category": "Football",

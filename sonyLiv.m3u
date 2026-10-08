@@ -3,10 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-08 18:30:56 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-08 19:01:04 (BD Time)
+#  Channels Count: 3
 #=================================
 
+#EXTINF:-1 tvg-id="1090547521_ENG" tvg-name="Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791507032~acl=/*~id=22144494582013795362473131317189~hmac=b8061bd5ac9fa9b70a160900d2f92bebfdcc784c62e8d3efaacacd60d449ba56
+
+#EXTINF:-1 tvg-id="1090547521_HIN" tvg-name="Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791507032~acl=/*~id=22144494582013795362473131317189~hmac=b8061bd5ac9fa9b70a160900d2f92bebfdcc784c62e8d3efaacacd60d449ba56
+
 #EXTINF:-1 tvg-id="1090547326_ENG" tvg-name="Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg" group-title="Golf",Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791504590~acl=/*~id=03517781518624548885792181722705~hmac=566f31071316faee8d4b87346ae37444ceb917c6780cdf3eb839b023cb4194cb
+https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791507032~acl=/*~id=22144494582013795362473131317189~hmac=b8061bd5ac9fa9b70a160900d2f92bebfdcc784c62e8d3efaacacd60d449ba56
 

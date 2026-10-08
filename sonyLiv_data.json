@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:01:12 PM 08-10-2026",
-    "total_matches": 16,
-    "live_match": 4,
+    "last_update_time": "10:31:08 PM 08-10-2026",
+    "total_matches": 15,
+    "live_match": 3,
     "matches": [
         {
             "event_category": "Volleyball",
@@ -15,7 +15,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Haryana Hurricanes vs Delhi Dynamites  - 8 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791517988~acl=/*~id=18805592187483976661061108363465~hmac=8636f0fa0bb378d76f35a246b4d094728a4f620a57f335e3396490bbf40a5e6a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791519812~acl=/*~id=40536180042322438258682594649229~hmac=811111771018757e6a5c3ceda6b854022dcbf62fcce5b919917bdf7b50b2d314"
         },
         {
             "event_category": "Volleyball",
@@ -26,18 +26,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Haryana Hurricanes vs Delhi Dynamites  - 8 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791517988~acl=/*~id=18805592187483976661061108363465~hmac=8636f0fa0bb378d76f35a246b4d094728a4f620a57f335e3396490bbf40a5e6a"
-        },
-        {
-            "event_category": "Archery",
-            "contentId": "1090547516_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025915/1791271887266161_APL26_Chola-Chiefs-vs-Chero-Archers_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Archery Premier League 2026",
-            "match_name": "Chola Chiefs vs Chero Archers - 8 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791517988~acl=/*~id=18805592187483976661061108363465~hmac=8636f0fa0bb378d76f35a246b4d094728a4f620a57f335e3396490bbf40a5e6a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791519812~acl=/*~id=40536180042322438258682594649229~hmac=811111771018757e6a5c3ceda6b854022dcbf62fcce5b919917bdf7b50b2d314"
         },
         {
             "event_category": "Golf",
@@ -48,7 +37,7 @@
             "event_name": "DP World Tour",
             "match_name": "Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791517988~acl=/*~id=18805592187483976661061108363465~hmac=8636f0fa0bb378d76f35a246b4d094728a4f620a57f335e3396490bbf40a5e6a"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791519812~acl=/*~id=40536180042322438258682594649229~hmac=811111771018757e6a5c3ceda6b854022dcbf62fcce5b919917bdf7b50b2d314"
         },
         {
             "event_category": "Football",

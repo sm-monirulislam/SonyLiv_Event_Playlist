@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:01:08 PM 08-10-2026",
+    "last_update_time": "08:31:00 PM 08-10-2026",
     "total_matches": 16,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791512505~acl=/*~id=74014294051013636270140529206567~hmac=f837f729cc98f0756aecc83522155b5247ce63071033a67d41b2f3c57f025284"
         },
         {
             "event_category": "Volleyball",
@@ -26,7 +26,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791512505~acl=/*~id=74014294051013636270140529206567~hmac=f837f729cc98f0756aecc83522155b5247ce63071033a67d41b2f3c57f025284"
         },
         {
             "event_category": "Archery",
@@ -37,7 +37,7 @@
             "event_name": "Archery Premier League 2026",
             "match_name": "Rajputana Royals vs Prithviraj Yodhas - 8 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791512505~acl=/*~id=74014294051013636270140529206567~hmac=f837f729cc98f0756aecc83522155b5247ce63071033a67d41b2f3c57f025284"
         },
         {
             "event_category": "Golf",
@@ -48,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791512505~acl=/*~id=74014294051013636270140529206567~hmac=f837f729cc98f0756aecc83522155b5247ce63071033a67d41b2f3c57f025284"
         },
         {
             "event_category": "Football",

@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:30:56 PM 08-10-2026",
-    "total_matches": 15,
-    "live_match": 3,
+    "last_update_time": "08:01:08 PM 08-10-2026",
+    "total_matches": 16,
+    "live_match": 4,
     "matches": [
         {
             "event_category": "Volleyball",
@@ -15,7 +15,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791508855~acl=/*~id=33609441647366144641883234079021~hmac=08260d460705ad340bf0b2d8ff8db0c5a5e125e3f9e02369db079d97f0f4b880"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
         },
         {
             "event_category": "Volleyball",
@@ -26,7 +26,18 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791508855~acl=/*~id=33609441647366144641883234079021~hmac=08260d460705ad340bf0b2d8ff8db0c5a5e125e3f9e02369db079d97f0f4b880"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+        },
+        {
+            "event_category": "Archery",
+            "contentId": "1090547516_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025963/1791360261025494_APL26_Rajputana-Royals-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2026",
+            "match_name": "Rajputana Royals vs Prithviraj Yodhas - 8 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
         },
         {
             "event_category": "Golf",
@@ -37,7 +48,17 @@
             "event_name": "DP World Tour",
             "match_name": "Open de Espana Presented By Madrid - Day 1 - 8 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791508855~acl=/*~id=33609441647366144641883234079021~hmac=08260d460705ad340bf0b2d8ff8db0c5a5e125e3f9e02369db079d97f0f4b880"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090547563,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Football",
@@ -51,11 +72,11 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090547563,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
+            "contentId": 1090547561,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27",
+            "event_name": "Upcoming - Manchester City vs PSG - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -76,16 +97,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Barcelona - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090547561,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Manchester City vs PSG - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:01:43 PM 09-10-2026",
-    "total_matches": 16,
-    "live_match": 4,
+    "last_update_time": "10:31:34 PM 09-10-2026",
+    "total_matches": 15,
+    "live_match": 3,
     "matches": [
         {
             "event_category": "Volleyball",
@@ -15,7 +15,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Tamil Titans vs Namma Bengaluru Smashers - 9 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791604569~acl=/*~id=72056045944201485778947160741561~hmac=11f8107ca5f7ff94f2e9dd37828c97403f6b4fdc9e69a6b59b633d4ea05a1abc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791606391~acl=/*~id=60380719411213976677880877338000~hmac=45c2c34e3bb392b07f69e8aba338db3161c6954f6d27ccd195dc7f066d5d1448"
         },
         {
             "event_category": "Volleyball",
@@ -26,18 +26,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Tamil Titans vs Namma Bengaluru Smashers - 9 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Volleyba0910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791604569~acl=/*~id=72056045944201485778947160741561~hmac=11f8107ca5f7ff94f2e9dd37828c97403f6b4fdc9e69a6b59b633d4ea05a1abc"
-        },
-        {
-            "event_category": "Archery",
-            "contentId": "1090547533_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026049/1791528588085353_APL26_Mighty-Marathas-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Archery Premier League 2026",
-            "match_name": "Mighty Marathas vs Prithviraj Yodhas - 9 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791604569~acl=/*~id=72056045944201485778947160741561~hmac=11f8107ca5f7ff94f2e9dd37828c97403f6b4fdc9e69a6b59b633d4ea05a1abc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Volleyba0910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791606391~acl=/*~id=60380719411213976677880877338000~hmac=45c2c34e3bb392b07f69e8aba338db3161c6954f6d27ccd195dc7f066d5d1448"
         },
         {
             "event_category": "Golf",
@@ -48,7 +37,7 @@
             "event_name": "DP World Tour",
             "match_name": "Open de Espana Presented By Madrid - Day 2 - 9 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791604569~acl=/*~id=72056045944201485778947160741561~hmac=11f8107ca5f7ff94f2e9dd37828c97403f6b4fdc9e69a6b59b633d4ea05a1abc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791606391~acl=/*~id=60380719411213976677880877338000~hmac=45c2c34e3bb392b07f69e8aba338db3161c6954f6d27ccd195dc7f066d5d1448"
         },
         {
             "event_category": "Football",

@@ -2,42 +2,42 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:01:33 PM 09-10-2026",
+    "last_update_time": "09:31:21 PM 09-10-2026",
     "total_matches": 16,
     "live_match": 4,
     "matches": [
         {
             "event_category": "Volleyball",
             "contentId": "1090547531_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373644213475_VCL_Tamil-Titans-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [ENG]",
+            "match_name": "Tamil Titans vs Namma Bengaluru Smashers - 9 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791602709~acl=/*~id=54526511789995506160151160317686~hmac=f72122e2f3ad17d5d42fec43c7e1a5cd79976429f9450a960cc4b46b7ec8b733"
         },
         {
             "event_category": "Volleyball",
             "contentId": "1090547531_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373644213475_VCL_Tamil-Titans-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Punjab Aerostrikers vs Garvi Gujjus - 9 Oct 2026 [HIN]",
+            "match_name": "Tamil Titans vs Namma Bengaluru Smashers - 9 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Volleyba0910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Volleyba0910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791602709~acl=/*~id=54526511789995506160151160317686~hmac=f72122e2f3ad17d5d42fec43c7e1a5cd79976429f9450a960cc4b46b7ec8b733"
         },
         {
             "event_category": "Archery",
             "contentId": "1090547533_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026049/1791528588085353_APL26_Mighty-Marathas-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2026",
-            "match_name": "Kakatiya Knights vs Chola Chiefs - 9 Oct 2026 [ENG]",
+            "match_name": "Mighty Marathas vs Prithviraj Yodhas - 9 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791602709~acl=/*~id=54526511789995506160151160317686~hmac=f72122e2f3ad17d5d42fec43c7e1a5cd79976429f9450a960cc4b46b7ec8b733"
         },
         {
             "event_category": "Golf",
@@ -48,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Open de Espana Presented By Madrid - Day 2 - 9 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791600923~acl=/*~id=85258702214696926106555564415029~hmac=894e932cddab83e5b21e9981b25a4722230aaa06cdb218e0ee62caa11f002f06"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791602709~acl=/*~id=54526511789995506160151160317686~hmac=f72122e2f3ad17d5d42fec43c7e1a5cd79976429f9450a960cc4b46b7ec8b733"
         },
         {
             "event_category": "Football",

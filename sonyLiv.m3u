@@ -3,7 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-10 16:31:29 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-10-10 17:01:44 (BD Time)
+#  Channels Count: 2
 #=================================
+
+#EXTINF:-1 tvg-id="1090547633_ENG" tvg-name="Bengaluru FC vs Sporting Club Delhi - 10 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg" group-title="Football",Bengaluru FC vs Sporting Club Delhi - 10 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3
+
+#EXTINF:-1 tvg-id="1090547633_HIN" tvg-name="Bengaluru FC vs Sporting Club Delhi - 10 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg" group-title="Football",Bengaluru FC vs Sporting Club Delhi - 10 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3
 

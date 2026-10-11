@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:01:44 AM 11-10-2026",
+    "last_update_time": "06:31:37 AM 11-10-2026",
     "total_matches": 19,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UFC Fight Night - Allen vs Duncan ",
             "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791719612~acl=/*~id=89787221745736481181021395959153~hmac=8fe44ff06b07b948fad2bb5928d8a541840320289d6375271ddb790bca9b57fc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
         },
         {
             "event_category": "Fight Sports",
@@ -26,7 +26,7 @@
             "event_name": "UFC Fight Night - Allen vs Duncan ",
             "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791719612~acl=/*~id=89787221745736481181021395959153~hmac=8fe44ff06b07b948fad2bb5928d8a541840320289d6375271ddb790bca9b57fc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
         },
         {
             "event_category": "Fight Sports",
@@ -37,7 +37,7 @@
             "event_name": "UFC Fight Night - Allen vs Duncan ",
             "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791719612~acl=/*~id=89787221745736481181021395959153~hmac=8fe44ff06b07b948fad2bb5928d8a541840320289d6375271ddb790bca9b57fc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
         },
         {
             "event_category": "Fight Sports",
@@ -48,7 +48,7 @@
             "event_name": "UFC Fight Night - Allen vs Duncan ",
             "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791719612~acl=/*~id=89787221745736481181021395959153~hmac=8fe44ff06b07b948fad2bb5928d8a541840320289d6375271ddb790bca9b57fc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
         },
         {
             "event_category": "Fight Sports",
@@ -59,7 +59,7 @@
             "event_name": "UFC Fight Night - Allen vs Duncan ",
             "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791719612~acl=/*~id=89787221745736481181021395959153~hmac=8fe44ff06b07b948fad2bb5928d8a541840320289d6375271ddb790bca9b57fc"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
         },
         {
             "event_category": "Football",

@@ -3,22 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-11 22:01:44 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-10-11 22:31:32 (BD Time)
+#  Channels Count: 2
 #=================================
 
-#EXTINF:-1 tvg-id="1090547704_ENG" tvg-name="Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg" group-title="Football",Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791777193~acl=/*~id=95395965353799029683586666390804~hmac=514e9b5ed108370f39d7732a9df2db8c1ea85810303313a44f4cdaa1bf13202b
-
-#EXTINF:-1 tvg-id="1090547704_HIN" tvg-name="Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg" group-title="Football",Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791777193~acl=/*~id=95395965353799029683586666390804~hmac=514e9b5ed108370f39d7732a9df2db8c1ea85810303313a44f4cdaa1bf13202b
-
 #EXTINF:-1 tvg-id="1090547695_ENG" tvg-name="Namma Bengaluru Smashers vs Haryana Hurricanes - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg" group-title="Volleyball",Namma Bengaluru Smashers vs Haryana Hurricanes - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791777193~acl=/*~id=95395965353799029683586666390804~hmac=514e9b5ed108370f39d7732a9df2db8c1ea85810303313a44f4cdaa1bf13202b
+https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791779017~acl=/*~id=73038635773504909198054773078433~hmac=41f78db4d1e5d37ac8b82dbd30aedf9ab5cfa3ba6c949b1ec6479a2ccfc40f81
 
 #EXTINF:-1 tvg-id="1090547695_HIN" tvg-name="Namma Bengaluru Smashers vs Haryana Hurricanes - 11 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg" group-title="Volleyball",Namma Bengaluru Smashers vs Haryana Hurricanes - 11 Oct 2026 [HIN]
-https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791777193~acl=/*~id=95395965353799029683586666390804~hmac=514e9b5ed108370f39d7732a9df2db8c1ea85810303313a44f4cdaa1bf13202b
-
-#EXTINF:-1 tvg-id="1090547697_ENG" tvg-name="Mighty Marathas vs Rajputana Royals - 11 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026051/1791529454329250_APL26_Mighty-Marathas-vs-Rajputana-Royals_live_landscape_thumb.jpg" group-title="Archery",Mighty Marathas vs Rajputana Royals - 11 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791777193~acl=/*~id=95395965353799029683586666390804~hmac=514e9b5ed108370f39d7732a9df2db8c1ea85810303313a44f4cdaa1bf13202b
+https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791779017~acl=/*~id=73038635773504909198054773078433~hmac=41f78db4d1e5d37ac8b82dbd30aedf9ab5cfa3ba6c949b1ec6479a2ccfc40f81
 

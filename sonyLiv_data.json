@@ -2,42 +2,31 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:31:31 PM 11-10-2026",
+    "last_update_time": "08:01:43 PM 11-10-2026",
     "total_matches": 20,
     "live_match": 6,
     "matches": [
         {
             "event_category": "Football",
-            "contentId": "1090547694_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
+            "contentId": "1090547704_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]",
+            "match_name": "Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768075~acl=/*~id=25629559590616958457600970351967~hmac=6dfc297f617c93161879effd9a2cbed2414999b71dc467625f0048b24dbdd060"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
         },
         {
             "event_category": "Football",
-            "contentId": "1090547694_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
+            "contentId": "1090547704_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]",
+            "match_name": "Churchill Brothers FC vs Mumbai City FC  - 11 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768075~acl=/*~id=25629559590616958457600970351967~hmac=6dfc297f617c93161879effd9a2cbed2414999b71dc467625f0048b24dbdd060"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090547694_MAL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791768075~acl=/*~id=25629559590616958457600970351967~hmac=6dfc297f617c93161879effd9a2cbed2414999b71dc467625f0048b24dbdd060"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
         },
         {
             "event_category": "Volleyball",
@@ -48,7 +37,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768075~acl=/*~id=25629559590616958457600970351967~hmac=6dfc297f617c93161879effd9a2cbed2414999b71dc467625f0048b24dbdd060"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
         },
         {
             "event_category": "Volleyball",
@@ -59,7 +48,18 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Garvi Gujjus vs Emperia Marathas - 11 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768075~acl=/*~id=25629559590616958457600970351967~hmac=6dfc297f617c93161879effd9a2cbed2414999b71dc467625f0048b24dbdd060"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
+        },
+        {
+            "event_category": "Archery",
+            "contentId": "1090547697_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791530090679684_APL26_Chero-Archers-vs-Kakatiya-Knights_live-landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2026",
+            "match_name": "Chero Archers vs Kakatiya Knights - 11 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
         },
         {
             "event_category": "Golf",
@@ -70,7 +70,7 @@
             "event_name": "DP World Tour",
             "match_name": "Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768075~acl=/*~id=25629559590616958457600970351967~hmac=6dfc297f617c93161879effd9a2cbed2414999b71dc467625f0048b24dbdd060"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
         },
         {
             "event_category": "Football",
@@ -105,7 +105,7 @@
         {
             "event_category": "Football",
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634818761493_Churchill_Brothers_FC-vs_Mumbai_City_FC_tonight_landscape_Thum.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026117/1791639148861873_ISL_NorthEast_United_vs_Mohun_Bagan_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",

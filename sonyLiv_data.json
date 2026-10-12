@@ -2,43 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:01:47 PM 12-10-2026",
-    "total_matches": 20,
-    "live_match": 6,
+    "last_update_time": "10:32:09 PM 12-10-2026",
+    "total_matches": 16,
+    "live_match": 2,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": "1090547710_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791863769~acl=/*~id=95018126080295792259912112943612~hmac=b97e1707cd7d60291f292ffb0813a219df991c2177df24c52caa788f86e34e40"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090547710_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791863769~acl=/*~id=95018126080295792259912112943612~hmac=b97e1707cd7d60291f292ffb0813a219df991c2177df24c52caa788f86e34e40"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090547710_BEN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [BEN]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791863769~acl=/*~id=95018126080295792259912112943612~hmac=b97e1707cd7d60291f292ffb0813a219df991c2177df24c52caa788f86e34e40"
-        },
         {
             "event_category": "Volleyball",
             "contentId": "1090547705_ENG",
@@ -48,7 +15,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Tamil Titans vs Hooghly Hitters - 12 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791863769~acl=/*~id=95018126080295792259912112943612~hmac=b97e1707cd7d60291f292ffb0813a219df991c2177df24c52caa788f86e34e40"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791865595~acl=/*~id=16062946741208558282892137072433~hmac=18f086ef6d9b7695abaf388349474ecf6de9b30ef21890a306ea72029f261798"
         },
         {
             "event_category": "Volleyball",
@@ -59,18 +26,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Tamil Titans vs Hooghly Hitters - 12 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791863769~acl=/*~id=95018126080295792259912112943612~hmac=b97e1707cd7d60291f292ffb0813a219df991c2177df24c52caa788f86e34e40"
-        },
-        {
-            "event_category": "Archery",
-            "contentId": "1090547706_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026133/1791660631760741_APL26_Prithviraj_Yodhas_vs_Kakatiya_Knights_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Archery Premier League 2026",
-            "match_name": "Prithviraj Yodhas vs Kakatiya Knights - 12 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791863769~acl=/*~id=95018126080295792259912112943612~hmac=b97e1707cd7d60291f292ffb0813a219df991c2177df24c52caa788f86e34e40"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791865595~acl=/*~id=16062946741208558282892137072433~hmac=18f086ef6d9b7695abaf388349474ecf6de9b30ef21890a306ea72029f261798"
         },
         {
             "event_category": "Football",

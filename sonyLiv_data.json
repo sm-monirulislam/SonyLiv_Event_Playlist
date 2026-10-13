@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:02:20 PM 13-10-2026",
+    "last_update_time": "07:31:42 PM 13-10-2026",
     "total_matches": 17,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32"
         },
         {
             "event_category": "Volleyball",
@@ -26,7 +26,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "UEFA Youth League 2026-27",
             "match_name": "Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791941225~acl=/*~id=73215428919559096178952104124373~hmac=06514794c8bb4cf496cc8f910a7735df8848a112549ad21a1b603b3ceef80d32"
         },
         {
             "event_category": "Football",

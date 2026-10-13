@@ -3,10 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-13 18:32:03 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-13 19:02:20 (BD Time)
+#  Channels Count: 3
 #=================================
 
+#EXTINF:-1 tvg-id="1090547794_ENG" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86
+
+#EXTINF:-1 tvg-id="1090547794_HIN" tvg-name="Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball",Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [HIN]
+https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86
+
 #EXTINF:-1 tvg-id="1090547793_ENG" tvg-name="Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg" group-title="Football",Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791937583~acl=/*~id=49668986837274613944609779412834~hmac=cd07aca9e2e65b1e8bc4ca51a688483c717b82cbb54fbd3bd275b396c6de9166
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939404~acl=/*~id=28028086940467373971284189966771~hmac=205d6bf6a858a0c9f611af9561930bfbc9b2d461449cc320d482e477fae7fa86
 

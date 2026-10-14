@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:30:55 PM 14-10-2026",
-    "total_matches": 15,
-    "live_match": 5,
+    "last_update_time": "08:00:51 PM 14-10-2026",
+    "total_matches": 17,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Football",
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Punjab FC vs Odisha FC - 14 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027383~acl=/*~id=40061490883521512314446918180550~hmac=192a2f5346f36e8dd919dba8a5231731cc561b9c97792624f3229ea668f58b9c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029208~acl=/*~id=69037234951222542482549834004168~hmac=55190ceecbc529c5d022140583c8b9f2082fad1eb9c2ad1c31cdde791a45aa1a"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Punjab FC vs Odisha FC - 14 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792027383~acl=/*~id=40061490883521512314446918180550~hmac=192a2f5346f36e8dd919dba8a5231731cc561b9c97792624f3229ea668f58b9c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792029208~acl=/*~id=69037234951222542482549834004168~hmac=55190ceecbc529c5d022140583c8b9f2082fad1eb9c2ad1c31cdde791a45aa1a"
         },
         {
             "event_category": "Volleyball",
@@ -37,7 +37,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Ayodhya Garjan vs Emperia Marathas - 14 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027383~acl=/*~id=40061490883521512314446918180550~hmac=192a2f5346f36e8dd919dba8a5231731cc561b9c97792624f3229ea668f58b9c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029208~acl=/*~id=69037234951222542482549834004168~hmac=55190ceecbc529c5d022140583c8b9f2082fad1eb9c2ad1c31cdde791a45aa1a"
         },
         {
             "event_category": "Volleyball",
@@ -48,7 +48,29 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Ayodhya Garjan vs Emperia Marathas - 14 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792027383~acl=/*~id=40061490883521512314446918180550~hmac=192a2f5346f36e8dd919dba8a5231731cc561b9c97792624f3229ea668f58b9c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792029208~acl=/*~id=69037234951222542482549834004168~hmac=55190ceecbc529c5d022140583c8b9f2082fad1eb9c2ad1c31cdde791a45aa1a"
+        },
+        {
+            "event_category": "Archery",
+            "contentId": "1090547997_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791662919535929_APL26_Chero_Archers_vs_Prithviraj_Yodhas_live_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Archery Premier League 2026",
+            "match_name": "Chero Archers vs Prithviraj Yodhas - 14 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029208~acl=/*~id=69037234951222542482549834004168~hmac=55190ceecbc529c5d022140583c8b9f2082fad1eb9c2ad1c31cdde791a45aa1a"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090547983_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025830/179109334636999_UYL26_Manchester_City_vs_PSG_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Youth League 2026-27",
+            "match_name": "Manchester City vs PSG - MD 2 - 14 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029208~acl=/*~id=69037234951222542482549834004168~hmac=55190ceecbc529c5d022140583c8b9f2082fad1eb9c2ad1c31cdde791a45aa1a"
         },
         {
             "event_category": "Football",
@@ -59,7 +81,7 @@
             "event_name": "UEFA Youth League 2026-27",
             "match_name": "Roma vs Real Madrid - MD 2 - 14 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027383~acl=/*~id=40061490883521512314446918180550~hmac=192a2f5346f36e8dd919dba8a5231731cc561b9c97792624f3229ea668f58b9c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029208~acl=/*~id=69037234951222542482549834004168~hmac=55190ceecbc529c5d022140583c8b9f2082fad1eb9c2ad1c31cdde791a45aa1a"
         },
         {
             "event_category": "Football",

@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:01:00 AM 16-10-2026",
-    "total_matches": 8,
-    "live_match": 2,
+    "last_update_time": "01:31:03 AM 16-10-2026",
+    "total_matches": 7,
+    "live_match": 1,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": "1090548084_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Lyon vs Crystal Palace - MD2 - 15 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e"
-        },
         {
             "event_category": "Football",
             "contentId": "1090548315_ENG",
@@ -26,7 +15,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Celta vs Juventus- 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133650~acl=/*~id=68740860077562547187382616377275~hmac=8c17fd596cd8012e7dbd81e637c4fc008112c3bbac9862bdc80b6f897847ba2e"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792135468~acl=/*~id=34384541915083584311778472923435~hmac=060b0d64d7e5ffaa6e62684cc515c8054b5da15080c0f23ef075ce096a72c7f3"
         },
         {
             "event_category": "Cricket",

@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:30:37 AM 15-10-2026",
-    "total_matches": 9,
+    "last_update_time": "06:00:57 AM 15-10-2026",
+    "total_matches": 8,
     "live_match": 0,
     "matches": [
         {
@@ -29,7 +29,7 @@
         {
             "event_category": "Football",
             "contentId": 1090548357,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026360/1792003020481677_UEL26_MD2_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026379/1792020538186152_UEL_Lyon_vs_Crystal_Palace_dated_rev_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
@@ -43,16 +43,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090547565,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791447970798949_UCL_MD2_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:58 PM 16-10-2026",
+    "last_update_time": "02:30:59 PM 16-10-2026",
     "total_matches": 8,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "DP World India Championship - Day 2 - 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792180266~acl=/*~id=33323731762165149142172886413492~hmac=ae8e829eac504fdbd5378a820d9945bd1d4727d791938a1c543e16418fae80d2"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792182085~acl=/*~id=83933045258134905940119379131023~hmac=d8f1f4ecfbb837fd2857d01a334e1d6de73c6650c59bc5db381119fe8ff4da39"
         },
         {
             "event_category": "Golf",
@@ -26,7 +26,7 @@
             "event_name": "Asian Tour 2026",
             "match_name": "SJM Macao Open - Day 2 - 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792180266~acl=/*~id=33323731762165149142172886413492~hmac=ae8e829eac504fdbd5378a820d9945bd1d4727d791938a1c543e16418fae80d2"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792182085~acl=/*~id=83933045258134905940119379131023~hmac=d8f1f4ecfbb837fd2857d01a334e1d6de73c6650c59bc5db381119fe8ff4da39"
         },
         {
             "event_category": "Cricket",

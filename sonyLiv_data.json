@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:30:58 PM 16-10-2026",
+    "last_update_time": "06:01:00 PM 16-10-2026",
     "total_matches": 8,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "DP World India Championship - Day 2 - 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792192992~acl=/*~id=54805184670252720547191477615098~hmac=66210dc6ecb2aabe8ed7565c3510d373ec929a9d6639ed5835a00bae37b47969"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792194810~acl=/*~id=71556548997821380536063076196568~hmac=684cdfae85dbd5e394a90beb293613181bcdef7b6edb8e141067e13472e9db8c"
         },
         {
             "event_category": "Cricket",

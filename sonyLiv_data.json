@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:01:02 PM 16-10-2026",
+    "last_update_time": "09:31:00 PM 16-10-2026",
     "total_matches": 13,
     "live_match": 6,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792207580~acl=/*~id=63053808822200671803931542801009~hmac=9032f43403acbee74cf121c6ae60e2f2dc89e58a7685f590b249d42678944f3f"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792207580~acl=/*~id=63053808822200671803931542801009~hmac=9032f43403acbee74cf121c6ae60e2f2dc89e58a7685f590b249d42678944f3f"
         },
         {
             "event_category": "Football",
@@ -37,40 +37,40 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [BEN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792207580~acl=/*~id=63053808822200671803931542801009~hmac=9032f43403acbee74cf121c6ae60e2f2dc89e58a7685f590b249d42678944f3f"
         },
         {
             "event_category": "Volleyball",
             "contentId": "1090548553_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026453/179210216462210_VCL26_super6_Punjab_vs_Haryana_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026455/1792105569097991_VCL26_super6_Tamil_Titans_vs_Ayodhya_Garjan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [ENG]",
+            "match_name": "Tamil Titans vs Ayodhya Garjan - Super 6 - 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792207580~acl=/*~id=63053808822200671803931542801009~hmac=9032f43403acbee74cf121c6ae60e2f2dc89e58a7685f590b249d42678944f3f"
         },
         {
             "event_category": "Volleyball",
             "contentId": "1090548553_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026453/179210216462210_VCL26_super6_Punjab_vs_Haryana_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026455/1792105569097991_VCL26_super6_Tamil_Titans_vs_Ayodhya_Garjan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Volleyball Championship League 2026 ",
-            "match_name": "Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [HIN]",
+            "match_name": "Tamil Titans vs Ayodhya Garjan - Super 6 - 16 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792207580~acl=/*~id=63053808822200671803931542801009~hmac=9032f43403acbee74cf121c6ae60e2f2dc89e58a7685f590b249d42678944f3f"
         },
         {
             "event_category": "Archery",
             "contentId": "1090548554_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959346936578_APL26_Prithviraj-Yodhas-vs-Chero-Archers_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959460803578_APL26_Mighty-Marathas-vs-Chero-Archers_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Archery Premier League 2026",
-            "match_name": "Prithviraj Yodhas vs Chero Archers - 16 Oct 2026 [ENG]",
+            "match_name": "Mighty Marathas vs Chero Archers - 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792205757~acl=/*~id=91663404985622854651164934977641~hmac=a14ab7ff618d30d8cd527c56e8bb546f3d3022b1d6c8ece624f09377a579ea0c"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792207580~acl=/*~id=63053808822200671803931542801009~hmac=9032f43403acbee74cf121c6ae60e2f2dc89e58a7685f590b249d42678944f3f"
         },
         {
             "event_category": "Cricket",

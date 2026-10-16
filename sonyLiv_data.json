@@ -2,10 +2,43 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:01:00 PM 16-10-2026",
-    "total_matches": 9,
-    "live_match": 2,
+    "last_update_time": "07:31:01 PM 16-10-2026",
+    "total_matches": 12,
+    "live_match": 5,
     "matches": [
+        {
+            "event_category": "Football",
+            "contentId": "1090548555_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090548555_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090548555_BEN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Sporting Club Delhi vs Mohun Bagan Super Giant - 16 Oct 2026 [BEN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
+        },
         {
             "event_category": "Volleyball",
             "contentId": "1090548553_ENG",
@@ -15,7 +48,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792198448~acl=/*~id=75146934195248449985401066206561~hmac=e7d9bf6abc1223240a753c31cc5a308970d145c13ad21b12e91d3cc95f5cb540"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
         },
         {
             "event_category": "Volleyball",
@@ -26,7 +59,7 @@
             "event_name": "Volleyball Championship League 2026 ",
             "match_name": "Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792198448~acl=/*~id=75146934195248449985401066206561~hmac=e7d9bf6abc1223240a753c31cc5a308970d145c13ad21b12e91d3cc95f5cb540"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792200283~acl=/*~id=06936646210768440876146363870629~hmac=5c2f2cf6d9729eef3716e03103316341fba129b2cb272bdc5715d3e90795f114"
         },
         {
             "event_category": "Cricket",
@@ -41,7 +74,7 @@
         {
             "event_category": "Football",
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791963032361998_ISL_SCD_vs_Mohun_Bagan_FC_promo_landscape_thumb_tonight.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973979294868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",

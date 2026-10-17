@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:23 PM 17-10-2026",
-    "total_matches": 13,
-    "live_match": 3,
+    "last_update_time": "05:30:23 PM 17-10-2026",
+    "total_matches": 14,
+    "live_match": 4,
     "matches": [
         {
             "event_category": "Football",
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Inter Kashi vs Odisha FC - 17 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792279661~acl=/*~id=82935608306541827699537448091102~hmac=b912e11485d025fbee49a8000070dda3076f6ead0c870e8f11d311ae26652413"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Inter Kashi vs Odisha FC - 17 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792279661~acl=/*~id=82935608306541827699537448091102~hmac=b912e11485d025fbee49a8000070dda3076f6ead0c870e8f11d311ae26652413"
         },
         {
             "event_category": "Golf",
@@ -37,7 +37,18 @@
             "event_name": "DP World Tour",
             "match_name": "DP World India Championship - Day 3 - 17 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277841~acl=/*~id=01236371083477616441002175408736~hmac=9ee557908cae80a0bc7793c5dd193ca11adb96d53a0364e7c2a2f81ef7483015"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi1710-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792279661~acl=/*~id=82935608306541827699537448091102~hmac=b912e11485d025fbee49a8000070dda3076f6ead0c870e8f11d311ae26652413"
+        },
+        {
+            "event_category": "Golf",
+            "contentId": "1090548915_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152367474905_DP-World-Locker-Room-D3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "DP World Locker Room - Day 3 - 17 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_DPW1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792279661~acl=/*~id=82935608306541827699537448091102~hmac=b912e11485d025fbee49a8000070dda3076f6ead0c870e8f11d311ae26652413"
         },
         {
             "event_category": "Cricket",

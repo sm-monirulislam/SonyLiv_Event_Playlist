@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-17 13:00:33 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-17 13:30:25 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="1090548710_ENG" tvg-name="DP World India Championship - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046030123742_DP-World_India-Championship_Day3_landscape_thumb.jpg" group-title="Golf",DP World India Championship - Day 3 - 17 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792265117~acl=/*~id=46585018770531469324960533532267~hmac=a19661643b4191bfc7422038b40db64bcf5275c6d902af0fc66c2ac8663acde4
+
 #EXTINF:-1 tvg-id="1090548709_ENG" tvg-name="SJM Macao Open - Day 3 - 17 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg" group-title="Golf",SJM Macao Open - Day 3 - 17 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792263294~acl=/*~id=01282327856075749174418735269628~hmac=f9a94d69ab1519c35b2f33318685dc6d1b239225d0bbba96af6fa3b1efe4e344
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792265117~acl=/*~id=46585018770531469324960533532267~hmac=a19661643b4191bfc7422038b40db64bcf5275c6d902af0fc66c2ac8663acde4
 

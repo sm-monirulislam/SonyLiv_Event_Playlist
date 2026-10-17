@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:28 PM 17-10-2026",
+    "last_update_time": "12:30:27 PM 17-10-2026",
     "total_matches": 10,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Asian Tour 2026",
             "match_name": "SJM Macao Open - Day 3 - 17 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792259652~acl=/*~id=33265172582221493709287253518527~hmac=56fa28eb6b9ead72b60ccaa96d8fb108bd35ea8545d29d8ad48b617936d41098"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792261471~acl=/*~id=51844387823442065826303315572418~hmac=62f5eeeb2396dafddc4e18aa6e9c470f5dd99fd04669838403d53f364593519c"
         },
         {
             "event_category": "Cricket",

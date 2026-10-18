@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:22 PM 18-10-2026",
+    "last_update_time": "06:30:22 PM 18-10-2026",
     "total_matches": 19,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [BEN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1810/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
         },
         {
             "event_category": "Golf",
@@ -48,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "DP World Locker Room - Day 4 - 18 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792367569~acl=/*~id=41895732607851068270151623420738~hmac=b5e6ecc706f2386c284c0c8dd0319550e30b666cbb399e76496e8fa5050a5385"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_DPW1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792369390~acl=/*~id=98212502978057569638524764082620~hmac=201c3cfb0c9446222ae6348c55244c4023808bb2a60e32d6bc40b75f7da3c1c9"
         },
         {
             "event_category": "Cricket",
@@ -57,6 +57,26 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090549142,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026640/1792324419964500_UCL_liverpool_vill_psg_barca_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090549143,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026634/1792321097703198_matchday_3_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -96,7 +116,7 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792060432660585_UCL26_PSG-vs-Barcelona_promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Paris Saint-Germain vs Barcelona - UEFA Champions League 2026-27 10",
+            "event_name": "Upcoming - Paris Saint-Germain vs Barcelona - UEFA Champions League 2026-27 ",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -117,26 +137,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - VfB Stuttgart vs Atlético de Madrid - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090549142,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026634/1792321097703198_matchday_3_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090549143,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026634/1792321097703198_matchday_3_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

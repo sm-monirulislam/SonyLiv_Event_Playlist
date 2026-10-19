@@ -2,10 +2,32 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:01:05 PM 19-10-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "08:01:02 PM 19-10-2026",
+    "total_matches": 19,
+    "live_match": 4,
     "matches": [
+        {
+            "event_category": "Football",
+            "contentId": "1090549233_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Punjab FC vs Mumbai City FC - 19 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive1910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090549233_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026609/1792269685499510_ISL26_PunjabFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Punjab FC vs Mumbai City FC - 19 Oct 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1910/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df"
+        },
         {
             "event_category": "Volleyball",
             "contentId": "1090549234_ENG",
@@ -15,7 +37,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi21910-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df"
         },
         {
             "event_category": "Volleyball",
@@ -26,7 +48,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": ""
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi21910-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792461422~acl=/*~id=71076701025865226626204529564732~hmac=d6e1f0da1b380422313bbfc4cd1130a044538dad55d6d31ebaca880de272d0df"
         },
         {
             "event_category": "Cricket",
@@ -55,16 +77,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026607/1792263924403477_ISL26_PunjabFC_vs_MumbaiCityFC_tonight_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -111,10 +123,20 @@
         {
             "event_category": "Cricket",
             "contentId": 1090548932,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -131,7 +153,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090548747,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026551/1792220136269169_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",

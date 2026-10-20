@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:01:04 AM 21-10-2026",
-    "total_matches": 26,
+    "last_update_time": "02:01:03 AM 21-10-2026",
+    "total_matches": 25,
     "live_match": 11,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "PSG vs Barcelona - 21 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "PSG vs Barcelona - 21 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "PSG vs Barcelona - 21 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2010-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2010-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -48,7 +48,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "PSG vs Barcelona - 21 Oct 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -59,7 +59,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "PSG vs Barcelona - 21 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -70,7 +70,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "Liverpool vs Villarreal - 21 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -81,7 +81,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "Man City vs AEK Athens - 21 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -92,7 +92,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "Stuttgart vs Atleti - 21 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -103,7 +103,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "Roma vs S. Bratislava - 21 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -114,7 +114,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "Napoli vs Bodø/Glimt - 21 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Football",
@@ -125,7 +125,7 @@
             "event_name": "UEFA Champions League 2026-27",
             "match_name": "Porto vs PSV - 21 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792565616~acl=/*~id=72591275990766925937297754449064~hmac=da4217970a466050a937d569432724e52693991baeb09048fa11f6d448d0dda8"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
         },
         {
             "event_category": "Cricket",
@@ -184,16 +184,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090549142,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026640/1792324419964500_UCL_liverpool_vill_psg_barca_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 3 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

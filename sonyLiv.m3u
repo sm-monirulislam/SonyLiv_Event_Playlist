@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-20 22:01:04 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-20 23:31:03 (BD Time)
+#  Channels Count: 2
 #=================================
 
-#EXTINF:-1 tvg-id="1090549193_ENG" tvg-name="Manchester City vs Athens - MD3 - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg" group-title="Football",Manchester City vs Athens - MD3 - 20 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554696~acl=/*~id=73671442893592361601831650050945~hmac=93c138373446e5cb3e9b853214eb78136b7f5ffc7ae0cfd143840ab8e44d1ab4
+#EXTINF:-1 tvg-id="1090549200_ENG" tvg-name="Sabah vs Dortmund - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg" group-title="Football",Sabah vs Dortmund - 20 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792560156~acl=/*~id=65571646087062890801613655161668~hmac=4d5b8f7ccfe36949b22feec113f86e0a03fc813f33147b5f9cd72973c7efad31
+
+#EXTINF:-1 tvg-id="1090549199_ENG" tvg-name="Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football",Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560156~acl=/*~id=65571646087062890801613655161668~hmac=4d5b8f7ccfe36949b22feec113f86e0a03fc813f33147b5f9cd72973c7efad31
 

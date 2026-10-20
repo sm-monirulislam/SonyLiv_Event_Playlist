@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:31:05 PM 20-10-2026",
+    "last_update_time": "10:01:04 PM 20-10-2026",
     "total_matches": 16,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UEFA Youth League 2026-27",
             "match_name": "Manchester City vs Athens - MD3 - 20 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792552876~acl=/*~id=76271453206190185531263016636292~hmac=ea21d1772e27479588e8e559f123769e240fd24e88ddc49afc0ff300d8bcdc9f"
+            "stream_link": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554696~acl=/*~id=73671442893592361601831650050945~hmac=93c138373446e5cb3e9b853214eb78136b7f5ffc7ae0cfd143840ab8e44d1ab4"
         },
         {
             "event_category": "Cricket",
@@ -90,7 +90,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090548932,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",
@@ -120,7 +120,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090548747,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507025103654_NZvsIND_5t20i_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",

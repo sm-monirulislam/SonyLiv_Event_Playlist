@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-21 16:30:45 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-21 18:30:47 (BD Time)
+#  Channels Count: 2
 #=================================
 
 #EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg" group-title="Cricket",Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792621372~acl=/*~id=12028391383296947903348950450069~hmac=fbc13d9e66cc29a62554821f0f3b7dcb57f08da7b8e9f9a86235ad59079f2bab
+https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792628646~acl=/*~id=28935171206672199819046981513033~hmac=1eed7774d78f0f862d80b74a714c52342d5562e4a890684a8beca158ef6df46e
+
+#EXTINF:-1 tvg-id="1090549301_ENG" tvg-name="LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg" group-title="Football",LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi22110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792628646~acl=/*~id=28935171206672199819046981513033~hmac=1eed7774d78f0f862d80b74a714c52342d5562e4a890684a8beca158ef6df46e
 

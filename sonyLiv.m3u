@@ -3,13 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-21 22:00:48 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-10-21 22:30:53 (BD Time)
+#  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd
+#EXTINF:-1 tvg-id="1090549217_ENG" tvg-name="Como vs Man United - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg" group-title="Football",Como vs Man United - 21 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d
 
-#EXTINF:-1 tvg-id="1090549302_ENG" tvg-name="Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg" group-title="Football",Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]
-https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd
+#EXTINF:-1 tvg-id="1090549320_ENG" tvg-name="Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d
+
+#EXTINF:-1 tvg-id="1090549216_ENG" tvg-name="Lille vs Galatasaray - 21 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg" group-title="Football",Lille vs Galatasaray - 21 Oct 2026 [ENG]
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792643241~acl=/*~id=94636605347823755380145502660396~hmac=0a0f288c10cb5f95df9968dcb5f26c670f4c7e2045d6870d0598cbd1c2d7b57d
 

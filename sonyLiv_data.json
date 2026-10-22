@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:30:36 PM 22-10-2026",
-    "total_matches": 9,
-    "live_match": 3,
+    "last_update_time": "11:00:38 PM 22-10-2026",
+    "total_matches": 8,
+    "live_match": 2,
     "matches": [
         {
             "event_category": "Football",
@@ -15,7 +15,7 @@
             "event_name": "UEFA Conference League 2026-27",
             "match_name": "Jablonec vs Brighton - 22 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792729527~acl=/*~id=71398807110671711878786217202040~hmac=bca1b4e9b83f8de681bd9c9610847164a659888af34f6684e9de75b1aefa40b3"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792731348~acl=/*~id=72051289123786711396639704138209~hmac=a006ca427ccd4284b9ee61a40a856e79aa587955b1c41cae8d95bdd9152c2471"
         },
         {
             "event_category": "Cricket",
@@ -26,18 +26,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792729527~acl=/*~id=71398807110671711878786217202040~hmac=bca1b4e9b83f8de681bd9c9610847164a659888af34f6684e9de75b1aefa40b3"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090549551_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Conference League 2026-27",
-            "match_name": "Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792729527~acl=/*~id=71398807110671711878786217202040~hmac=bca1b4e9b83f8de681bd9c9610847164a659888af34f6684e9de75b1aefa40b3"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792731348~acl=/*~id=72051289123786711396639704138209~hmac=a006ca427ccd4284b9ee61a40a856e79aa587955b1c41cae8d95bdd9152c2471"
         },
         {
             "event_category": "Football",

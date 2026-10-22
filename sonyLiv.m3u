@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-22 18:30:34 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-22 20:30:37 (BD Time)
+#  Channels Count: 2
 #=================================
 
 #EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792722221~acl=/*~id=88362645925855603556798412037885~hmac=585278e7013849e6c7ba327d83c7d0060d7804ec44d6a81c1ae72e1511968e27
+
+#EXTINF:-1 tvg-id="1090549551_ENG" tvg-name="Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg" group-title="Football",Kairat Almaty vs Panathinaikos - 22 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792722221~acl=/*~id=88362645925855603556798412037885~hmac=585278e7013849e6c7ba327d83c7d0060d7804ec44d6a81c1ae72e1511968e27
 

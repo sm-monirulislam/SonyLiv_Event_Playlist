@@ -3,22 +3,10 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-22 15:30:38 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-10-22 18:30:34 (BD Time)
+#  Channels Count: 1
 #=================================
 
-#EXTINF:-1 tvg-id="1090549541_ENG" tvg-name="1st T20I - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9
-
-#EXTINF:-1 tvg-id="1090549541_HIN" tvg-name="1st T20I - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9
-
-#EXTINF:-1 tvg-id="1090549541_TAM" tvg-name="1st T20I - 22 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [TAM]
-https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9
-
-#EXTINF:-1 tvg-id="1090549541_TEL" tvg-name="1st T20I - 22 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [TEL]
-https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9
-
-#EXTINF:-1 tvg-id="1090549541_KAN" tvg-name="1st T20I - 22 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="Cricket",1st T20I - 22 Oct 2026 [KAN]
-https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792703998~acl=/*~id=84478835524764000312303326404122~hmac=be06cade9a20f40f363f4b950c81c2a67ecb481eaeb7a2cae9685faf3b6d2ca9
+#EXTINF:-1 tvg-id="1090549594_HIN" tvg-name="Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg" group-title="Cricket",Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725
 

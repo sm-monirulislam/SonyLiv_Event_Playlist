@@ -3,10 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-23 00:00:16 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-10-23 02:00:15 (BD Time)
+#  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="1090549627_ENG" tvg-name="Jablonec vs Brighton - 22 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg" group-title="Football",Jablonec vs Brighton - 22 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891
+#EXTINF:-1 tvg-id="1090549712_ENG" tvg-name="Bournemouth vs Milan - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg" group-title="Football",Bournemouth vs Milan - 23 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792742268~acl=/*~id=96246439467060649798111465473761~hmac=4ea41930a0f9e29b25ab281ffb3ed6f3215c245a08d4e28fd05aac8cace46ef3
+
+#EXTINF:-1 tvg-id="1090549735_ENG" tvg-name="Beşiktaş vs Crystal Palace - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg" group-title="Football",Beşiktaş vs Crystal Palace - 23 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792742268~acl=/*~id=96246439467060649798111465473761~hmac=4ea41930a0f9e29b25ab281ffb3ed6f3215c245a08d4e28fd05aac8cace46ef3
+
+#EXTINF:-1 tvg-id="1090549910_ENG" tvg-name="Ajax vs Atalanta - 23 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg" group-title="Football",Ajax vs Atalanta - 23 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792742268~acl=/*~id=96246439467060649798111465473761~hmac=4ea41930a0f9e29b25ab281ffb3ed6f3215c245a08d4e28fd05aac8cace46ef3
 

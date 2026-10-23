@@ -2,14 +2,14 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:16 AM 24-10-2026",
+    "last_update_time": "02:00:15 AM 24-10-2026",
     "total_matches": 12,
     "live_match": 0,
     "matches": [
         {
             "event_category": "Cricket",
             "contentId": 1090550209,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027136/1792751462678156_NZ_vs_IND_A_1st_test_day1_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027136/1792751473983156_NZ_vs_IND_A_1st_test_day1_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India A Tour Of New Zealand 2026",
@@ -49,7 +49,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090550079,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690215612846_indvsnz_2nd_t20i_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",

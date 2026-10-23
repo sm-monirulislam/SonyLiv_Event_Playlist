@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:26 PM 23-10-2026",
+    "last_update_time": "10:00:15 PM 23-10-2026",
     "total_matches": 14,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792810805~acl=/*~id=52643581438219657957118856301553~hmac=a5411a0557dd8669e9c03e55f2232c863b0e29a1be667a0b8a014d2607c591d3"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792813838~acl=/*~id=18257408001984705130424272040504~hmac=b49da5fa926202ef4e646442ec822c723ca3d6d5fe2e7362bac93fdf34a0bee0"
         },
         {
             "event_category": "Volleyball",
@@ -26,7 +26,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792810805~acl=/*~id=52643581438219657957118856301553~hmac=a5411a0557dd8669e9c03e55f2232c863b0e29a1be667a0b8a014d2607c591d3"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792813838~acl=/*~id=18257408001984705130424272040504~hmac=b49da5fa926202ef4e646442ec822c723ca3d6d5fe2e7362bac93fdf34a0bee0"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792810805~acl=/*~id=52643581438219657957118856301553~hmac=a5411a0557dd8669e9c03e55f2232c863b0e29a1be667a0b8a014d2607c591d3"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792813838~acl=/*~id=18257408001984705130424272040504~hmac=b49da5fa926202ef4e646442ec822c723ca3d6d5fe2e7362bac93fdf34a0bee0"
         },
         {
             "event_category": "Cricket",

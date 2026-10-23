@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:18 PM 23-10-2026",
+    "last_update_time": "09:00:26 PM 23-10-2026",
     "total_matches": 14,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792806562~acl=/*~id=21829632335973159178403977259499~hmac=c40010e941cc13b94978caa14743fad0ebe783c64a60fd94860f973569b671c5"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792810805~acl=/*~id=52643581438219657957118856301553~hmac=a5411a0557dd8669e9c03e55f2232c863b0e29a1be667a0b8a014d2607c591d3"
         },
         {
             "event_category": "Volleyball",
@@ -26,7 +26,7 @@
             "event_name": "Volleyball Champions League 2026",
             "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792806562~acl=/*~id=21829632335973159178403977259499~hmac=c40010e941cc13b94978caa14743fad0ebe783c64a60fd94860f973569b671c5"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792810805~acl=/*~id=52643581438219657957118856301553~hmac=a5411a0557dd8669e9c03e55f2232c863b0e29a1be667a0b8a014d2607c591d3"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792806562~acl=/*~id=21829632335973159178403977259499~hmac=c40010e941cc13b94978caa14743fad0ebe783c64a60fd94860f973569b671c5"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792810805~acl=/*~id=52643581438219657957118856301553~hmac=a5411a0557dd8669e9c03e55f2232c863b0e29a1be667a0b8a014d2607c591d3"
         },
         {
             "event_category": "Cricket",
@@ -51,8 +51,8 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090550079,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
+            "contentId": 1090550083,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686594133928_NZvsIND26_blockbuster_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
@@ -66,6 +66,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090550079,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -123,16 +133,6 @@
             "event_category": "Cricket",
             "contentId": 1090550084,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686516383928_NZvsIND26_vaibhav_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090550083,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686594133928_NZvsIND26_blockbuster_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",

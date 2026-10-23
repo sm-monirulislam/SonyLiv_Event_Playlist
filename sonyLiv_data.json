@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:20 PM 23-10-2026",
-    "total_matches": 14,
-    "live_match": 3,
+    "last_update_time": "03:02:45 PM 23-10-2026",
+    "total_matches": 12,
+    "live_match": 1,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,29 +15,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102"
-        },
-        {
-            "event_category": "Golf",
-            "contentId": "1090550071_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "LINK Hong Kong Open - Day 2 - 23 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102"
-        },
-        {
-            "event_category": "Golf",
-            "contentId": "1090550070_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Genesis Championship - Day 2 - 23 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792785299~acl=/*~id=72218170799422391746061241155428~hmac=2d4943d823aed9ebaf29eba04720eabfe652d4809bfee4fbd8f63070e34df102"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788937~acl=/*~id=29370777944413818848525474453256~hmac=72bb440b4c5ddd40ac6252798959253e268085a702b8dc42526f7fe6bb8f712c"
         },
         {
             "event_category": "Cricket",

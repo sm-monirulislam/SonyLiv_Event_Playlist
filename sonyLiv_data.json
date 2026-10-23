@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:15 PM 23-10-2026",
+    "last_update_time": "06:00:16 PM 23-10-2026",
     "total_matches": 15,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792799880~acl=/*~id=58426421237601872312606952658919~hmac=f13da457b264e732184e5b9895bd48445837925a661b4b8285a9f3a8915461eb"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792799880~acl=/*~id=58426421237601872312606952658919~hmac=f13da457b264e732184e5b9895bd48445837925a661b4b8285a9f3a8915461eb"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792799880~acl=/*~id=58426421237601872312606952658919~hmac=f13da457b264e732184e5b9895bd48445837925a661b4b8285a9f3a8915461eb"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792796223~acl=/*~id=06800364924896349378991763893639~hmac=cb6d6931dd77243e3edd9eb975ba1547de4982327e813191d8d9cb2292a0a4ea"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792799880~acl=/*~id=58426421237601872312606952658919~hmac=f13da457b264e732184e5b9895bd48445837925a661b4b8285a9f3a8915461eb"
         },
         {
             "event_category": "Cricket",

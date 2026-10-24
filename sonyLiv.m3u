@@ -3,31 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-24 22:00:17 (BD Time)
-#  Channels Count: 8
+#  Last Updated: 2026-10-24 23:00:13 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="1090550233_ENG" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783
 
 #EXTINF:-1 tvg-id="1090550233_HIN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783
 
 #EXTINF:-1 tvg-id="1090550233_TAM" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]
-https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783
 
 #EXTINF:-1 tvg-id="1090550233_TEL" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]
-https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783
 
 #EXTINF:-1 tvg-id="1090550233_KAN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]
-https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
-
-#EXTINF:-1 tvg-id="1090550221_ENG" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
-
-#EXTINF:-1 tvg-id="1090550221_HIN" tvg-name="Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football",Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783
 
 #EXTINF:-1 tvg-id="1090550219_HIN" tvg-name="Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Cricket",Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095
+https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792903833~acl=/*~id=84348204325230499680555736094664~hmac=c766d2323c5fbeef9c11fbd4b23106fd831bf9a3af47256608f8db4ed9af0783
 

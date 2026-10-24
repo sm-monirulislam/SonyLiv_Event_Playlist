@@ -2,65 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:22 PM 24-10-2026",
-    "total_matches": 12,
-    "live_match": 5,
+    "last_update_time": "06:00:14 PM 24-10-2026",
+    "total_matches": 7,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090550278_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090550278_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090550278_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090550278_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090550278_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792882575~acl=/*~id=61853669747257454368048155582720~hmac=b3ee8a9b5956e9bdeca308e1f4461170d5d97859ef68ad7a28601edc06a8728f"
-        },
         {
             "event_category": "Fight Sports",
             "contentId": 1090550350,

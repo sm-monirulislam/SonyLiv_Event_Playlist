@@ -3,13 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-24 10:00:15 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-10-24 11:00:19 (BD Time)
+#  Channels Count: 3
 #=================================
 
 #EXTINF:-1 tvg-id="1090550213_ENG" tvg-name="1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 1 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792857473~acl=/*~id=84404425292107753858754504726168~hmac=18ff380dd84dd1506c9a9f0e100f79714d472835c59e7656133bc0bc7b042892
+https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792860502~acl=/*~id=46988575812186990484644354727065~hmac=3e75794f2de4af5524a9c125fea41503e9b9541c6bc15d8aca1ae8cb78dce110
 
 #EXTINF:-1 tvg-id="1090550216_ENG" tvg-name="Genesis Championship - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 3 - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792857473~acl=/*~id=84404425292107753858754504726168~hmac=18ff380dd84dd1506c9a9f0e100f79714d472835c59e7656133bc0bc7b042892
+https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792860502~acl=/*~id=46988575812186990484644354727065~hmac=3e75794f2de4af5524a9c125fea41503e9b9541c6bc15d8aca1ae8cb78dce110
+
+#EXTINF:-1 tvg-id="1090550217_ENG" tvg-name="LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792860502~acl=/*~id=46988575812186990484644354727065~hmac=3e75794f2de4af5524a9c125fea41503e9b9541c6bc15d8aca1ae8cb78dce110
 

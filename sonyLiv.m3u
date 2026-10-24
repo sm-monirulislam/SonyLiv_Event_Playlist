@@ -3,22 +3,10 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-25 02:00:19 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-10-25 04:00:18 (BD Time)
+#  Channels Count: 1
 #=================================
 
-#EXTINF:-1 tvg-id="1090550233_ENG" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792914746~acl=/*~id=05812752862155881522603292921918~hmac=7b000a94ee2c2534245f4df63bc7f936c13c1a3018a1ad0d5eb9d09234cc5f12
-
-#EXTINF:-1 tvg-id="1090550233_HIN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792914746~acl=/*~id=05812752862155881522603292921918~hmac=7b000a94ee2c2534245f4df63bc7f936c13c1a3018a1ad0d5eb9d09234cc5f12
-
-#EXTINF:-1 tvg-id="1090550233_TAM" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]
-https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792914746~acl=/*~id=05812752862155881522603292921918~hmac=7b000a94ee2c2534245f4df63bc7f936c13c1a3018a1ad0d5eb9d09234cc5f12
-
-#EXTINF:-1 tvg-id="1090550233_TEL" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]
-https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792914746~acl=/*~id=05812752862155881522603292921918~hmac=7b000a94ee2c2534245f4df63bc7f936c13c1a3018a1ad0d5eb9d09234cc5f12
-
-#EXTINF:-1 tvg-id="1090550233_KAN" tvg-name="UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]
-https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792914746~acl=/*~id=05812752862155881522603292921918~hmac=7b000a94ee2c2534245f4df63bc7f936c13c1a3018a1ad0d5eb9d09234cc5f12
+#EXTINF:-1 tvg-id="1090550571_ENG" tvg-name="1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792922019~acl=/*~id=22430887663382340925070581244623~hmac=c919418008851360d956d9466dfdbe03fd0ff336f8b26efb1e9ec258755dcd61
 

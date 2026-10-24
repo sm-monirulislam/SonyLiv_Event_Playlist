@@ -2,20 +2,64 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:23 PM 24-10-2026",
-    "total_matches": 10,
-    "live_match": 3,
+    "last_update_time": "01:00:15 PM 24-10-2026",
+    "total_matches": 14,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Cricket",
-            "contentId": 1090550278,
+            "contentId": "1090550278_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd T20I - 24 Oct 2026",
+            "match_name": "2nd T20I - 24 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": ""
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090550278_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd T20I - 24 Oct 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090550278_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd T20I - 24 Oct 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090550278_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd T20I - 24 Oct 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090550278_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd T20I - 24 Oct 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
         },
         {
             "event_category": "Golf",
@@ -26,7 +70,7 @@
             "event_name": "DP World Tour",
             "match_name": "Genesis Championship - Day 3 - 24 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792864150~acl=/*~id=93323281892755846503553498837378~hmac=11aac06fcc3c5456f2c471b3febfd28822119ecc29e76527055f7a08ccf94a99"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
         },
         {
             "event_category": "Golf",
@@ -37,7 +81,7 @@
             "event_name": "Asian Tour 2026",
             "match_name": "LINK Hong Kong Open - Day 3 - 24 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792864150~acl=/*~id=93323281892755846503553498837378~hmac=11aac06fcc3c5456f2c471b3febfd28822119ecc29e76527055f7a08ccf94a99"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
         },
         {
             "event_category": "Fight Sports",

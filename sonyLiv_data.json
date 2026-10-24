@@ -2,10 +2,65 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:22 PM 24-10-2026",
-    "total_matches": 10,
-    "live_match": 3,
+    "last_update_time": "10:00:17 PM 24-10-2026",
+    "total_matches": 14,
+    "live_match": 8,
     "matches": [
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090550233_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC 333 - Volkanovski vs Evloev",
+            "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090550233_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UFC 333 - Volkanovski vs Evloev",
+            "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090550233_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "UFC 333 - Volkanovski vs Evloev",
+            "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090550233_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "UFC 333 - Volkanovski vs Evloev",
+            "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090550233_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "UFC 333 - Volkanovski vs Evloev",
+            "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
+        },
         {
             "event_category": "Football",
             "contentId": "1090550221_ENG",
@@ -15,7 +70,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Odisha FC vs NorthEast United FC - 24 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
         },
         {
             "event_category": "Football",
@@ -26,7 +81,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Odisha FC vs NorthEast United FC - 24 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
         },
         {
             "event_category": "Cricket",
@@ -37,17 +92,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Punjab Falcons vs Haryana Lions - 24 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792896552~acl=/*~id=20118037536751632090066725534230~hmac=e43a8010d5a77a33ce4afedfd367455b33634a96e28ed1ba232e28e8b5a3284e"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": 1090550350,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027069/1792700065569768_UFC333_Volkanovski_vs_Evloev_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792900796~acl=/*~id=90170024167830329850532296225098~hmac=019dfdda0731e28df1d1a1e7b30ce85a1ae370175bea175716716735e7326095"
         },
         {
             "event_category": "Cricket",

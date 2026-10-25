@@ -2,31 +2,20 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:14 PM 25-10-2026",
-    "total_matches": 11,
-    "live_match": 2,
+    "last_update_time": "04:00:13 PM 25-10-2026",
+    "total_matches": 10,
+    "live_match": 1,
     "matches": [
         {
             "event_category": "Cricket",
             "contentId": "1090550567_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-            "match_name": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]",
+            "match_name": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b"
-        },
-        {
-            "event_category": "Golf",
-            "contentId": "1090550568_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792964999~acl=/*~id=91948757130858589818049678332188~hmac=33d10657cd1825e235975328278588f3443591813d7eca449db4df0320896459"
         },
         {
             "event_category": "Cricket",

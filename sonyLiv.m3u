@@ -3,19 +3,16 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-25 11:00:17 (BD Time)
-#  Channels Count: 4
+#  Last Updated: 2026-10-25 12:00:19 (BD Time)
+#  Channels Count: 3
 #=================================
 
-#EXTINF:-1 tvg-id="1090550571_ENG" tvg-name="1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg" group-title="Cricket",1st Unofficial Test - Day 2 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94
-
 #EXTINF:-1 tvg-id="1090550567_HIN" tvg-name="Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg" group-title="Cricket",Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]
-https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94
+https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792950462~acl=/*~id=51842491418625521060219200129017~hmac=438ffb97eed5b04bad00b1749c35beef12b73a2428a5b3a3fa25e0fa73f13894
 
 #EXTINF:-1 tvg-id="1090550568_ENG" tvg-name="LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Golf",LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94
+https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792950462~acl=/*~id=51842491418625521060219200129017~hmac=438ffb97eed5b04bad00b1749c35beef12b73a2428a5b3a3fa25e0fa73f13894
 
 #EXTINF:-1 tvg-id="1090550570_ENG" tvg-name="Genesis Championship - Day 4 - 25 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg" group-title="Golf",Genesis Championship - Day 4 - 25 Oct 2026 [ENG]
-https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94
+https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792950462~acl=/*~id=51842491418625521060219200129017~hmac=438ffb97eed5b04bad00b1749c35beef12b73a2428a5b3a3fa25e0fa73f13894
 

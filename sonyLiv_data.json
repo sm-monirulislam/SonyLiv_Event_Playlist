@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:17 PM 25-10-2026",
-    "total_matches": 9,
-    "live_match": 3,
+    "last_update_time": "02:00:14 PM 25-10-2026",
+    "total_matches": 11,
+    "live_match": 2,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792954704~acl=/*~id=98224590630001736876495175422057~hmac=28535e24c207529c1b12e809754fc5181870b9bd56f96436306eee01a0e25ca1"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630"
         },
         {
             "event_category": "Golf",
@@ -26,23 +26,22 @@
             "event_name": "Asian Tour 2026",
             "match_name": "LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792954704~acl=/*~id=98224590630001736876495175422057~hmac=28535e24c207529c1b12e809754fc5181870b9bd56f96436306eee01a0e25ca1"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630"
         },
         {
-            "event_category": "Golf",
-            "contentId": "1090550570_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Genesis Championship - Day 4 - 25 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792954704~acl=/*~id=98224590630001736876495175422057~hmac=28535e24c207529c1b12e809754fc5181870b9bd56f96436306eee01a0e25ca1"
+            "event_category": "Cricket",
+            "contentId": 1090550641,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027296/1792867384276495_coc_NZvsIND26_3rd_t20i_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Football",
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792661123769446_ISL_Kerala-Blasters-FC-vs-Mumbai-City-FC_promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792661140911446_ISL_Kerala-Blasters-FC-vs-Mumbai-City-FC_promo_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",
@@ -51,8 +50,28 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090549928,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026951/179264549504218_NZ_vs_IND_promo_thumb_landscape_thumb.jpg",
+            "contentId": 1090550579,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090550642,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027307/1792911545258131_NZ_Vs_Ind_3rd_t20_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090548932,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",
@@ -61,8 +80,8 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090548932,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
+            "contentId": 1090549928,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026951/179264549504218_NZ_vs_IND_promo_thumb_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",

@@ -2,10 +2,32 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:13 PM 25-10-2026",
-    "total_matches": 10,
-    "live_match": 1,
+    "last_update_time": "05:00:16 PM 25-10-2026",
+    "total_matches": 12,
+    "live_match": 3,
     "matches": [
+        {
+            "event_category": "Football",
+            "contentId": "1090550558_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792968591~acl=/*~id=74463716728652587222876055318370~hmac=27d763112b6429a305c8d5b03b96d0512d4fff42b77e777401cf2f99fd6f0494"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090550558_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers SC vs Punjab FC - 25 Oct 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792968591~acl=/*~id=74463716728652587222876055318370~hmac=27d763112b6429a305c8d5b03b96d0512d4fff42b77e777401cf2f99fd6f0494"
+        },
         {
             "event_category": "Cricket",
             "contentId": "1090550567_HIN",
@@ -15,7 +37,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Tamilnadu Thunders vs Gujarat royals - 25 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792964999~acl=/*~id=91948757130858589818049678332188~hmac=33d10657cd1825e235975328278588f3443591813d7eca449db4df0320896459"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792968591~acl=/*~id=74463716728652587222876055318370~hmac=27d763112b6429a305c8d5b03b96d0512d4fff42b77e777401cf2f99fd6f0494"
         },
         {
             "event_category": "Cricket",

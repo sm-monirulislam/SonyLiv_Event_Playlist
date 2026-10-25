@@ -2,43 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:17 PM 25-10-2026",
-    "total_matches": 15,
-    "live_match": 4,
+    "last_update_time": "11:00:15 PM 25-10-2026",
+    "total_matches": 12,
+    "live_match": 1,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": "1090550560_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792986819~acl=/*~id=78694444414390056718945772993378~hmac=3851c73e6612dc98e09a46faf3a346efb8bdeead7ac480e045cf3b0845959a12"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090550560_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792986819~acl=/*~id=78694444414390056718945772993378~hmac=3851c73e6612dc98e09a46faf3a346efb8bdeead7ac480e045cf3b0845959a12"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090550560_MAL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "MAL",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026 [MAL]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792986819~acl=/*~id=78694444414390056718945772993378~hmac=3851c73e6612dc98e09a46faf3a346efb8bdeead7ac480e045cf3b0845959a12"
-        },
         {
             "event_category": "Cricket",
             "contentId": "1090550567_HIN",
@@ -48,7 +15,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Rajasthan Frontiers vs UP Dhurandhar - 25 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792986819~acl=/*~id=78694444414390056718945772993378~hmac=3851c73e6612dc98e09a46faf3a346efb8bdeead7ac480e045cf3b0845959a12"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792990453~acl=/*~id=63235341206368511367544283513177~hmac=b29b87b0788f2a4b2269fdb18ef448c3537e4234259548624bad08e92e3e53bb"
         },
         {
             "event_category": "Cricket",

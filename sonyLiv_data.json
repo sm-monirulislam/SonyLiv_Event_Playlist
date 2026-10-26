@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:21 PM 26-10-2026",
+    "last_update_time": "09:00:24 PM 26-10-2026",
     "total_matches": 17,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/Footlive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793066121~acl=/*~id=51107546668199737526872319324533~hmac=d4e87a73ae1c194de77d2aa4a8dfee952cc10eb9c06fcd00b0657312c107ba94"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/Footlive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793069767~acl=/*~id=20738051641429962281710759376676~hmac=006154680024086eb2547f8273fdfc33433fc0afe9da89b54d7a03be861ce1ab"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/Footlive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793066121~acl=/*~id=51107546668199737526872319324533~hmac=d4e87a73ae1c194de77d2aa4a8dfee952cc10eb9c06fcd00b0657312c107ba94"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/Footlive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793069767~acl=/*~id=20738051641429962281710759376676~hmac=006154680024086eb2547f8273fdfc33433fc0afe9da89b54d7a03be861ce1ab"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [BEN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120302/Footlive2610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793066121~acl=/*~id=51107546668199737526872319324533~hmac=d4e87a73ae1c194de77d2aa4a8dfee952cc10eb9c06fcd00b0657312c107ba94"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120302/Footlive2610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793069767~acl=/*~id=20738051641429962281710759376676~hmac=006154680024086eb2547f8273fdfc33433fc0afe9da89b54d7a03be861ce1ab"
         },
         {
             "event_category": "Football",
@@ -48,7 +48,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Mohun Bagan Super Giant vs Chennaiyin FC - 26 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/Footlive2610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793066121~acl=/*~id=51107546668199737526872319324533~hmac=d4e87a73ae1c194de77d2aa4a8dfee952cc10eb9c06fcd00b0657312c107ba94"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/Footlive2610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793069767~acl=/*~id=20738051641429962281710759376676~hmac=006154680024086eb2547f8273fdfc33433fc0afe9da89b54d7a03be861ce1ab"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793066121~acl=/*~id=51107546668199737526872319324533~hmac=d4e87a73ae1c194de77d2aa4a8dfee952cc10eb9c06fcd00b0657312c107ba94"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793069767~acl=/*~id=20738051641429962281710759376676~hmac=006154680024086eb2547f8273fdfc33433fc0afe9da89b54d7a03be861ce1ab"
         },
         {
             "event_category": "Cricket",
@@ -72,22 +72,22 @@
             "stream_link": ""
         },
         {
-            "event_category": "Football",
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662910990446_ISL_Mohun-Bagan-Super-Giant-vs-Chennaiyin-FC_promo_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
             "event_category": "Cricket",
             "contentId": 1090550664,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933274831385_NZvsIND_3rd_t20i_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662643467446_ISL_FC-Goa-vs-Sporting-Club-Delhi_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

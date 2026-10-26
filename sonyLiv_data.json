@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:16 PM 26-10-2026",
+    "last_update_time": "04:00:16 PM 26-10-2026",
     "total_matches": 12,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047939~acl=/*~id=02106771762610221691933674199608~hmac=cbcfac7a8bbdb84840f9b70b693b52aeb68ecf755cc06c80d1846acc52fe03f9"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793051571~acl=/*~id=46492559334749484145306046986121~hmac=d2896a505c9ad7dd0a957e4508f2cdee09fd8abc6cf28708729d84509424ab45"
         },
         {
             "event_category": "Cricket",

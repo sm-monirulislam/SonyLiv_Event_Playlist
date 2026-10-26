@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:16 PM 26-10-2026",
-    "total_matches": 12,
+    "last_update_time": "05:00:15 PM 26-10-2026",
+    "total_matches": 13,
     "live_match": 1,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793051571~acl=/*~id=46492559334749484145306046986121~hmac=d2896a505c9ad7dd0a957e4508f2cdee09fd8abc6cf28708729d84509424ab45"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793055206~acl=/*~id=03403219380984729666762718263358~hmac=cef9b8169a562c378dce6eac48b4402abe225b402add2617909ac377b377a005"
         },
         {
             "event_category": "Cricket",
@@ -124,6 +124,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Salute Tiranga Cricket League (STCL) 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090550846,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027363/1793009798550733_promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026",
             "status": "Upcoming",
             "stream_link": ""
         }

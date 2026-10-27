@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:25:18 PM 27-10-2026",
+    "last_update_time": "08:00:20 PM 27-10-2026",
     "total_matches": 10,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793150607~acl=/*~id=29066710377906771915083223675723~hmac=c2204c5374ccf8e383ee06e43333ce5238ca5115b4bd14983fe887cd48349ad4"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793152423~acl=/*~id=71319252055814978279343027514995~hmac=a184da7950694c17d51044f7ad39b0e173fc21b25cc57210bdf4ad0c080fbd38"
         },
         {
             "event_category": "Football",

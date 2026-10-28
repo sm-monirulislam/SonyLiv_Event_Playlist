@@ -2,10 +2,21 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:22 AM 28-10-2026",
+    "last_update_time": "11:00:15 AM 28-10-2026",
     "total_matches": 13,
-    "live_match": 0,
+    "live_match": 1,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090550845_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+            "match_name": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793206312~acl=/*~id=94933859465425314442914575301525~hmac=a5f1d2315c2d372989a93c0f1213af3ccb3fa951d0c3aa021366b8cc51a9eb67"
+        },
         {
             "event_category": "Football",
             "contentId": 1090547508,
@@ -83,16 +94,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "TAM",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090548283,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Salute Tiranga Cricket League (STCL) 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:21 PM 28-10-2026",
+    "last_update_time": "09:00:20 PM 28-10-2026",
     "total_matches": 16,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "FC Goa vs Sporting Club Delhi - 28 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "FC Goa vs Sporting Club Delhi - 28 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
             "match_name": "Haryana Lions vs UP Dhurandhar - Final - 28 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793238422~acl=/*~id=19718797567837607806606992519144~hmac=528ca0f5c0d7594dd9708c82ff97847fb6f6466b68e45f82b41d8ecd6c3a917f"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793242666~acl=/*~id=18269681810575115165587472610449~hmac=401d7238ce3ecc032ebb7b20a67d828ac148fb99801c9056d53a2921bca07f39"
         },
         {
             "event_category": "Football",

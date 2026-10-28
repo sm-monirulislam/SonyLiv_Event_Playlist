@@ -2,20 +2,20 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:16 PM 28-10-2026",
+    "last_update_time": "02:00:20 PM 28-10-2026",
     "total_matches": 13,
     "live_match": 1,
     "matches": [
         {
             "event_category": "Cricket",
             "contentId": "1090550845_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027580/1793171987464723_STCL26_SF_Gujarat_Royals_vs_UP_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-            "match_name": "Gujarat Royals vs Punjab Falcons - Semi Final 2 - 28 Oct 2026 [HIN]",
+            "match_name": "Gujarat Royals vs UP Dhurandhar - Semi Final 2 - 28 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793213582~acl=/*~id=05621597835184676972432982304872~hmac=7c485c2a8f70ea7dedeace09ac87611cd110da84326e075e38560d96c84e42aa"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793217219~acl=/*~id=31996430401124653388940099064679~hmac=9c02334bfdd75e54bd96aa284f9e2d90991f65b26bd244d1beb16a0ff641d28f"
         },
         {
             "event_category": "Football",

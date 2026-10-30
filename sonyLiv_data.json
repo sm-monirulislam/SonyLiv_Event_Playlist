@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:19 PM 30-10-2026",
-    "total_matches": 11,
-    "live_match": 3,
+    "last_update_time": "05:00:17 PM 30-10-2026",
+    "total_matches": 13,
+    "live_match": 5,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,18 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th T20I - 30 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793397265~acl=/*~id=42729487415276747967437959186705~hmac=ad79dbb83802aea60502cf88d80d1c8b6bde78f8f705a515112c0195afb9467d"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793400964~acl=/*~id=76279994024999878130541817683837~hmac=77f88ffc6ed329e6a9ac3e2e47f396a9c3c84b163c2707391134d5d323516fb6"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090551124_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "4th T20I - 30 Oct 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793400964~acl=/*~id=76279994024999878130541817683837~hmac=77f88ffc6ed329e6a9ac3e2e47f396a9c3c84b163c2707391134d5d323516fb6"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +37,18 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th T20I - 30 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793397265~acl=/*~id=42729487415276747967437959186705~hmac=ad79dbb83802aea60502cf88d80d1c8b6bde78f8f705a515112c0195afb9467d"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/master.m3u8?hdnea=exp=1793400964~acl=/*~id=76279994024999878130541817683837~hmac=77f88ffc6ed329e6a9ac3e2e47f396a9c3c84b163c2707391134d5d323516fb6"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090551124_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "4th T20I - 30 Oct 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/master.m3u8?hdnea=exp=1793400964~acl=/*~id=76279994024999878130541817683837~hmac=77f88ffc6ed329e6a9ac3e2e47f396a9c3c84b163c2707391134d5d323516fb6"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +59,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th T20I - 30 Oct 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793397265~acl=/*~id=42729487415276747967437959186705~hmac=ad79dbb83802aea60502cf88d80d1c8b6bde78f8f705a515112c0195afb9467d"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793400964~acl=/*~id=76279994024999878130541817683837~hmac=77f88ffc6ed329e6a9ac3e2e47f396a9c3c84b163c2707391134d5d323516fb6"
         },
         {
             "event_category": "Cricket",
@@ -50,22 +72,22 @@
             "stream_link": ""
         },
         {
+            "event_category": "Cricket",
+            "contentId": 1090551228,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027784/1793355343375296_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India A Tour Of New Zealand 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
             "event_category": "Football",
             "contentId": 1090547508,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793118935046973_ISL_NorthEast_United_FC_vs_Bengaluru_FC_promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090551228,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027603/1793182760660148_ind_A_tour_of_nz_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India A Tour Of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

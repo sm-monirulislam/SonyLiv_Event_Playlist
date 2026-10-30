@@ -3,7 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-10-30 19:00:19 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-10-30 20:00:20 (BD Time)
+#  Channels Count: 2
 #=================================
+
+#EXTINF:-1 tvg-id="1090551180_ENG" tvg-name="NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="Football",NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG]
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793411917~acl=/*~id=44293596249323163360536968975680~hmac=d4b5e008784d21c1d52bbfac3f2d301394e1fb24db6e0c75d3fdbad20b809481
+
+#EXTINF:-1 tvg-id="1090551180_HIN" tvg-name="NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="Football",NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN]
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793411917~acl=/*~id=44293596249323163360536968975680~hmac=d4b5e008784d21c1d52bbfac3f2d301394e1fb24db6e0c75d3fdbad20b809481
 

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:17 AM 01-11-2026",
+    "last_update_time": "05:00:16 AM 01-11-2026",
     "total_matches": 18,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India A Tour of New Zealand",
             "match_name": "2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793526408~acl=/*~id=40487477103923696471971770636196~hmac=87143ad8c745ef6ca5665ec41979ecb39412638a66d0ad1886e63d20dd8ca5b8"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793530068~acl=/*~id=71340813110295068100061912620579~hmac=3b5b91fefbe3ecd25d39867f3c8d094b9eb7bf885f3b21f3b10f44c9e3eaa982"
         },
         {
             "event_category": "Football",
@@ -40,7 +40,7 @@
         {
             "event_category": "Football",
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793121940468973_ISL_Mumbai_City_FC_vs_Sporting_Club_Delhi_promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027451/1793084135732951_ISL_Mumbai-City-FC-vs-Sporting-Club-Delhi_Promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:17 PM 31-10-2026",
+    "last_update_time": "07:00:16 PM 31-10-2026",
     "total_matches": 19,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
         },
         {
             "event_category": "Football",
@@ -48,7 +48,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Chennaiyin FC vs Kerala Blasters FC - 31 Oct 2026 [MAL]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793490691~acl=/*~id=03309654727511742122896793095984~hmac=e4aaff2318cce44be08ecc7dcc4f9cc0c0acc37bb636720e11c3738231fda88a"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
         },
         {
             "event_category": "Football",

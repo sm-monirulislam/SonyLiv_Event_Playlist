@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:17 AM 31-10-2026",
+    "last_update_time": "10:00:18 AM 31-10-2026",
     "total_matches": 16,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India A Tour of New Zealand",
             "match_name": "2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793458595~acl=/*~id=62764789435871609709482090586949~hmac=7fa1f64a7ca20e50f62b0436af5ba5900015279776c239c9494fce295a2ef301"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793462233~acl=/*~id=49542771052366229811618654460140~hmac=bc27d9ca81d31bd85ce007130e6fe0cab20331c36412ec56fa4f6927be9060a2"
         },
         {
             "event_category": "Cricket",

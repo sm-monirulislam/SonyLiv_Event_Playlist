@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:19 PM 31-10-2026",
+    "last_update_time": "09:00:18 PM 31-10-2026",
     "total_matches": 18,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793501600~acl=/*~id=78071542443961448194232615677498~hmac=58e381a847c50763f50e2a9539205e48a25a4fb7bae930d36d8834bb4e4841ef"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793501600~acl=/*~id=78071542443961448194232615677498~hmac=58e381a847c50763f50e2a9539205e48a25a4fb7bae930d36d8834bb4e4841ef"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [BEN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793497966~acl=/*~id=79998805844583734685210906803126~hmac=410b038afb31cf7875588caa4364c1cfd646cf6d5d621ae579d0ab685af6c028"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793501600~acl=/*~id=78071542443961448194232615677498~hmac=58e381a847c50763f50e2a9539205e48a25a4fb7bae930d36d8834bb4e4841ef"
         },
         {
             "event_category": "Football",

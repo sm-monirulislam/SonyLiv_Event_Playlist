@@ -2,10 +2,21 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:19 AM 01-11-2026",
-    "total_matches": 17,
-    "live_match": 0,
+    "last_update_time": "04:00:17 AM 01-11-2026",
+    "total_matches": 18,
+    "live_match": 1,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090551577_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India A Tour of New Zealand",
+            "match_name": "2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793526408~acl=/*~id=40487477103923696471971770636196~hmac=87143ad8c745ef6ca5665ec41979ecb39412638a66d0ad1886e63d20dd8ca5b8"
+        },
         {
             "event_category": "Football",
             "contentId": 1090551725,

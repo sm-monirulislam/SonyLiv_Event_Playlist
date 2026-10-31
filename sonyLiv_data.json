@@ -2,20 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:18 PM 31-10-2026",
+    "last_update_time": "02:00:18 PM 31-10-2026",
     "total_matches": 15,
     "live_match": 0,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": 1090551225,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
         {
             "event_category": "Football",
             "contentId": 1090547508,
@@ -28,11 +18,11 @@
         },
         {
             "event_category": "Cricket",
-            "contentId": 1090551489,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371291590937_NZvsIND26_5th_T20I_dated_landscape_thumb.jpg",
+            "contentId": 1090551225,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -53,6 +43,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090551489,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371291590937_NZvsIND26_5th_T20I_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

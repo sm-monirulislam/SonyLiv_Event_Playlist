@@ -3,22 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-01 17:00:20 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-11-01 18:00:16 (BD Time)
+#  Channels Count: 2
 #=================================
 
-#EXTINF:-1 tvg-id="1090551642_ENG" tvg-name="5th T20I - 1 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Cricket",5th T20I - 1 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c
-
-#EXTINF:-1 tvg-id="1090551642_HIN" tvg-name="5th T20I - 1 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Cricket",5th T20I - 1 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c
-
-#EXTINF:-1 tvg-id="1090551642_KAN" tvg-name="5th T20I - 1 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg" group-title="Cricket",5th T20I - 1 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c
-
 #EXTINF:-1 tvg-id="1090551626_ENG" tvg-name="Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football",Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793577600~acl=/*~id=77014802250606654036309521194981~hmac=01a5f298baeaa6ce4aaf2584f12022b82f87bbfc74b4d2dcb3ec3892ab8f740b
 
 #EXTINF:-1 tvg-id="1090551626_HIN" tvg-name="Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg" group-title="Football",Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793577600~acl=/*~id=77014802250606654036309521194981~hmac=01a5f298baeaa6ce4aaf2584f12022b82f87bbfc74b4d2dcb3ec3892ab8f740b
 

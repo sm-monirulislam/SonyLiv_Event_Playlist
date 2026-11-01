@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:16 AM 01-11-2026",
-    "total_matches": 18,
-    "live_match": 1,
+    "last_update_time": "06:00:38 AM 01-11-2026",
+    "total_matches": 23,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,62 @@
             "event_name": "India A Tour of New Zealand",
             "match_name": "2nd Unofficial Test - Day 2 - 1 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793530068~acl=/*~id=71340813110295068100061912620579~hmac=3b5b91fefbe3ecd25d39867f3c8d094b9eb7bf885f3b21f3b10f44c9e3eaa982"
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090551580_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UFC Fight Night - Moicano vs Nolan",
+            "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090551580_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UFC Fight Night - Moicano vs Nolan",
+            "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFCF3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090551580_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "TAM",
+            "event_name": "UFC Fight Night - Moicano vs Nolan",
+            "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2094588/UFC_UFCF3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090551580_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "TEL",
+            "event_name": "UFC Fight Night - Moicano vs Nolan",
+            "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2120301/UFC_UFCF3110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
+        },
+        {
+            "event_category": "Fight Sports",
+            "contentId": "1090551580_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "KAN",
+            "event_name": "UFC Fight Night - Moicano vs Nolan",
+            "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonydaime.akamaized.net/hls/live/2005444/UFC_UFCF3110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793534309~acl=/*~id=47059988298388168337181781795129~hmac=ac485ffa5f2b9fb1dfe8471d4ca5d4316d17c7b47c9970f1fc6702452daa412b"
         },
         {
             "event_category": "Football",

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:17 PM 01-11-2026",
+    "last_update_time": "05:00:20 PM 01-11-2026",
     "total_matches": 20,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th T20I - 1 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_0111/ENG/master.m3u8?hdnea=exp=1793566545~acl=/*~id=49202870933654136230897182313726~hmac=0d8e4b9a50d400f696fc37a443a9cb0714b05672c07fcbdb839a678a9f46ec06"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c"
         },
         {
             "event_category": "Cricket",
@@ -26,29 +26,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th T20I - 1 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/out/v1/mpchgp431f/mpchc77b/cricodi_0111-hin-3-ts-hls/master.m3u8?hdnea=exp=1793566545~acl=/*~id=49202870933654136230897182313726~hmac=0d8e4b9a50d400f696fc37a443a9cb0714b05672c07fcbdb839a678a9f46ec06"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090551642_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "5th T20I - 1 Nov 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_0111/TEL/master.m3u8?hdnea=exp=1793566545~acl=/*~id=49202870933654136230897182313726~hmac=0d8e4b9a50d400f696fc37a443a9cb0714b05672c07fcbdb839a678a9f46ec06"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090551642_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "5th T20I - 1 Nov 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_0111/TAM/master.m3u8?hdnea=exp=1793566545~acl=/*~id=49202870933654136230897182313726~hmac=0d8e4b9a50d400f696fc37a443a9cb0714b05672c07fcbdb839a678a9f46ec06"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +37,29 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th T20I - 1 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_0111/KAN/master.m3u8?hdnea=exp=1793566545~acl=/*~id=49202870933654136230897182313726~hmac=0d8e4b9a50d400f696fc37a443a9cb0714b05672c07fcbdb839a678a9f46ec06"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551626_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551626_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793573919~acl=/*~id=15027376279049762173796580414241~hmac=9c031a1ff2afee1fa61221bdc00d2fe530b9fd3c451b0a9e7d4fba35caff000c"
         },
         {
             "event_category": "Football",
@@ -114,7 +114,7 @@
         {
             "event_category": "Football",
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027451/1793084135732951_ISL_Mumbai-City-FC-vs-Sporting-Club-Delhi_Promo_Today_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126304326973_ISL_Inter_Kashi_vs_FC_Goa_promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",

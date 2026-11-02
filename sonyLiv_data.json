@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:19 AM 02-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "12:00:17 PM 02-11-2026",
+    "total_matches": 15,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090551673_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India A Tour of New Zealand",
-            "match_name": "2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793638734~acl=/*~id=97886781927757178904008277156177~hmac=470a5a2c9e37caf06a91ccea85043fddf9766bf77ab348d8bf7c8329a53fcc76"
-        },
         {
             "event_category": "Football",
             "contentId": 1090551725,
@@ -78,6 +67,16 @@
             "stream_link": ""
         },
         {
+            "event_category": "Football",
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126835273973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
             "event_category": "Cricket",
             "contentId": 1090551228,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027603/1793182760660148_ind_A_tour_of_nz_landscape_thumbnail.jpg",
@@ -124,16 +123,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126835273973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

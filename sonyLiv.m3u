@@ -3,40 +3,7 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-04 04:00:23 (BD Time)
-#  Channels Count: 11
+#  Last Updated: 2026-11-04 05:00:21 (BD Time)
+#  Channels Count: 0
 #=================================
-
-#EXTINF:-1 tvg-id="1090551748_ENG" tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football",Manchester United vs AS Roma - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551748_HIN" tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football",Manchester United vs AS Roma - 4 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551748_TAM" tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football",Manchester United vs AS Roma - 4 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551748_TEL" tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football",Manchester United vs AS Roma - 4 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551748_KAN" tvg-name="Manchester United vs AS Roma - 4 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg" group-title="Football",Manchester United vs AS Roma - 4 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120305/footlive0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551746_ENG" tvg-name="Barcelona vs Aston Villa - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951817788378_UCL26_MD4_Barcelona_vs_Aston_Villa_landscape_thumb.jpg" group-title="Football",Barcelona vs Aston Villa - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551747_ENG" tvg-name="Atlético de Madrid vs Bayern Munich - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952088187378_UCL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg" group-title="Football",Atlético de Madrid vs Bayern Munich - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551755_ENG" tvg-name="Villarreal vs PSG - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792953428976243_UCL26_MD4_Villarreal_vs_PSG_landscape_thumb.jpg" group-title="Football",Villarreal vs PSG - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551753_ENG" tvg-name="Feyenoord vs Inter Milan - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952919459378_UCL26_MD4_Feyenoord_vs_Inter_Milan_landscape_thumb.jpg" group-title="Football",Feyenoord vs Inter Milan - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551756_ENG" tvg-name="LASK vs Slovan Bratislava - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953756095378_UCL26_MD4_LASK_vs_Bratislava_landscape_thumb.jpg" group-title="Football",LASK vs Slovan Bratislava - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
-
-#EXTINF:-1 tvg-id="1090551754_ENG" tvg-name="Bodø/Glimt vs Lille - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953144488378_UCL26_MD4_Bodo_vs_Lille_landscape_thumb.jpg" group-title="Football",Bodø/Glimt vs Lille - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793785943~acl=/*~id=71629765913869702801723241221750~hmac=f29410d873a17c9a4440e3832d48f3e32c851d17008ffe431efd6d3cf7d332a2
 

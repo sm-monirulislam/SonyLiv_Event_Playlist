@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:18 PM 03-11-2026",
-    "total_matches": 17,
-    "live_match": 1,
+    "last_update_time": "11:00:21 PM 03-11-2026",
+    "total_matches": 16,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Football",
-            "contentId": "1090551682_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2026-27",
-            "match_name": "Atletico de Madrid vs FC Bayern Munich - 3 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793764697~acl=/*~id=28199771479396370989494124273995~hmac=731840fc376db66306f9737928c6236e24364f104ed35facc6942f6c6656e0e9"
-        },
         {
             "event_category": "Football",
             "contentId": 1090551725,
@@ -24,6 +13,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": " Upcoming - Matchday 4 - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090552187,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028141/1793704726559299_fenerbahce_Vs_liverpool_Fc_And_aek_vs_real_madrid_landscape_thumbnail.png",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -84,16 +83,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090552187,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028141/1793704726559299_fenerbahce_Vs_liverpool_Fc_And_aek_vs_real_madrid_landscape_thumbnail.png",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

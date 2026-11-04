@@ -3,16 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-04 08:00:19 (BD Time)
-#  Channels Count: 3
+#  Last Updated: 2026-11-04 09:00:19 (BD Time)
+#  Channels Count: 5
 #=================================
 
 #EXTINF:-1 tvg-id="1090552110_ENG" tvg-name="1st ODI - 4 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="Cricket",1st ODI - 4 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793799925~acl=/*~id=89241426287622822374537276699586~hmac=ef3b115f5cf586b86927c3e6e8d3b2e21ab735cfb54986da310a5236d78a3242
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793804223~acl=/*~id=17067205340885302606101702073429~hmac=0a4f94666e15e0aaea1c40f10d4da5aa9c4900f24dbc3a3d05d60e642a5bd3ca
 
 #EXTINF:-1 tvg-id="1090552110_HIN" tvg-name="1st ODI - 4 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="Cricket",1st ODI - 4 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793799925~acl=/*~id=89241426287622822374537276699586~hmac=ef3b115f5cf586b86927c3e6e8d3b2e21ab735cfb54986da310a5236d78a3242
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793804223~acl=/*~id=17067205340885302606101702073429~hmac=0a4f94666e15e0aaea1c40f10d4da5aa9c4900f24dbc3a3d05d60e642a5bd3ca
+
+#EXTINF:-1 tvg-id="1090552110_TAM" tvg-name="1st ODI - 4 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="Cricket",1st ODI - 4 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793804223~acl=/*~id=17067205340885302606101702073429~hmac=0a4f94666e15e0aaea1c40f10d4da5aa9c4900f24dbc3a3d05d60e642a5bd3ca
+
+#EXTINF:-1 tvg-id="1090552110_TEL" tvg-name="1st ODI - 4 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="Cricket",1st ODI - 4 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793804223~acl=/*~id=17067205340885302606101702073429~hmac=0a4f94666e15e0aaea1c40f10d4da5aa9c4900f24dbc3a3d05d60e642a5bd3ca
 
 #EXTINF:-1 tvg-id="1090552110_KAN" tvg-name="1st ODI - 4 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg" group-title="Cricket",1st ODI - 4 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793799925~acl=/*~id=89241426287622822374537276699586~hmac=ef3b115f5cf586b86927c3e6e8d3b2e21ab735cfb54986da310a5236d78a3242
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793804223~acl=/*~id=17067205340885302606101702073429~hmac=0a4f94666e15e0aaea1c40f10d4da5aa9c4900f24dbc3a3d05d60e642a5bd3ca
 

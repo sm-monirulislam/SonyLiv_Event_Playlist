@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:22 PM 04-11-2026",
+    "last_update_time": "02:00:16 PM 04-11-2026",
     "total_matches": 17,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st ODI - 4 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793818349~acl=/*~id=76681175092201618801904868021942~hmac=e7198d0de5063f9691f9914779672fad46c2d633cbc68375d2f1bf7137ec4a3e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793822029~acl=/*~id=91833607338861348036233312551650~hmac=735325cfa4f4d1883037d5a24041604ec60708c692ab0b7b1b4a5f8025016dbc"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st ODI - 4 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793818349~acl=/*~id=76681175092201618801904868021942~hmac=e7198d0de5063f9691f9914779672fad46c2d633cbc68375d2f1bf7137ec4a3e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793822029~acl=/*~id=91833607338861348036233312551650~hmac=735325cfa4f4d1883037d5a24041604ec60708c692ab0b7b1b4a5f8025016dbc"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st ODI - 4 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793818349~acl=/*~id=76681175092201618801904868021942~hmac=e7198d0de5063f9691f9914779672fad46c2d633cbc68375d2f1bf7137ec4a3e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793822029~acl=/*~id=91833607338861348036233312551650~hmac=735325cfa4f4d1883037d5a24041604ec60708c692ab0b7b1b4a5f8025016dbc"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st ODI - 4 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793818349~acl=/*~id=76681175092201618801904868021942~hmac=e7198d0de5063f9691f9914779672fad46c2d633cbc68375d2f1bf7137ec4a3e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793822029~acl=/*~id=91833607338861348036233312551650~hmac=735325cfa4f4d1883037d5a24041604ec60708c692ab0b7b1b4a5f8025016dbc"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st ODI - 4 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793818349~acl=/*~id=76681175092201618801904868021942~hmac=e7198d0de5063f9691f9914779672fad46c2d633cbc68375d2f1bf7137ec4a3e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793822029~acl=/*~id=91833607338861348036233312551650~hmac=735325cfa4f4d1883037d5a24041604ec60708c692ab0b7b1b4a5f8025016dbc"
         },
         {
             "event_category": "Football",
@@ -104,7 +104,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090550846,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027363/1793009798550733_promo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793772259971876_Asia_Cup_U19_Bangladesh-vs-Afghanistan_Promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026",

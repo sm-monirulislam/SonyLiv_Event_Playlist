@@ -2,90 +2,135 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:28 AM 05-11-2026",
-    "total_matches": 19,
-    "live_match": 6,
+    "last_update_time": "02:00:21 AM 05-11-2026",
+    "total_matches": 22,
+    "live_match": 11,
     "matches": [
         {
             "event_category": "Football",
-            "contentId": "1090551911_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "contentId": "1090551915_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [ENG]",
+            "match_name": "RB Leipzig vs Manchester City - 5 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
         },
         {
             "event_category": "Football",
-            "contentId": "1090551911_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "contentId": "1090551915_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [HIN]",
+            "match_name": "RB Leipzig vs Manchester City - 5 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
         },
         {
             "event_category": "Football",
-            "contentId": "1090551911_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "contentId": "1090551915_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "TAM",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [TAM]",
+            "match_name": "RB Leipzig vs Manchester City - 5 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
         },
         {
             "event_category": "Football",
-            "contentId": "1090551911_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "contentId": "1090551915_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "TEL",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [TEL]",
+            "match_name": "RB Leipzig vs Manchester City - 5 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
         },
         {
             "event_category": "Football",
-            "contentId": "1090551911_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "contentId": "1090551915_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "KAN",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [KAN]",
+            "match_name": "RB Leipzig vs Manchester City - 5 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
         },
         {
             "event_category": "Football",
-            "contentId": "1090551910_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg",
+            "contentId": "1090551916_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955986716242_UCL26_MD4_Slavia_Praha_vs_Arsenal_eng_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "Fenerbahçe vs Liverpool - 4 Nov 2026 [ENG]",
+            "match_name": "Slavia Praha vs Arsenal - 5 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793861700~acl=/*~id=54301897973789275769165690552725~hmac=f224eeb1706d5ba6efd3c4a4d5efc6d40b5583fab1fb701ebc2f1ecc532d35f7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
         },
         {
             "event_category": "Football",
-            "contentId": 1090551498,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793176988369484_UCL_26_MD4_RB-Leipzig-vs-man-city_Promo_Tonight_landscape_thumb.jpg",
+            "contentId": "1090551912_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954724592378_UCL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Borussia Dortmund vs Real Betis - 5 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551913_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792955008635378_UCL26_MD4_Porto_vs_Napoli_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "FC Porto vs Napoli - 5 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551917_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956418897243_UCL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "RC Lens vs Como 1907 - 5 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551914_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955265419243_UCL26_MD4_PSV_vs_Brugge_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "PSV Eindhoven vs Club Brugge - 5 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551918_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956660701243_UCL26_MD4_VikingFK_vs_Sabah_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Viking FK vs Sabah FC - 5 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793865349~acl=/*~id=25287778810393645069898521556132~hmac=70591452ee8cb1cb601b4dafdd2f40ef205469f3e70ae46191b0758fee225283"
         },
         {
             "event_category": "Cricket",
             "contentId": 1090550846,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793772259971876_Asia_Cup_U19_Bangladesh-vs-Afghanistan_Promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793772272611876_Asia_Cup_U19_Bangladesh-vs-Afghanistan_Promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026",
@@ -153,16 +198,6 @@
             "stream_link": ""
         },
         {
-            "event_category": "Football",
-            "contentId": 1090551497,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
             "event_category": "Cricket",
             "contentId": 1090551520,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027882/1793372705073348_Ind_VS_Pak_landscape_thumbnail.jpg",
@@ -185,7 +220,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090552478,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028191/1793758970436697_ROKO_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028324/1793819016177781_NZvsIND_2nd_ODI_Promo_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026",

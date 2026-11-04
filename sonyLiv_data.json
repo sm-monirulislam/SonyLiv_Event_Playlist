@@ -2,41 +2,75 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:21 PM 04-11-2026",
-    "total_matches": 15,
-    "live_match": 2,
+    "last_update_time": "12:00:20 AM 05-11-2026",
+    "total_matches": 19,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Football",
-            "contentId": "1090551922_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090551911_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Stade Rennais FC vs Olympiacos FC - 4 Nov 2026 [ENG]",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793858056~acl=/*~id=89555316544900802435477469863454~hmac=3db3ede284bd4a7b4b867e28ae5de5d363e0e24e951372b5c353b9e3c0bd0104"
         },
         {
             "event_category": "Football",
-            "contentId": "1090552123_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
+            "contentId": "1090551911_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2026-27",
-            "match_name": "Dortmund vs Real Betis - 4 Nov 2026 [ENG]",
+            "audioLanguageName": "HIN",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793858056~acl=/*~id=89555316544900802435477469863454~hmac=3db3ede284bd4a7b4b867e28ae5de5d363e0e24e951372b5c353b9e3c0bd0104"
         },
         {
             "event_category": "Football",
-            "contentId": 1090552187,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793176438292484_UCL_26_MD4_AEK_vs_Real-Madrid_Promo_Tonight_landscape_thumb.jpg",
+            "contentId": "1090551911_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "TAM",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793858056~acl=/*~id=89555316544900802435477469863454~hmac=3db3ede284bd4a7b4b867e28ae5de5d363e0e24e951372b5c353b9e3c0bd0104"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551911_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "TEL",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793858056~acl=/*~id=89555316544900802435477469863454~hmac=3db3ede284bd4a7b4b867e28ae5de5d363e0e24e951372b5c353b9e3c0bd0104"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551911_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "KAN",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "AEK Athens vs Real Madrid - 4 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793858056~acl=/*~id=89555316544900802435477469863454~hmac=3db3ede284bd4a7b4b867e28ae5de5d363e0e24e951372b5c353b9e3c0bd0104"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090551910_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Fenerbahçe vs Liverpool - 4 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793858056~acl=/*~id=89555316544900802435477469863454~hmac=3db3ede284bd4a7b4b867e28ae5de5d363e0e24e951372b5c353b9e3c0bd0104"
         },
         {
             "event_category": "Football",
@@ -65,6 +99,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090552650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028318/1793812415099811_ACC_U19_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Men's Asia Cup Rising Stars 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

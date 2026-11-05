@@ -2,31 +2,31 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:16 AM 06-11-2026",
-    "total_matches": 12,
+    "last_update_time": "02:00:22 AM 06-11-2026",
+    "total_matches": 11,
     "live_match": 2,
     "matches": [
         {
             "event_category": "Football",
-            "contentId": "1090551919_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg",
+            "contentId": "1090551930_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959760705155_UEL26_MD4_Leverkusen_vs_Olympiquede_Marseille_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2026-27",
-            "match_name": "AC Milan vs Ferencvárosi TC - MD 4 - 5 Nov 2026 [ENG]",
+            "match_name": "Bayer 04 Leverkusen vs Olympique de Marseille - 6 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793947953~acl=/*~id=78070291988204420697835944568115~hmac=3cf02e4c0c6d6d7dcfea39de8fd5b66e9ac9bd7437229b728928c4fa24e9315f"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793951591~acl=/*~id=21341911163761478558125039529117~hmac=4177610fe1a73f57ffa333fc4ee3659da2db5a7031d735c626b3e799a0463374"
         },
         {
             "event_category": "Football",
-            "contentId": "1090551924_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg",
+            "contentId": "1090551932_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792960301043155_UEL26_MD4_AZ_Alkmaar_vs_Juventus_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Crystal Palace vs TSG 1899 Hoffenheim - 5 Nov 2026 [ENG]",
+            "match_name": "AZ Alkmaar vs Juventus - 6 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793947953~acl=/*~id=78070291988204420697835944568115~hmac=3cf02e4c0c6d6d7dcfea39de8fd5b66e9ac9bd7437229b728928c4fa24e9315f"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793951591~acl=/*~id=21341911163761478558125039529117~hmac=4177610fe1a73f57ffa333fc4ee3659da2db5a7031d735c626b3e799a0463374"
         },
         {
             "event_category": "Cricket",
@@ -45,16 +45,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090552149,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796845484833_UEL25_26_Bayer-04-Leverkusen-vs-Olympique-de-Marseille_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

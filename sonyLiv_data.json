@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:22 PM 05-11-2026",
-    "total_matches": 12,
-    "live_match": 2,
+    "last_update_time": "05:00:20 PM 05-11-2026",
+    "total_matches": 14,
+    "live_match": 4,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,29 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Bangladesh vs Afghanistan - 5 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793915701~acl=/*~id=08018439541750241886668244081044~hmac=f956c86dd2be9c2979d70a2a69ab4309a06a7f273b6d2555f0ee9527850ea01b"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090552590_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090552590_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
         },
         {
             "event_category": "Golf",
@@ -26,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793915701~acl=/*~id=08018439541750241886668244081044~hmac=f956c86dd2be9c2979d70a2a69ab4309a06a7f273b6d2555f0ee9527850ea01b"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793918739~acl=/*~id=71710258152757831694048943219265~hmac=31249211720f66d15c5696477e7d13119661ce7df220c8ae63bb096cd40980bf"
         },
         {
             "event_category": "Cricket",
@@ -49,22 +71,22 @@
             "stream_link": ""
         },
         {
-            "event_category": "Cricket",
-            "contentId": 1090552324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
             "event_category": "Football",
             "contentId": 1090552149,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796343913833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090552324,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

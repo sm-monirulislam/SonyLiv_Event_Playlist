@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:18 PM 05-11-2026",
+    "last_update_time": "07:00:19 PM 05-11-2026",
     "total_matches": 13,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793923015~acl=/*~id=81326020374480286179311946953421~hmac=b7c6663f30ab43492974936a10d3ef5e6c5798f0d7da0716b6a8c42dd5722802"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Churchill Brothers FC vs NorthEast United FC - 5 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/master.m3u8?hdnea=exp=1793923015~acl=/*~id=81326020374480286179311946953421~hmac=b7c6663f30ab43492974936a10d3ef5e6c5798f0d7da0716b6a8c42dd5722802"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198"
         },
         {
             "event_category": "Golf",
@@ -37,7 +37,17 @@
             "event_name": "DP World Tour",
             "match_name": "Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793923015~acl=/*~id=81326020374480286179311946953421~hmac=b7c6663f30ab43492974936a10d3ef5e6c5798f0d7da0716b6a8c42dd5722802"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793926673~acl=/*~id=91853472961795321281048154162550~hmac=6ba25f471f7910e7a113d294e6df98d2f0e02c7f5cecd2ff77a9055164082198"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090552324,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Cricket",
@@ -46,16 +56,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126841250973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -70,12 +70,12 @@
             "stream_link": ""
         },
         {
-            "event_category": "Cricket",
-            "contentId": 1090552324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "Football",
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126841250973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_tonight.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
+            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

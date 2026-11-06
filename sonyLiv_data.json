@@ -2,19 +2,75 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:17 AM 06-11-2026",
-    "total_matches": 9,
-    "live_match": 0,
+    "last_update_time": "12:00:17 PM 06-11-2026",
+    "total_matches": 14,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Cricket",
-            "contentId": 1090552324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773973505876_Asia_Cup_U19_IND-vs-NEP_Promo_Today_landscape_thumb.jpg",
+            "contentId": "1090552761_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "India vs Nepal - 6 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793987351~acl=/*~id=29105981634439343415836105631716~hmac=a53fd46dac8cd4bd21ecba22243809258789a7ebb96a7b4f57d773dda31926b8"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090552761_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "India vs Nepal - 6 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793987351~acl=/*~id=29105981634439343415836105631716~hmac=a53fd46dac8cd4bd21ecba22243809258789a7ebb96a7b4f57d773dda31926b8"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090552761_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "India vs Nepal - 6 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793987351~acl=/*~id=29105981634439343415836105631716~hmac=a53fd46dac8cd4bd21ecba22243809258789a7ebb96a7b4f57d773dda31926b8"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090552761_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "India vs Nepal - 6 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793987351~acl=/*~id=29105981634439343415836105631716~hmac=a53fd46dac8cd4bd21ecba22243809258789a7ebb96a7b4f57d773dda31926b8"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090552761_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "India vs Nepal - 6 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793987351~acl=/*~id=29105981634439343415836105631716~hmac=a53fd46dac8cd4bd21ecba22243809258789a7ebb96a7b4f57d773dda31926b8"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090552759_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "Pakistan vs UAE - 6 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793987351~acl=/*~id=29105981634439343415836105631716~hmac=a53fd46dac8cd4bd21ecba22243809258789a7ebb96a7b4f57d773dda31926b8"
         },
         {
             "event_category": "Cricket",

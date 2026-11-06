@@ -3,28 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-06 15:00:21 (BD Time)
-#  Channels Count: 7
+#  Last Updated: 2026-11-06 16:00:17 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="1090552761_ENG" tvg-name="India vs Nepal - 6 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="Cricket",India vs Nepal - 6 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793998358~acl=/*~id=98494853679590182586809570061710~hmac=cdcd911b23aee2d69620d1dd5a4867ce72c41344a736cc4c9c27ab921d491f3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794002040~acl=/*~id=41552870886815160621288773538515~hmac=0d0fa02661f73d87ae8f7344b7d5f34a4d959e52047e2767c8256e9e8dfcf37d
 
 #EXTINF:-1 tvg-id="1090552761_HIN" tvg-name="India vs Nepal - 6 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="Cricket",India vs Nepal - 6 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793998358~acl=/*~id=98494853679590182586809570061710~hmac=cdcd911b23aee2d69620d1dd5a4867ce72c41344a736cc4c9c27ab921d491f3c
-
-#EXTINF:-1 tvg-id="1090552761_TAM" tvg-name="India vs Nepal - 6 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="Cricket",India vs Nepal - 6 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793998358~acl=/*~id=98494853679590182586809570061710~hmac=cdcd911b23aee2d69620d1dd5a4867ce72c41344a736cc4c9c27ab921d491f3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794002040~acl=/*~id=41552870886815160621288773538515~hmac=0d0fa02661f73d87ae8f7344b7d5f34a4d959e52047e2767c8256e9e8dfcf37d
 
 #EXTINF:-1 tvg-id="1090552761_TEL" tvg-name="India vs Nepal - 6 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="Cricket",India vs Nepal - 6 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793998358~acl=/*~id=98494853679590182586809570061710~hmac=cdcd911b23aee2d69620d1dd5a4867ce72c41344a736cc4c9c27ab921d491f3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794002040~acl=/*~id=41552870886815160621288773538515~hmac=0d0fa02661f73d87ae8f7344b7d5f34a4d959e52047e2767c8256e9e8dfcf37d
 
 #EXTINF:-1 tvg-id="1090552761_KAN" tvg-name="India vs Nepal - 6 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028334/179382987686754_ACC_MensU19_India_vs_Nepal_live_landscape_thumb.jpg" group-title="Cricket",India vs Nepal - 6 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793998358~acl=/*~id=98494853679590182586809570061710~hmac=cdcd911b23aee2d69620d1dd5a4867ce72c41344a736cc4c9c27ab921d491f3c
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794002040~acl=/*~id=41552870886815160621288773538515~hmac=0d0fa02661f73d87ae8f7344b7d5f34a4d959e52047e2767c8256e9e8dfcf37d
 
 #EXTINF:-1 tvg-id="1090552759_ENG" tvg-name="Pakistan vs UAE - 6 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",Pakistan vs UAE - 6 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793998358~acl=/*~id=98494853679590182586809570061710~hmac=cdcd911b23aee2d69620d1dd5a4867ce72c41344a736cc4c9c27ab921d491f3c
+https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794002040~acl=/*~id=41552870886815160621288773538515~hmac=0d0fa02661f73d87ae8f7344b7d5f34a4d959e52047e2767c8256e9e8dfcf37d
 
 #EXTINF:-1 tvg-id="1090552767_ENG" tvg-name="Abu Dhabi HSBC Championship - Day 2 - 6 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg" group-title="Golf",Abu Dhabi HSBC Championship - Day 2 - 6 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793998358~acl=/*~id=98494853679590182586809570061710~hmac=cdcd911b23aee2d69620d1dd5a4867ce72c41344a736cc4c9c27ab921d491f3c
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794002040~acl=/*~id=41552870886815160621288773538515~hmac=0d0fa02661f73d87ae8f7344b7d5f34a4d959e52047e2767c8256e9e8dfcf37d
 

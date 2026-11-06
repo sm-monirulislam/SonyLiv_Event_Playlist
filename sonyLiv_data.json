@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:22 PM 06-11-2026",
-    "total_matches": 10,
-    "live_match": 2,
+    "last_update_time": "07:00:17 PM 06-11-2026",
+    "total_matches": 9,
+    "live_match": 1,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090552759_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Pakistan vs UAE - 6 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794009314~acl=/*~id=73808210550813715608731333014524~hmac=06c89d8d157ba42f4105d0ad74c71258485b24cd09e03029a52d4bf8fae6f86f"
-        },
         {
             "event_category": "Golf",
             "contentId": "1090552767_ENG",
@@ -26,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "Abu Dhabi HSBC Championship - Day 2 - 6 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794009314~acl=/*~id=73808210550813715608731333014524~hmac=06c89d8d157ba42f4105d0ad74c71258485b24cd09e03029a52d4bf8fae6f86f"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794012947~acl=/*~id=07379351577375835190115013379286~hmac=a026d7e8d5c093e85a45712341f842325f22e4f9d36efdbeb99f040b2e93b8bf"
         },
         {
             "event_category": "Cricket",

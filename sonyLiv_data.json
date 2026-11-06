@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:23 PM 06-11-2026",
+    "last_update_time": "09:00:23 PM 06-11-2026",
     "total_matches": 10,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "FC Goa vs Bengaluru FC - 6 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794016583~acl=/*~id=12310366122847983180542178345994~hmac=3fe0f502af0d8c0376b4c377ab3ef6122730a6c619215afb7227cbde0a3fabc0"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794019616~acl=/*~id=20501775453986129490901873229475~hmac=ad21a46ca14410d05802d5ac2e53e376702beeb87eab1fdbf0ac65f91c0d1864"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "FC Goa vs Bengaluru FC - 6 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794016583~acl=/*~id=12310366122847983180542178345994~hmac=3fe0f502af0d8c0376b4c377ab3ef6122730a6c619215afb7227cbde0a3fabc0"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794019616~acl=/*~id=20501775453986129490901873229475~hmac=ad21a46ca14410d05802d5ac2e53e376702beeb87eab1fdbf0ac65f91c0d1864"
         },
         {
             "event_category": "Cricket",
@@ -81,7 +81,7 @@
         {
             "event_category": "Cricket",
             "contentId": 1090551520,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027882/1793372705073348_Ind_VS_Pak_landscape_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028479/1793975082145375_AsiaCup26_U19_India_vs_Pakistan_Promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026",

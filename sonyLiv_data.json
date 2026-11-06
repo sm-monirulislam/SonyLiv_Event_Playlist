@@ -2,20 +2,31 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:17 PM 06-11-2026",
-    "total_matches": 9,
-    "live_match": 1,
+    "last_update_time": "08:00:23 PM 06-11-2026",
+    "total_matches": 10,
+    "live_match": 2,
     "matches": [
         {
-            "event_category": "Golf",
-            "contentId": "1090552767_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "event_category": "Football",
+            "contentId": "1090552768_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Abu Dhabi HSBC Championship - Day 2 - 6 Nov 2026 [ENG]",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "FC Goa vs Bengaluru FC - 6 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794012947~acl=/*~id=07379351577375835190115013379286~hmac=a026d7e8d5c093e85a45712341f842325f22e4f9d36efdbeb99f040b2e93b8bf"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794016583~acl=/*~id=12310366122847983180542178345994~hmac=3fe0f502af0d8c0376b4c377ab3ef6122730a6c619215afb7227cbde0a3fabc0"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090552768_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "FC Goa vs Bengaluru FC - 6 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794016583~acl=/*~id=12310366122847983180542178345994~hmac=3fe0f502af0d8c0376b4c377ab3ef6122730a6c619215afb7227cbde0a3fabc0"
         },
         {
             "event_category": "Cricket",
@@ -30,7 +41,7 @@
         {
             "event_category": "Football",
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866215012860_ISL26_FC-GOA-vs-Bengaluru-FC_promo_Tonight_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866668426860_ISL26_KASHI-vs-SC-Delhi_promo_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:21 PM 07-11-2026",
+    "last_update_time": "07:00:16 PM 07-11-2026",
     "total_matches": 12,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794099311~acl=/*~id=63155503098815674765791858828174~hmac=d73b38ffbfb1d5d71e7306b41dd9a5d0ddb99777ea9f2c506f833863d0c8dded"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794099311~acl=/*~id=63155503098815674765791858828174~hmac=d73b38ffbfb1d5d71e7306b41dd9a5d0ddb99777ea9f2c506f833863d0c8dded"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794099311~acl=/*~id=63155503098815674765791858828174~hmac=d73b38ffbfb1d5d71e7306b41dd9a5d0ddb99777ea9f2c506f833863d0c8dded"
         },
         {
             "event_category": "Golf",
@@ -48,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794099311~acl=/*~id=63155503098815674765791858828174~hmac=d73b38ffbfb1d5d71e7306b41dd9a5d0ddb99777ea9f2c506f833863d0c8dded"
         },
         {
             "event_category": "Cricket",

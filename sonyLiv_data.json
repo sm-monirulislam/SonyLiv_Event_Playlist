@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:20 AM 08-11-2026",
+    "last_update_time": "04:00:20 AM 08-11-2026",
     "total_matches": 9,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India A Tour of New Zealand",
             "match_name": "3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794128383~acl=/*~id=07207662109756012906863171971138~hmac=275f0c94ea195d1d08b6d3e5f6bedbb6a9bf07b4f3b74df9f98096f31fc97450"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794132015~acl=/*~id=62382249764578260133919235939714~hmac=0e432d3dccd44138d83bda0b9e78d535c741660fac675ae201f6012eb6ca2be7"
         },
         {
             "event_category": "Cricket",

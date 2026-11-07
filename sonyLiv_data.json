@@ -2,53 +2,31 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:19 PM 07-11-2026",
-    "total_matches": 14,
-    "live_match": 6,
+    "last_update_time": "06:00:21 PM 07-11-2026",
+    "total_matches": 12,
+    "live_match": 4,
     "matches": [
         {
-            "event_category": "Cricket",
-            "contentId": "1090552836_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "Football",
+            "contentId": "1090552850_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd ODI - 7 Nov 2026 [ENG]",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794088373~acl=/*~id=03195522724903492337721607444692~hmac=9466b64590af1fb7e5e0ca1509f91e07512dea0db7967ed07efec625fdfe70ed"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
         },
         {
-            "event_category": "Cricket",
-            "contentId": "1090552836_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd ODI - 7 Nov 2026 [TAM]",
+            "event_category": "Football",
+            "contentId": "1090552850_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794088373~acl=/*~id=03195522724903492337721607444692~hmac=9466b64590af1fb7e5e0ca1509f91e07512dea0db7967ed07efec625fdfe70ed"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090552836_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd ODI - 7 Nov 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794088373~acl=/*~id=03195522724903492337721607444692~hmac=9466b64590af1fb7e5e0ca1509f91e07512dea0db7967ed07efec625fdfe70ed"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090552836_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "2nd ODI - 7 Nov 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794088373~acl=/*~id=03195522724903492337721607444692~hmac=9466b64590af1fb7e5e0ca1509f91e07512dea0db7967ed07efec625fdfe70ed"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +37,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794088373~acl=/*~id=03195522724903492337721607444692~hmac=9466b64590af1fb7e5e0ca1509f91e07512dea0db7967ed07efec625fdfe70ed"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
         },
         {
             "event_category": "Golf",
@@ -70,7 +48,7 @@
             "event_name": "DP World Tour",
             "match_name": "Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794088373~acl=/*~id=03195522724903492337721607444692~hmac=9466b64590af1fb7e5e0ca1509f91e07512dea0db7967ed07efec625fdfe70ed"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794095675~acl=/*~id=87069535424189391933744252347077~hmac=98211994c440b9704670ecc9b3083cc43057e66df9c35e1abe444fd046c6dd53"
         },
         {
             "event_category": "Cricket",
@@ -79,6 +57,26 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866682863860_ISL26_KASHI-vs-SC-Delhi_promo_Today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090552952,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -109,26 +107,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090552952,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866682863860_ISL26_KASHI-vs-SC-Delhi_promo_Today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

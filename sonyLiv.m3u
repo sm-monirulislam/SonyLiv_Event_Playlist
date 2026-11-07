@@ -3,31 +3,28 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-07 14:00:19 (BD Time)
-#  Channels Count: 8
+#  Last Updated: 2026-11-07 15:00:21 (BD Time)
+#  Channels Count: 7
 #=================================
 
 #EXTINF:-1 tvg-id="1090552836_ENG" tvg-name="2nd ODI - 7 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Cricket",2nd ODI - 7 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
 
 #EXTINF:-1 tvg-id="1090552836_HIN" tvg-name="2nd ODI - 7 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Cricket",2nd ODI - 7 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
 
 #EXTINF:-1 tvg-id="1090552836_TAM" tvg-name="2nd ODI - 7 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Cricket",2nd ODI - 7 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
 
 #EXTINF:-1 tvg-id="1090552836_TEL" tvg-name="2nd ODI - 7 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Cricket",2nd ODI - 7 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
 
 #EXTINF:-1 tvg-id="1090552836_KAN" tvg-name="2nd ODI - 7 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg" group-title="Cricket",2nd ODI - 7 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
 
 #EXTINF:-1 tvg-id="1090552841_ENG" tvg-name="Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg" group-title="Cricket",Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
-
-#EXTINF:-1 tvg-id="1090552838_ENG" tvg-name="Afghanistan vs Malaysia - 7 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995227158198_ACC_MensU19_Afghanistan_vs_Malaysia_live_landscape_thumb.jpg" group-title="Cricket",Afghanistan vs Malaysia - 7 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
 
 #EXTINF:-1 tvg-id="1090552844_ENG" tvg-name="Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg" group-title="Golf",Abu Dhabi HSBC Championship - Day 3 - 7 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794081025~acl=/*~id=54123140635976458713185321865687~hmac=19ffce3ffb3de49f32b38b6fff60b08b96c025660a366f8fdc2b4d9f6a732a88
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794084694~acl=/*~id=48426370807385256454058586836147~hmac=484aa8263a014dbdc986ffc7a40dca81e4afc3f32c02e53a3bba40d490bd723d
 

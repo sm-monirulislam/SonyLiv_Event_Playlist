@@ -3,10 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-08 06:00:17 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-11-08 07:00:18 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="1090553101_ENG" tvg-name="3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Cricket",3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794138675~acl=/*~id=86452223968917096894492732146573~hmac=d040590921293d14488e3067f5db232b9e50b2fc4cca6497836034848aeb12a0
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23
+
+#EXTINF:-1 tvg-id="1090553103_ENG" tvg-name="UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23
+
+#EXTINF:-1 tvg-id="1090553103_HIN" tvg-name="UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23
+
+#EXTINF:-1 tvg-id="1090553103_TAM" tvg-name="UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23
+
+#EXTINF:-1 tvg-id="1090553103_TEL" tvg-name="UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23
+
+#EXTINF:-1 tvg-id="1090553103_KAN" tvg-name="UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg" group-title="Fight Sports",UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794142308~acl=/*~id=54698421664274670638699577527358~hmac=454b9def218d82fa0244d5f2214bf6085f3073050d64bf11f97280b48fabba23
 

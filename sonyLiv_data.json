@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:17 PM 08-11-2026",
-    "total_matches": 13,
-    "live_match": 6,
+    "last_update_time": "01:00:17 PM 08-11-2026",
+    "total_matches": 14,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794164223~acl=/*~id=33586617153526248485820141694939~hmac=9ce55873b9b2d078065766be99ae07dc1097692cb87b00dc8d470cc773fb56a9"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794164223~acl=/*~id=33586617153526248485820141694939~hmac=9ce55873b9b2d078065766be99ae07dc1097692cb87b00dc8d470cc773fb56a9"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794164223~acl=/*~id=33586617153526248485820141694939~hmac=9ce55873b9b2d078065766be99ae07dc1097692cb87b00dc8d470cc773fb56a9"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794164223~acl=/*~id=33586617153526248485820141694939~hmac=9ce55873b9b2d078065766be99ae07dc1097692cb87b00dc8d470cc773fb56a9"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs Pakistan - 8 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794164223~acl=/*~id=33586617153526248485820141694939~hmac=9ce55873b9b2d078065766be99ae07dc1097692cb87b00dc8d470cc773fb56a9"
         },
         {
             "event_category": "Cricket",
@@ -70,7 +70,18 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "UAE vs Nepal - 8 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794164223~acl=/*~id=33586617153526248485820141694939~hmac=9ce55873b9b2d078065766be99ae07dc1097692cb87b00dc8d470cc773fb56a9"
+        },
+        {
+            "event_category": "Golf",
+            "contentId": "1090553122_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888647343682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Abu Dhabi HSBC Championship - Day 4 - 8 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794164223~acl=/*~id=33586617153526248485820141694939~hmac=9ce55873b9b2d078065766be99ae07dc1097692cb87b00dc8d470cc773fb56a9"
         },
         {
             "event_category": "Cricket",

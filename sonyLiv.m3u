@@ -3,13 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-08 11:00:19 (BD Time)
-#  Channels Count: 3
+#  Last Updated: 2026-11-08 12:00:17 (BD Time)
+#  Channels Count: 6
 #=================================
 
-#EXTINF:-1 tvg-id="1090553101_ENG" tvg-name="3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg" group-title="Cricket",3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb
+#EXTINF:-1 tvg-id="1090553114_ENG" tvg-name="India vs Pakistan - 8 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - 8 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548
+
+#EXTINF:-1 tvg-id="1090553114_HIN" tvg-name="India vs Pakistan - 8 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - 8 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548
+
+#EXTINF:-1 tvg-id="1090553114_TAM" tvg-name="India vs Pakistan - 8 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - 8 Nov 2026 [TAM]
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548
+
+#EXTINF:-1 tvg-id="1090553114_TEL" tvg-name="India vs Pakistan - 8 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - 8 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548
+
+#EXTINF:-1 tvg-id="1090553114_KAN" tvg-name="India vs Pakistan - 8 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Cricket",India vs Pakistan - 8 Nov 2026 [KAN]
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548
 
 #EXTINF:-1 tvg-id="1090553112_ENG" tvg-name="UAE vs Nepal - 8 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028499/1793997230899948_ACC_MensU19_UAE_vs_Nepal_live_landscape_thumb.jpg" group-title="Cricket",UAE vs Nepal - 8 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794156259~acl=/*~id=96589736538256058674965495095889~hmac=0807e6a4152837befb007571d11dfc1d38038f02e29b2ed4c70f77fc542cb3bb
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548
 

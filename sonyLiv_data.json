@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:29 PM 09-11-2026",
+    "last_update_time": "03:00:19 PM 09-11-2026",
     "total_matches": 9,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794254043~acl=/*~id=44196436536099739747537348970399~hmac=4319e5717d5bedda7a1f93a59bc8e71ef6d234ff99a7705e9598d7651c67c3b9"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794257676~acl=/*~id=31916706851308712148491211618076~hmac=70b18f6f49d029b2360dc5b881e3ba33971b313d0b829f686ece0a9f85b5ba4f"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Bangladesh vs Malaysia - 9 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794254043~acl=/*~id=44196436536099739747537348970399~hmac=4319e5717d5bedda7a1f93a59bc8e71ef6d234ff99a7705e9598d7651c67c3b9"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794257676~acl=/*~id=31916706851308712148491211618076~hmac=70b18f6f49d029b2360dc5b881e3ba33971b313d0b829f686ece0a9f85b5ba4f"
         },
         {
             "event_category": "Cricket",

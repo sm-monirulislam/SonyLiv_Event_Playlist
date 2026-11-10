@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:22 PM 10-11-2026",
+    "last_update_time": "06:00:19 PM 10-11-2026",
     "total_matches": 8,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs UAE - 10 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794351197~acl=/*~id=05653910650194451948257601606591~hmac=3d46397010edd715bf684c30f9fe19dac70911ad792e092521fc37c18f1ff4b3"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794354835~acl=/*~id=97276501261564590925863161159481~hmac=7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs Nepal - 10 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794351197~acl=/*~id=05653910650194451948257601606591~hmac=3d46397010edd715bf684c30f9fe19dac70911ad792e092521fc37c18f1ff4b3"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794354835~acl=/*~id=97276501261564590925863161159481~hmac=7c2e09e5b330c00cb4083dc7b0bad3cbdb38049314c0099d10c614c5442c1ab3"
         },
         {
             "event_category": "Cricket",

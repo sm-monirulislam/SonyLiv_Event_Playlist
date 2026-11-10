@@ -3,22 +3,28 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-10 10:00:22 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-11-10 11:00:21 (BD Time)
+#  Channels Count: 7
 #=================================
 
 #EXTINF:-1 tvg-id="1090553316_ENG" tvg-name="3rd ODI - 10 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Cricket",3rd ODI - 10 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794326266~acl=/*~id=54748293796153669799905893081652~hmac=fd69a8d3a9e786b707b1f7f9819f70c499f6d96d2dcf56bf948701294ba24b99
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794329914~acl=/*~id=84805941350470017736145481971831~hmac=ae8079df43a3b8c61149e93826bef7d08436674d8bcc75936db6130eb3656e51
 
 #EXTINF:-1 tvg-id="1090553316_HIN" tvg-name="3rd ODI - 10 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Cricket",3rd ODI - 10 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794326266~acl=/*~id=54748293796153669799905893081652~hmac=fd69a8d3a9e786b707b1f7f9819f70c499f6d96d2dcf56bf948701294ba24b99
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794329914~acl=/*~id=84805941350470017736145481971831~hmac=ae8079df43a3b8c61149e93826bef7d08436674d8bcc75936db6130eb3656e51
 
 #EXTINF:-1 tvg-id="1090553316_TAM" tvg-name="3rd ODI - 10 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Cricket",3rd ODI - 10 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794326266~acl=/*~id=54748293796153669799905893081652~hmac=fd69a8d3a9e786b707b1f7f9819f70c499f6d96d2dcf56bf948701294ba24b99
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794329914~acl=/*~id=84805941350470017736145481971831~hmac=ae8079df43a3b8c61149e93826bef7d08436674d8bcc75936db6130eb3656e51
 
 #EXTINF:-1 tvg-id="1090553316_TEL" tvg-name="3rd ODI - 10 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Cricket",3rd ODI - 10 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794326266~acl=/*~id=54748293796153669799905893081652~hmac=fd69a8d3a9e786b707b1f7f9819f70c499f6d96d2dcf56bf948701294ba24b99
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794329914~acl=/*~id=84805941350470017736145481971831~hmac=ae8079df43a3b8c61149e93826bef7d08436674d8bcc75936db6130eb3656e51
 
 #EXTINF:-1 tvg-id="1090553316_KAN" tvg-name="3rd ODI - 10 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg" group-title="Cricket",3rd ODI - 10 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794326266~acl=/*~id=54748293796153669799905893081652~hmac=fd69a8d3a9e786b707b1f7f9819f70c499f6d96d2dcf56bf948701294ba24b99
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794329914~acl=/*~id=84805941350470017736145481971831~hmac=ae8079df43a3b8c61149e93826bef7d08436674d8bcc75936db6130eb3656e51
+
+#EXTINF:-1 tvg-id="1090553324_ENG" tvg-name="India vs UAE - 10 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",India vs UAE - 10 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794329914~acl=/*~id=84805941350470017736145481971831~hmac=ae8079df43a3b8c61149e93826bef7d08436674d8bcc75936db6130eb3656e51
+
+#EXTINF:-1 tvg-id="1090553322_ENG" tvg-name="Pakistan vs Nepal - 10 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg" group-title="Cricket",Pakistan vs Nepal - 10 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794329914~acl=/*~id=84805941350470017736145481971831~hmac=ae8079df43a3b8c61149e93826bef7d08436674d8bcc75936db6130eb3656e51
 

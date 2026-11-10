@@ -2,20 +2,42 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:21 AM 10-11-2026",
-    "total_matches": 8,
-    "live_match": 1,
+    "last_update_time": "07:00:19 AM 10-11-2026",
+    "total_matches": 9,
+    "live_match": 3,
     "matches": [
         {
             "event_category": "Cricket",
-            "contentId": "1090553315_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956868102809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day4_landscape_thumb.jpg",
+            "contentId": "1090553316_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "India A Tour of New Zealand",
-            "match_name": "3rd Unofficial Test - Day 4 - 10 Nov 2026 [ENG]",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "3rd ODI - 10 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794311564~acl=/*~id=58294751161825498698148555022552~hmac=2b70878f86e11c7540f8e6aecf72158be173fba699bf2d379c0eae8da33e2cb2"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794315213~acl=/*~id=64217954441245666399981457444559~hmac=b9017b96c012acf7d44d9453ae27c0efb4d7a038de62fde1d052d7a9ac3445c3"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090553316_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "3rd ODI - 10 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794315213~acl=/*~id=64217954441245666399981457444559~hmac=b9017b96c012acf7d44d9453ae27c0efb4d7a038de62fde1d052d7a9ac3445c3"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090553316_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "3rd ODI - 10 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794315213~acl=/*~id=64217954441245666399981457444559~hmac=b9017b96c012acf7d44d9453ae27c0efb4d7a038de62fde1d052d7a9ac3445c3"
         },
         {
             "event_category": "Cricket",
@@ -24,16 +46,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs UAE - ACC Men's U19 Asia Cup 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090553041,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076749595216_NZvsIND_3rd_ODI_Promo_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 3rd ODI - India Tour Of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

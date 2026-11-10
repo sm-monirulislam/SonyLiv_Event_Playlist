@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:18 PM 10-11-2026",
-    "total_matches": 7,
+    "last_update_time": "03:00:23 PM 10-11-2026",
+    "total_matches": 8,
     "live_match": 2,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "India vs UAE - 10 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/master.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794343909~acl=/*~id=50205309889470432564177411614756~hmac=d3206452c6a1633bb19acc1ad798d3a7d0f3adadea6a07bbffd6b9e42a002982"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs Nepal - 10 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794340268~acl=/*~id=50558844565603905890455429662055~hmac=d6d926ca59818f2c3d522eb4340d5b3bb8d6d1457aee1907200b6659b5432428"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794343909~acl=/*~id=50205309889470432564177411614756~hmac=d3206452c6a1633bb19acc1ad798d3a7d0f3adadea6a07bbffd6b9e42a002982"
         },
         {
             "event_category": "Cricket",
@@ -45,6 +45,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090553427,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th ODI - India Tour Of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

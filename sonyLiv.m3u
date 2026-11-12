@@ -3,7 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-12 22:00:19 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-11-12 23:00:20 (BD Time)
+#  Channels Count: 2
 #=================================
+
+#EXTINF:-1 tvg-id="1090553566_ENG" tvg-name="Türkiye vs Belgium - 12 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg" group-title="Football",Türkiye vs Belgium - 12 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794545863~acl=/*~id=86013865567175783354511274385054~hmac=2b91a3f45797bfd6f3ef48f8b0fba196e14d991929f9ae45e4841516ffe0e55d
+
+#EXTINF:-1 tvg-id="1090553571_ENG" tvg-name="Armenia vs Cyprus - 12 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg" group-title="Football",Armenia vs Cyprus - 12 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794545863~acl=/*~id=86013865567175783354511274385054~hmac=2b91a3f45797bfd6f3ef48f8b0fba196e14d991929f9ae45e4841516ffe0e55d
 

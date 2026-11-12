@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:22 PM 12-11-2026",
+    "last_update_time": "07:00:21 PM 12-11-2026",
     "total_matches": 10,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794527686~acl=/*~id=30295836558255886886565511258165~hmac=c414462468eef972fa6a755e879e7c7ab5adccc002b186305a9a2306a8cf1971"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794531319~acl=/*~id=49061962697745368808003580417584~hmac=ee07238b7e13d3e51ba34f5b500b5ffaa2fcec1865d6a451b14bf76e70594dfb"
         },
         {
             "event_category": "Football",

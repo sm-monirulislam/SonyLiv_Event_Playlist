@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:17 PM 12-11-2026",
-    "total_matches": 15,
-    "live_match": 6,
+    "last_update_time": "01:00:20 PM 12-11-2026",
+    "total_matches": 16,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,18 +15,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090553646_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +26,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +37,18 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090553646_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "ACC Men's U19 Asia Cup 2026",
+            "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs Bangladesh - Semi-Final - 12 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         },
         {
             "event_category": "Golf",
@@ -70,7 +70,18 @@
             "event_name": "Asian Tour 2026",
             "match_name": "Philippine Open - Day 1 - 12 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
+        },
+        {
+            "event_category": "Golf",
+            "contentId": "1090553557_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "DP World Tour Champinship, Dubai - Day 1 - 12 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794509913~acl=/*~id=58256558322223308061236922176012~hmac=0d1e433041193490b4aad924f302ab5ea0d660bcc13b4c3dcdf44e56b546a883"
         },
         {
             "event_category": "Football",

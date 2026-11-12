@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:20 AM 12-11-2026",
-    "total_matches": 16,
-    "live_match": 7,
+    "last_update_time": "12:00:17 PM 12-11-2026",
+    "total_matches": 15,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794502562~acl=/*~id=18393005059067201794259428892089~hmac=c1c2d0e20274f2433368592566fedc4265fbf96ad6fbf4cc2012e8f76534f8fb"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794502562~acl=/*~id=18393005059067201794259428892089~hmac=c1c2d0e20274f2433368592566fedc4265fbf96ad6fbf4cc2012e8f76534f8fb"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794502562~acl=/*~id=18393005059067201794259428892089~hmac=c1c2d0e20274f2433368592566fedc4265fbf96ad6fbf4cc2012e8f76534f8fb"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
         },
         {
             "event_category": "Cricket",
@@ -48,18 +48,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794502562~acl=/*~id=18393005059067201794259428892089~hmac=c1c2d0e20274f2433368592566fedc4265fbf96ad6fbf4cc2012e8f76534f8fb"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090553646_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794502562~acl=/*~id=18393005059067201794259428892089~hmac=c1c2d0e20274f2433368592566fedc4265fbf96ad6fbf4cc2012e8f76534f8fb"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
         },
         {
             "event_category": "Cricket",
@@ -70,7 +59,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs Bangladesh - Semi-Final - 12 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794502562~acl=/*~id=18393005059067201794259428892089~hmac=c1c2d0e20274f2433368592566fedc4265fbf96ad6fbf4cc2012e8f76534f8fb"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
         },
         {
             "event_category": "Golf",
@@ -81,12 +70,12 @@
             "event_name": "Asian Tour 2026",
             "match_name": "Philippine Open - Day 1 - 12 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794502562~acl=/*~id=18393005059067201794259428892089~hmac=c1c2d0e20274f2433368592566fedc4265fbf96ad6fbf4cc2012e8f76534f8fb"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794506245~acl=/*~id=39150382827822538250518999291578~hmac=c110f54ba38324d4e5c2b8502482514ee22db0cd9d6e1a468ce049908478fe63"
         },
         {
             "event_category": "Football",
             "contentId": 1090553648,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310296175247_UNL26_Italy_vs_France_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310283638247_UNL26_Italy_vs_France_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Italy vs France - UEFA Nations League 2026-27",

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:22 PM 13-11-2026",
+    "last_update_time": "12:00:20 AM 14-11-2026",
     "total_matches": 10,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Moldova vs Kazakhstan - 13 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794632177~acl=/*~id=95335829167210526019691815762671~hmac=4a33c1ac39b1039dca76445574b88a0363dbc274f9bd62a85621a57da5c800fc"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794635811~acl=/*~id=82250929300559307825397322080792~hmac=5dac33d56005d47c67a7728d221adc364bc7fbdc520edc44c91b33ae61e9bf91"
         },
         {
             "event_category": "Cricket",
@@ -80,7 +80,7 @@
         {
             "event_category": "Fight Sports",
             "contentId": 1090553633,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028794/1794397098375571_UFC334_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028973/1794577038912434_UFC-334_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UFC 334 - Gane vs Hokit",

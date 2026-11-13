@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:25 AM 13-11-2026",
-    "total_matches": 12,
+    "last_update_time": "09:00:20 AM 13-11-2026",
+    "total_matches": 11,
     "live_match": 5,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th ODI - 13 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794578027~acl=/*~id=38053424432826457949255072256704~hmac=579e7a2e9cfbba4efe4643a3133f49b52867d9c6811f5e0daa8bfd20516eb9f5"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794581686~acl=/*~id=92288701908558137288405984638490~hmac=a866a655e025fe373c528cf697fdacb8cf0c78bb7166c5aa5f6a04a45114fa20"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th ODI - 13 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794578027~acl=/*~id=38053424432826457949255072256704~hmac=579e7a2e9cfbba4efe4643a3133f49b52867d9c6811f5e0daa8bfd20516eb9f5"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794581686~acl=/*~id=92288701908558137288405984638490~hmac=a866a655e025fe373c528cf697fdacb8cf0c78bb7166c5aa5f6a04a45114fa20"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th ODI - 13 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794578027~acl=/*~id=38053424432826457949255072256704~hmac=579e7a2e9cfbba4efe4643a3133f49b52867d9c6811f5e0daa8bfd20516eb9f5"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794581686~acl=/*~id=92288701908558137288405984638490~hmac=a866a655e025fe373c528cf697fdacb8cf0c78bb7166c5aa5f6a04a45114fa20"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th ODI - 13 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794578027~acl=/*~id=38053424432826457949255072256704~hmac=579e7a2e9cfbba4efe4643a3133f49b52867d9c6811f5e0daa8bfd20516eb9f5"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794581686~acl=/*~id=92288701908558137288405984638490~hmac=a866a655e025fe373c528cf697fdacb8cf0c78bb7166c5aa5f6a04a45114fa20"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "4th ODI - 13 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794578027~acl=/*~id=38053424432826457949255072256704~hmac=579e7a2e9cfbba4efe4643a3133f49b52867d9c6811f5e0daa8bfd20516eb9f5"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794581686~acl=/*~id=92288701908558137288405984638490~hmac=a866a655e025fe373c528cf697fdacb8cf0c78bb7166c5aa5f6a04a45114fa20"
         },
         {
             "event_category": "Cricket",
@@ -78,16 +78,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090553650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309212414246_UNL26_england_vs_croatia_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

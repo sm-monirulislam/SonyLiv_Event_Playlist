@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:21 PM 13-11-2026",
-    "total_matches": 11,
+    "last_update_time": "05:00:22 PM 13-11-2026",
+    "total_matches": 10,
     "live_match": 1,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "DP World Tour",
             "match_name": "DP World Tour Championship, Dubai - Day 2 - 13 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794606749~acl=/*~id=46059534688616068969152108890683~hmac=18b70fa4f8ebb639695395567cb0feebd80b94cbd464c41cd862cc00e54c41e0"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794610382~acl=/*~id=24955139694022210530871540102527~hmac=4d3ca1fcacf3d74a59c5605427818541fb8a9ed2a055df70260cdcf938d210fd"
         },
         {
             "event_category": "Cricket",
@@ -94,16 +94,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090551225,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027597/179318077717911_ind_vs_nz_roko_is_back_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

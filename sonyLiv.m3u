@@ -3,13 +3,22 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-15 01:00:16 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-11-15 02:00:17 (BD Time)
+#  Channels Count: 5
 #=================================
 
-#EXTINF:-1 tvg-id="1090553935_ENG" tvg-name="Norway vs Wales - 14 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg" group-title="Football",Norway vs Wales - 14 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794725782~acl=/*~id=62778833265602771250225566040798~hmac=92e6eb98991644b43fcdba71366593e6fe3f613a247d4f567b29f3b384251489
+#EXTINF:-1 tvg-id="1090553938_ENG" tvg-name="Portugal vs Denmark - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027744/179319485375513_UNL26_MD6_Portugal_vs_denmark_landscape_thumb.jpg" group-title="Football",Portugal vs Denmark - 15 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794729433~acl=/*~id=13091818522735886845790660449371~hmac=736aa24c3132effb12907b71aa402d86ed6ec36e156724c6e8503236861503c9
 
-#EXTINF:-1 tvg-id="1090553936_ENG" tvg-name="Georgia vs Hungary - 14 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg" group-title="Football",Georgia vs Hungary - 14 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794725782~acl=/*~id=62778833265602771250225566040798~hmac=92e6eb98991644b43fcdba71366593e6fe3f613a247d4f567b29f3b384251489
+#EXTINF:-1 tvg-id="1090553939_ENG" tvg-name="Romania vs Poland - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027745/1793191749324232_UNL26_MD6_Romania_vs_Poland_landscape_thumb.jpg" group-title="Football",Romania vs Poland - 15 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794729433~acl=/*~id=13091818522735886845790660449371~hmac=736aa24c3132effb12907b71aa402d86ed6ec36e156724c6e8503236861503c9
+
+#EXTINF:-1 tvg-id="1090553937_ENG" tvg-name="Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027746/1793189705309704_UNL26_MD6_Sweden_vs_Bosnia_landscape_thumb.jpg" group-title="Football",Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794729433~acl=/*~id=13091818522735886845790660449371~hmac=736aa24c3132effb12907b71aa402d86ed6ec36e156724c6e8503236861503c9
+
+#EXTINF:-1 tvg-id="1090553941_ENG" tvg-name="Northern Ireland vs Ukraine - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027743/1793197631827266_UNL26_MD6_Northern_Ireland_vs_Ukraine_landscape_thumb.jpg" group-title="Football",Northern Ireland vs Ukraine - 15 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794729433~acl=/*~id=13091818522735886845790660449371~hmac=736aa24c3132effb12907b71aa402d86ed6ec36e156724c6e8503236861503c9
+
+#EXTINF:-1 tvg-id="1090553940_ENG" tvg-name="Austria vs Republic of Ireland - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027714/1793196174591509_UNL26_MD6_Austria_vs_Republic_of_Ireland_Art_landscape_thumb.jpg" group-title="Football",Austria vs Republic of Ireland - 15 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794729433~acl=/*~id=13091818522735886845790660449371~hmac=736aa24c3132effb12907b71aa402d86ed6ec36e156724c6e8503236861503c9
 

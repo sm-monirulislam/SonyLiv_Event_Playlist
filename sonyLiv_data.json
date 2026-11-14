@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:16 PM 14-11-2026",
+    "last_update_time": "02:00:18 PM 14-11-2026",
     "total_matches": 14,
     "live_match": 6,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs India - Final - 14 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794686204~acl=/*~id=77181489951112168101921192910847~hmac=9043b31dd07cf01d808c4e1f2cbbd5da3d5a17e8aa209818d40e5c0a790fd294"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs India - Final - 14 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794686204~acl=/*~id=77181489951112168101921192910847~hmac=9043b31dd07cf01d808c4e1f2cbbd5da3d5a17e8aa209818d40e5c0a790fd294"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs India - Final - 14 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794686204~acl=/*~id=77181489951112168101921192910847~hmac=9043b31dd07cf01d808c4e1f2cbbd5da3d5a17e8aa209818d40e5c0a790fd294"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs India - Final - 14 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794686204~acl=/*~id=77181489951112168101921192910847~hmac=9043b31dd07cf01d808c4e1f2cbbd5da3d5a17e8aa209818d40e5c0a790fd294"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "ACC Men's U19 Asia Cup 2026",
             "match_name": "Pakistan vs India - Final - 14 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794686204~acl=/*~id=77181489951112168101921192910847~hmac=9043b31dd07cf01d808c4e1f2cbbd5da3d5a17e8aa209818d40e5c0a790fd294"
         },
         {
             "event_category": "Golf",
@@ -70,7 +70,17 @@
             "event_name": "DP World Tour",
             "match_name": "DP World Tour Championship, Dubai - Day 3 - 14 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794682534~acl=/*~id=41005592956367814335557191514527~hmac=8793c5880d2a63bd477082198e024b5869aa24e223a737034e282c0ec0b13788"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794686204~acl=/*~id=77181489951112168101921192910847~hmac=9043b31dd07cf01d808c4e1f2cbbd5da3d5a17e8aa209818d40e5c0a790fd294"
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090553650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028983/1794593108406911_UNL_Portugal_vs_Denmark_Promo_landscape_thumb_tonight.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
         },
         {
             "event_category": "Cricket",
@@ -79,16 +89,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090553650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028983/1794592051508911_UNL_Portugal_vs_Denmark_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

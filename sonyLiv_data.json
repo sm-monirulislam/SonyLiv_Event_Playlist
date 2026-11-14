@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:20 AM 14-11-2026",
+    "last_update_time": "10:00:18 AM 14-11-2026",
     "total_matches": 10,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "Asian Tour 2026",
             "match_name": "Philippine Open - Day 3 - 14 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794667911~acl=/*~id=77731367644902402007419244438596~hmac=15fefdce64cd07771afb0a4515949a36e6c3b908159e81cca6bf54a13c21ba0a"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794671545~acl=/*~id=28060314352365798496964242239093~hmac=02e02bdaecff0ba949899070bec762822fa6af669d6086395e20ef57dacb1cb6"
         },
         {
             "event_category": "Cricket",

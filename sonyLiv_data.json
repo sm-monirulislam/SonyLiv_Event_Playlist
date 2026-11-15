@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:21 PM 15-11-2026",
-    "total_matches": 15,
-    "live_match": 7,
+    "last_update_time": "01:00:19 PM 15-11-2026",
+    "total_matches": 14,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403"
         },
         {
             "event_category": "Cricket",
@@ -59,29 +59,18 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
-        },
-        {
-            "event_category": "Fight Sports",
-            "contentId": "1090554243_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 334 - Gane vs Hokit",
-            "match_name": "UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403"
         },
         {
             "event_category": "Golf",
-            "contentId": "1090554158_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887707419295_ASIANTOUR2026_Philippine_Open_Day4_landscape_thumb.jpg",
+            "contentId": "1090554163_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "Asian Tour 2026",
-            "match_name": "Philippine Open - Day 4 - 15 Nov 2026 [ENG]",
+            "event_name": "DP World Tour",
+            "match_name": "DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794769006~acl=/*~id=17554742986073818542133462758881~hmac=451744dcfe2372cb0d744dcb06ace0b346f7a93e4f035cc75d757cbd21432403"
         },
         {
             "event_category": "Football",

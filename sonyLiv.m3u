@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-15 19:00:18 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-11-15 20:00:16 (BD Time)
+#  Channels Count: 2
 #=================================
 
-#EXTINF:-1 tvg-id="1090554163_ENG" tvg-name="DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg" group-title="Golf",DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794790379~acl=/*~id=56106235053554393058469501771316~hmac=ebf06275e7bf9194b253c094a135806b7a9cd88a00979ee7e127ebac1643af96
+#EXTINF:-1 tvg-id="1090554015_ENG" tvg-name="Latvia vs Armenia - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg" group-title="Football",Latvia vs Armenia - 15 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794794008~acl=/*~id=40330715159968604931071904685416~hmac=5300ee6693b681a8927d6465d90c773caf409b5d341c9bfa44c0948876a0f57d
+
+#EXTINF:-1 tvg-id="1090554016_ENG" tvg-name="Cyprus vs Montenegro - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg" group-title="Football",Cyprus vs Montenegro - 15 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794794008~acl=/*~id=40330715159968604931071904685416~hmac=5300ee6693b681a8927d6465d90c773caf409b5d341c9bfa44c0948876a0f57d
 

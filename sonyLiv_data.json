@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:19 PM 15-11-2026",
+    "last_update_time": "10:00:18 PM 15-11-2026",
     "total_matches": 10,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Latvia vs Armenia - 15 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794797642~acl=/*~id=36538416294883492886892089066198~hmac=94007b5b6d25b216be4a609ebeeadca9aa2653d0b8430fb7d9ac07f7d2fda811"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794801281~acl=/*~id=27634688062667073399657257229886~hmac=c8b1dabc97da9b329e2d6e4707dfd40611c7467772d2e3d64a2cb6f1cc290374"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "UEFA Nations League 2026-27",
             "match_name": "Cyprus vs Montenegro - 15 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794797642~acl=/*~id=36538416294883492886892089066198~hmac=94007b5b6d25b216be4a609ebeeadca9aa2653d0b8430fb7d9ac07f7d2fda811"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794801281~acl=/*~id=27634688062667073399657257229886~hmac=c8b1dabc97da9b329e2d6e4707dfd40611c7467772d2e3d64a2cb6f1cc290374"
         },
         {
             "event_category": "Football",

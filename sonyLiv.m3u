@@ -3,25 +3,28 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-15 11:00:20 (BD Time)
-#  Channels Count: 6
+#  Last Updated: 2026-11-15 12:00:21 (BD Time)
+#  Channels Count: 7
 #=================================
 
 #EXTINF:-1 tvg-id="1090554160_ENG" tvg-name="5th ODI - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Cricket",5th ODI - 15 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404
 
 #EXTINF:-1 tvg-id="1090554160_HIN" tvg-name="5th ODI - 15 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Cricket",5th ODI - 15 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404
 
 #EXTINF:-1 tvg-id="1090554160_TAM" tvg-name="5th ODI - 15 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Cricket",5th ODI - 15 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404
+
+#EXTINF:-1 tvg-id="1090554160_TEL" tvg-name="5th ODI - 15 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Cricket",5th ODI - 15 Nov 2026 [TEL]
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404
 
 #EXTINF:-1 tvg-id="1090554160_KAN" tvg-name="5th ODI - 15 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="Cricket",5th ODI - 15 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404
 
 #EXTINF:-1 tvg-id="1090554243_ENG" tvg-name="UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg" group-title="Fight Sports",UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404
 
 #EXTINF:-1 tvg-id="1090554158_ENG" tvg-name="Philippine Open - Day 4 - 15 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887707419295_ASIANTOUR2026_Philippine_Open_Day4_landscape_thumb.jpg" group-title="Golf",Philippine Open - Day 4 - 15 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404
 

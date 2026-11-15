@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:20 AM 15-11-2026",
-    "total_matches": 14,
-    "live_match": 6,
+    "last_update_time": "12:00:21 PM 15-11-2026",
+    "total_matches": 15,
+    "live_match": 7,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,18 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090554160_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "5th ODI - 15 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +59,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "5th ODI - 15 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
         },
         {
             "event_category": "Fight Sports",
@@ -59,7 +70,7 @@
             "event_name": "UFC 334 - Gane vs Hokit",
             "match_name": "UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
         },
         {
             "event_category": "Golf",
@@ -70,7 +81,7 @@
             "event_name": "Asian Tour 2026",
             "match_name": "Philippine Open - Day 4 - 15 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794761658~acl=/*~id=89564822754444748557345631226463~hmac=648ec9f0fbd7263142fcec4d1fbbcd8f22e09f42949b38e81c0a10a7a394b407"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794765324~acl=/*~id=34201922784813798228737943493543~hmac=19539d5e32399a26633e2024dd41880c85983b35ad355810050633eae970a404"
         },
         {
             "event_category": "Football",

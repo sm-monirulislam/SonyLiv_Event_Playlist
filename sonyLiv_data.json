@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:20 AM 19-11-2026",
+    "last_update_time": "08:00:20 AM 19-11-2026",
     "total_matches": 12,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 1 - 19 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 1 - 19 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 1 - 19 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 1 - 19 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 1 - 19 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795096384~acl=/*~id=93770616700870494035888250535969~hmac=c0233868eda990b546afc441974742a5b2ad884224ebcd638a2095679a861d65"
         },
         {
             "event_category": "Cricket",

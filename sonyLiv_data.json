@@ -2,10 +2,65 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:20 AM 20-11-2026",
-    "total_matches": 14,
-    "live_match": 0,
+    "last_update_time": "04:00:20 AM 20-11-2026",
+    "total_matches": 19,
+    "live_match": 5,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090554803_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st Test - Day 2 - 20 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795168576~acl=/*~id=38760828700374828507022106746184~hmac=201f91c57f85aa8936f22ab475208d40affe5f48ccdf81992af8abca60518377"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090554803_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st Test - Day 2 - 20 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795168576~acl=/*~id=38760828700374828507022106746184~hmac=201f91c57f85aa8936f22ab475208d40affe5f48ccdf81992af8abca60518377"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090554803_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st Test - Day 2 - 20 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795168576~acl=/*~id=38760828700374828507022106746184~hmac=201f91c57f85aa8936f22ab475208d40affe5f48ccdf81992af8abca60518377"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090554803_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st Test - Day 2 - 20 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795168576~acl=/*~id=38760828700374828507022106746184~hmac=201f91c57f85aa8936f22ab475208d40affe5f48ccdf81992af8abca60518377"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090554803_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "1st Test - Day 2 - 20 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795168576~acl=/*~id=38760828700374828507022106746184~hmac=201f91c57f85aa8936f22ab475208d40affe5f48ccdf81992af8abca60518377"
+        },
         {
             "event_category": "Cricket",
             "contentId": 1090554758,

@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-19 15:00:19 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-11-19 16:00:26 (BD Time)
+#  Channels Count: 2
 #=================================
 
+#EXTINF:-1 tvg-id="1090554810_ENG" tvg-name="Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg" group-title="Cricket",Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448
+
 #EXTINF:-1 tvg-id="1090554805_ENG" tvg-name="Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029365/1795067857037235_ACRS26_BANvsHKC_landscape_thumb.jpg" group-title="Cricket",Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795121896~acl=/*~id=75620976061113410946461841843248~hmac=d519c3e84a778bfb66aeb6976c51aadc7adb989e1ea4737e7c124874fe164842
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795125497~acl=/*~id=18516022247283036781338330090194~hmac=2d9487e6e63df6fde099315fa4db3fdd0a349695b7ee223e529adb7c2529a448
 

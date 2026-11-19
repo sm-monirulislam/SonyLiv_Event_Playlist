@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:19 PM 19-11-2026",
+    "last_update_time": "09:00:18 PM 19-11-2026",
     "total_matches": 15,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795139480~acl=/*~id=41315964268164961068429957818817~hmac=cf3e118be0c6a0a1feeff024fcf20ebe46304970a141c3866733a05f5cc74b86"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795143117~acl=/*~id=59069531124932855470512122142107~hmac=0503a583fd5faa5735fa41262c63ac63151dde422a0a17aed15faac96843bf2b"
         },
         {
             "event_category": "Cricket",
@@ -148,12 +148,12 @@
             "stream_link": ""
         },
         {
-            "event_category": "Cricket",
-            "contentId": 1090552481,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028373/1793864472359710_india_cricket_promo_landscape_thumb.jpg",
+            "event_category": "Football",
+            "contentId": 1090555134,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Cricket Non-Stop Combo",
+            "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         }

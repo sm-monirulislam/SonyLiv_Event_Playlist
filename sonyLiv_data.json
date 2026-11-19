@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:00:22 PM 19-11-2026",
+    "last_update_time": "07:00:16 PM 19-11-2026",
     "total_matches": 9,
     "live_match": 2,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795132203~acl=/*~id=02073957494957921397823288240667~hmac=01bd5d42081fa846413326e522532d550aa0a7a57b789b91420d414f89327ddc"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795135843~acl=/*~id=06952292256421643382658425282932~hmac=67b9f7fb1845dabf013ced07a1e2f6dc0dd41d499a437c553dd3b11624d76bc4"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795132203~acl=/*~id=02073957494957921397823288240667~hmac=01bd5d42081fa846413326e522532d550aa0a7a57b789b91420d414f89327ddc"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795135843~acl=/*~id=06952292256421643382658425282932~hmac=67b9f7fb1845dabf013ced07a1e2f6dc0dd41d499a437c553dd3b11624d76bc4"
         },
         {
             "event_category": "Cricket",

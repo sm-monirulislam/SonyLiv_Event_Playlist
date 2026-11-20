@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:21 AM 21-11-2026",
-    "total_matches": 14,
+    "last_update_time": "02:00:23 AM 21-11-2026",
+    "total_matches": 15,
     "live_match": 0,
     "matches": [
         {
@@ -43,6 +43,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090555484,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029529/1795199642048590_ACRS_IND_vs_UAE_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

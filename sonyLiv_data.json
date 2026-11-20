@@ -2,10 +2,65 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:18 PM 20-11-2026",
-    "total_matches": 15,
-    "live_match": 1,
+    "last_update_time": "04:00:18 PM 20-11-2026",
+    "total_matches": 19,
+    "live_match": 6,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555011_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Nepal - 20 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555011_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Nepal - 20 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555011_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Nepal - 20 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555011_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Nepal - 20 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555011_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Nepal - 20 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+        },
         {
             "event_category": "Cricket",
             "contentId": "1090555008_ENG",
@@ -15,17 +70,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795208120~acl=/*~id=19087634404345139015089869610361~hmac=c034368e3f930ba8f43735fc8dc17081c30387932b8e9c38facd4249ccbbbbe1"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090554758,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029175/1794773101009687_ACC_Rising_Stars_India_vs_Nepal_landscape_thumb_today.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India A vs Nepal - DP World Asia Cup Rising Stars Men's 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
         },
         {
             "event_category": "Cricket",

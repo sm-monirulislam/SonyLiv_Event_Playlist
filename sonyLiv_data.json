@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:18 PM 20-11-2026",
-    "total_matches": 19,
-    "live_match": 6,
+    "last_update_time": "05:00:22 PM 20-11-2026",
+    "total_matches": 22,
+    "live_match": 9,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Nepal - 20 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Nepal - 20 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Nepal - 20 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Nepal - 20 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Nepal - 20 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
         },
         {
             "event_category": "Cricket",
@@ -70,7 +70,40 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan Shaheens vs UAE - 20 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795211161~acl=/*~id=01042696009932685908019953256292~hmac=55b79653a1b6f2c3bf02f7ebe7aa7278fb593823cfb653e99d9f965278ed856e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555013_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555013_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555013_BEN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "BEN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "East Bengal FC vs Sporting Club Delhi - 20 Nov 2026 [BEN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795215429~acl=/*~id=59047054209541345518399796866151~hmac=0bab95336a66029838d528fc67920d4b11af2530d3ea9bd517f90d9a48ca10e7"
         },
         {
             "event_category": "Cricket",

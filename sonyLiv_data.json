@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:17 PM 21-11-2026",
+    "last_update_time": "10:00:18 PM 21-11-2026",
     "total_matches": 18,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795316287~acl=/*~id=01363248447460957499962996941918~hmac=1a053bca755f34e92bb6fbdbd8c72e647c73761205421334c969f0ac0e0d8a7a"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795319927~acl=/*~id=59991283960020294536503222064031~hmac=fcc84a838e3914f007d04d5b2b7397e6589e1ddfea93dae38a9ba3d756554655"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795316287~acl=/*~id=01363248447460957499962996941918~hmac=1a053bca755f34e92bb6fbdbd8c72e647c73761205421334c969f0ac0e0d8a7a"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795319927~acl=/*~id=59991283960020294536503222064031~hmac=fcc84a838e3914f007d04d5b2b7397e6589e1ddfea93dae38a9ba3d756554655"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795316287~acl=/*~id=01363248447460957499962996941918~hmac=1a053bca755f34e92bb6fbdbd8c72e647c73761205421334c969f0ac0e0d8a7a"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795319927~acl=/*~id=59991283960020294536503222064031~hmac=fcc84a838e3914f007d04d5b2b7397e6589e1ddfea93dae38a9ba3d756554655"
         },
         {
             "event_category": "Cricket",

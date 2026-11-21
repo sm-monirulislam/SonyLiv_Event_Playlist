@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:17 PM 21-11-2026",
-    "total_matches": 17,
-    "live_match": 2,
+    "last_update_time": "05:00:18 PM 21-11-2026",
+    "total_matches": 20,
+    "live_match": 5,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555331_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795298100~acl=/*~id=58400641814579473167354453826195~hmac=201a06cfb2236121dcd7b08773d9bc57b31e937da527fd6c4d4d1d1d5914949c"
-        },
         {
             "event_category": "Cricket",
             "contentId": "1090555335_ENG",
@@ -26,7 +15,51 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795298100~acl=/*~id=58400641814579473167354453826195~hmac=201a06cfb2236121dcd7b08773d9bc57b31e937da527fd6c4d4d1d1d5914949c"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795301734~acl=/*~id=07452091787105006071148014093199~hmac=305125cc69d925efb579ce718247dac0cbc79bf9bdc773f7a9ffd15f8057050f"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555338_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Chennaiyin FC vs Punjab FC - 21 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795301734~acl=/*~id=07452091787105006071148014093199~hmac=305125cc69d925efb579ce718247dac0cbc79bf9bdc773f7a9ffd15f8057050f"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555338_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Chennaiyin FC vs Punjab FC - 21 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795301734~acl=/*~id=07452091787105006071148014093199~hmac=305125cc69d925efb579ce718247dac0cbc79bf9bdc773f7a9ffd15f8057050f"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555338_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "TAM",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Chennaiyin FC vs Punjab FC - 21 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795301734~acl=/*~id=07452091787105006071148014093199~hmac=305125cc69d925efb579ce718247dac0cbc79bf9bdc773f7a9ffd15f8057050f"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555331_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795301734~acl=/*~id=07452091787105006071148014093199~hmac=305125cc69d925efb579ce718247dac0cbc79bf9bdc773f7a9ffd15f8057050f"
         },
         {
             "event_category": "Cricket",

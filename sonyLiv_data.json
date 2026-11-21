@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:17 AM 22-11-2026",
+    "last_update_time": "01:00:20 AM 22-11-2026",
     "total_matches": 20,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "UFC Fight Night - Prochazka vs Stirling",
             "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795330240~acl=/*~id=76913745732669040114757943795051~hmac=289277108c6070f77e686e2b90ddb01df2e9039aa92eb7d1b00f49829a77d5a9"
         },
         {
             "event_category": "Fight Sports",
@@ -26,7 +26,7 @@
             "event_name": "UFC Fight Night - Prochazka vs Stirling",
             "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795330240~acl=/*~id=76913745732669040114757943795051~hmac=289277108c6070f77e686e2b90ddb01df2e9039aa92eb7d1b00f49829a77d5a9"
         },
         {
             "event_category": "Fight Sports",
@@ -37,7 +37,7 @@
             "event_name": "UFC Fight Night - Prochazka vs Stirling",
             "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795330240~acl=/*~id=76913745732669040114757943795051~hmac=289277108c6070f77e686e2b90ddb01df2e9039aa92eb7d1b00f49829a77d5a9"
         },
         {
             "event_category": "Fight Sports",
@@ -48,7 +48,7 @@
             "event_name": "UFC Fight Night - Prochazka vs Stirling",
             "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795330240~acl=/*~id=76913745732669040114757943795051~hmac=289277108c6070f77e686e2b90ddb01df2e9039aa92eb7d1b00f49829a77d5a9"
         },
         {
             "event_category": "Fight Sports",
@@ -59,12 +59,12 @@
             "event_name": "UFC Fight Night - Prochazka vs Stirling",
             "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795330240~acl=/*~id=76913745732669040114757943795051~hmac=289277108c6070f77e686e2b90ddb01df2e9039aa92eb7d1b00f49829a77d5a9"
         },
         {
             "event_category": "Cricket",
             "contentId": 1090554767,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029492/1795181314712618_ACRS26_INDvsPAK_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029616/1795286271436647_ACRS26_INDvsPAK_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026",

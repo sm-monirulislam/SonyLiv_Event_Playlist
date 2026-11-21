@@ -3,22 +3,19 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-21 19:00:19 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-11-21 20:00:17 (BD Time)
+#  Channels Count: 4
 #=================================
 
 #EXTINF:-1 tvg-id="1090555335_ENG" tvg-name="Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Cricket",Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198
+https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795312649~acl=/*~id=93208868977833073387322476365502~hmac=a8b7ac2da7d194d0f87de9893525ef4b0dd19569cc65a6f33ad75ad12f15ef32
 
-#EXTINF:-1 tvg-id="1090555338_ENG" tvg-name="Chennaiyin FC vs Punjab FC - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Football",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198
+#EXTINF:-1 tvg-id="1090555340_ENG" tvg-name="NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Football",NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795312649~acl=/*~id=93208868977833073387322476365502~hmac=a8b7ac2da7d194d0f87de9893525ef4b0dd19569cc65a6f33ad75ad12f15ef32
 
-#EXTINF:-1 tvg-id="1090555338_HIN" tvg-name="Chennaiyin FC vs Punjab FC - 21 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Football",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198
-
-#EXTINF:-1 tvg-id="1090555338_TAM" tvg-name="Chennaiyin FC vs Punjab FC - 21 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Football",Chennaiyin FC vs Punjab FC - 21 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198
+#EXTINF:-1 tvg-id="1090555340_HIN" tvg-name="NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Football",NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN]
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795312649~acl=/*~id=93208868977833073387322476365502~hmac=a8b7ac2da7d194d0f87de9893525ef4b0dd19569cc65a6f33ad75ad12f15ef32
 
 #EXTINF:-1 tvg-id="1090555331_ENG" tvg-name="Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Cricket",Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795309006~acl=/*~id=81165180857679425382131566758691~hmac=57408f9cf7ad78f1e30078b40d943faf474d244e67d6fcadc59d5ac823af7198
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795312649~acl=/*~id=93208868977833073387322476365502~hmac=a8b7ac2da7d194d0f87de9893525ef4b0dd19569cc65a6f33ad75ad12f15ef32
 

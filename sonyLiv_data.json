@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:20 PM 22-11-2026",
-    "total_matches": 19,
-    "live_match": 5,
+    "last_update_time": "08:00:18 PM 22-11-2026",
+    "total_matches": 22,
+    "live_match": 8,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795395220~acl=/*~id=13927555411889650478114229447424~hmac=807e54b9f7349149daab04287795fdecc656632d50db507d3189dcba30dd3a49"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795395220~acl=/*~id=13927555411889650478114229447424~hmac=807e54b9f7349149daab04287795fdecc656632d50db507d3189dcba30dd3a49"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795395220~acl=/*~id=13927555411889650478114229447424~hmac=807e54b9f7349149daab04287795fdecc656632d50db507d3189dcba30dd3a49"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795395220~acl=/*~id=13927555411889650478114229447424~hmac=807e54b9f7349149daab04287795fdecc656632d50db507d3189dcba30dd3a49"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,40 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795395220~acl=/*~id=13927555411889650478114229447424~hmac=807e54b9f7349149daab04287795fdecc656632d50db507d3189dcba30dd3a49"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555753_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029516/1795051058000916_ISL26__Churchill_Brothers_FC_vs_Mohun_Bagan_Super_Giant_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers FC vs Mohun Bagan Super Giant  - 22 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555753_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029516/1795051058000916_ISL26__Churchill_Brothers_FC_vs_Mohun_Bagan_Super_Giant_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers FC vs Mohun Bagan Super Giant  - 22 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090555753_BEN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029516/1795051058000916_ISL26__Churchill_Brothers_FC_vs_Mohun_Bagan_Super_Giant_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "BEN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Churchill Brothers FC vs Mohun Bagan Super Giant  - 22 Nov 2026 [BEN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2211/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795398940~acl=/*~id=89684549236908207764911893896373~hmac=faddcfc571390c66fe5aa3d66aa906eeab35505981d8d9016e85c04fdfa6f0fe"
         },
         {
             "event_category": "Cricket",

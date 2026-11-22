@@ -2,65 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:18 AM 23-11-2026",
-    "total_matches": 19,
-    "live_match": 5,
+    "last_update_time": "02:00:19 AM 23-11-2026",
+    "total_matches": 14,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555678_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795416622~acl=/*~id=75665946246233992899892509913701~hmac=83d38a20aab3f9632bfe1101741d668d7f40c2becf9d981b63b3c044c74a6c22"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555678_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795416622~acl=/*~id=75665946246233992899892509913701~hmac=83d38a20aab3f9632bfe1101741d668d7f40c2becf9d981b63b3c044c74a6c22"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555678_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795416622~acl=/*~id=75665946246233992899892509913701~hmac=83d38a20aab3f9632bfe1101741d668d7f40c2becf9d981b63b3c044c74a6c22"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555678_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795416622~acl=/*~id=75665946246233992899892509913701~hmac=83d38a20aab3f9632bfe1101741d668d7f40c2becf9d981b63b3c044c74a6c22"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555678_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795416622~acl=/*~id=75665946246233992899892509913701~hmac=83d38a20aab3f9632bfe1101741d668d7f40c2becf9d981b63b3c044c74a6c22"
-        },
         {
             "event_category": "Football",
             "contentId": 1090555513,
@@ -122,6 +67,16 @@
             "stream_link": ""
         },
         {
+            "event_category": "Football",
+            "contentId": 1090555091,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
             "event_category": "Cricket",
             "contentId": 1090554106,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029344/1795027876381725_NZvsIND_1st_test_day1_today_landscape_thumb.jpg",
@@ -158,16 +113,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090555091,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

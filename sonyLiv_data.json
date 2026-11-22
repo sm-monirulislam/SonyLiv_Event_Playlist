@@ -2,65 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:16 PM 22-11-2026",
-    "total_matches": 21,
-    "live_match": 6,
+    "last_update_time": "01:00:18 PM 22-11-2026",
+    "total_matches": 16,
+    "live_match": 1,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555669_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 4 - 22 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555669_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 4 - 22 Nov 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555669_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TAM",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 4 - 22 Nov 2026 [TAM]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555669_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "TEL",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 4 - 22 Nov 2026 [TEL]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555669_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "KAN",
-            "event_name": "India Tour of New Zealand 2026",
-            "match_name": "1st Test - Day 4 - 22 Nov 2026 [KAN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a"
-        },
         {
             "event_category": "Cricket",
             "contentId": "1090555675_ENG",
@@ -70,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "UAE vs Nepal - 22 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795373408~acl=/*~id=13505865390805847572710539546332~hmac=9e81f9bcf75a10515a8e225352d58b759dba8abcc11671ae271197c967324abf"
         },
         {
             "event_category": "Cricket",
@@ -89,6 +34,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090555086,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -149,16 +104,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090555086,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

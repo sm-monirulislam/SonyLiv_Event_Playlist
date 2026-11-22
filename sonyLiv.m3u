@@ -3,25 +3,10 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-22 12:00:16 (BD Time)
-#  Channels Count: 6
+#  Last Updated: 2026-11-22 13:00:18 (BD Time)
+#  Channels Count: 1
 #=================================
 
-#EXTINF:-1 tvg-id="1090555669_ENG" tvg-name="1st Test - Day 4 - 22 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg" group-title="Cricket",1st Test - Day 4 - 22 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a
-
-#EXTINF:-1 tvg-id="1090555669_HIN" tvg-name="1st Test - Day 4 - 22 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg" group-title="Cricket",1st Test - Day 4 - 22 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a
-
-#EXTINF:-1 tvg-id="1090555669_TAM" tvg-name="1st Test - Day 4 - 22 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg" group-title="Cricket",1st Test - Day 4 - 22 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a
-
-#EXTINF:-1 tvg-id="1090555669_TEL" tvg-name="1st Test - Day 4 - 22 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg" group-title="Cricket",1st Test - Day 4 - 22 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a
-
-#EXTINF:-1 tvg-id="1090555669_KAN" tvg-name="1st Test - Day 4 - 22 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086806204996_NZvsIND_1st_Test_Day4_landscape_thumb.jpg" group-title="Cricket",1st Test - Day 4 - 22 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a
-
 #EXTINF:-1 tvg-id="1090555675_ENG" tvg-name="UAE vs Nepal - 22 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg" group-title="Cricket",UAE vs Nepal - 22 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795370372~acl=/*~id=69713955345071549923816965692348~hmac=0d279def056a9c724c1ff4ecaa072ac4128166c7fc3ecf5d58f8908e6d660d2a
+https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795373408~acl=/*~id=13505865390805847572710539546332~hmac=9e81f9bcf75a10515a8e225352d58b759dba8abcc11671ae271197c967324abf
 

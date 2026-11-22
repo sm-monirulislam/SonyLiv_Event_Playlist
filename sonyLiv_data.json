@@ -2,10 +2,65 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:24 PM 22-11-2026",
-    "total_matches": 16,
-    "live_match": 1,
+    "last_update_time": "04:00:18 PM 22-11-2026",
+    "total_matches": 20,
+    "live_match": 6,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555678_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555678_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555678_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555678_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090555678_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a"
+        },
         {
             "event_category": "Cricket",
             "contentId": "1090555675_ENG",
@@ -15,17 +70,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "UAE vs Nepal - 22 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795380677~acl=/*~id=64144913555521731686705609915089~hmac=ac873514fbd967e36892d90f4663df3e2b24beea790ce46a79535615a2f884da"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090554767,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029616/1795286271436647_ACRS26_INDvsPAK_today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795384316~acl=/*~id=85277969181131684332443248355792~hmac=d41aae8f0dc2d9dd81ee8f8368f73a3c24ffee12b5483eb58b8e11dae325081a"
         },
         {
             "event_category": "Cricket",
@@ -54,16 +99,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090552952,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029233/1794889581849702_Asia_Cup_Ind_vs_Pak_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -164,6 +199,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         }

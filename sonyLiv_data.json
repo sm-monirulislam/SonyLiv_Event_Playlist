@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "08:00:18 AM 22-11-2026",
+    "last_update_time": "09:00:21 AM 22-11-2026",
     "total_matches": 19,
     "live_match": 4,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 4 - 22 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795355771~acl=/*~id=40596604372823827429980375411808~hmac=addcf341872c584fa75f82716932bae31577f277483703299cef8dc509000e0c"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795359393~acl=/*~id=82866645857398427135025662272721~hmac=35f84d309c8df5255da96ec224e903a933e4fdb39069a504a23c6dbea657decc"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 4 - 22 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795355771~acl=/*~id=40596604372823827429980375411808~hmac=addcf341872c584fa75f82716932bae31577f277483703299cef8dc509000e0c"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795359393~acl=/*~id=82866645857398427135025662272721~hmac=35f84d309c8df5255da96ec224e903a933e4fdb39069a504a23c6dbea657decc"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 4 - 22 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795355771~acl=/*~id=40596604372823827429980375411808~hmac=addcf341872c584fa75f82716932bae31577f277483703299cef8dc509000e0c"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795359393~acl=/*~id=82866645857398427135025662272721~hmac=35f84d309c8df5255da96ec224e903a933e4fdb39069a504a23c6dbea657decc"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "India Tour of New Zealand 2026",
             "match_name": "1st Test - Day 4 - 22 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795355771~acl=/*~id=40596604372823827429980375411808~hmac=addcf341872c584fa75f82716932bae31577f277483703299cef8dc509000e0c"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795359393~acl=/*~id=82866645857398427135025662272721~hmac=35f84d309c8df5255da96ec224e903a933e4fdb39069a504a23c6dbea657decc"
         },
         {
             "event_category": "Cricket",

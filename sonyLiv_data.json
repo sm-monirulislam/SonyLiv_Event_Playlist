@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:16 PM 22-11-2026",
-    "total_matches": 20,
-    "live_match": 6,
+    "last_update_time": "06:00:18 PM 22-11-2026",
+    "total_matches": 19,
+    "live_match": 5,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795387972~acl=/*~id=32614290828181629730302093342650~hmac=db546c9438ca7d0022f024cd5809a197765d4ecd5332dd308e76fded0e57adb7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795391623~acl=/*~id=04896682576077028957500316769635~hmac=edd0bb0e7b76918ff950bdcbf332cd8c1225c027bce55c818673bcd3ec5477eb"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795387972~acl=/*~id=32614290828181629730302093342650~hmac=db546c9438ca7d0022f024cd5809a197765d4ecd5332dd308e76fded0e57adb7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795391623~acl=/*~id=04896682576077028957500316769635~hmac=edd0bb0e7b76918ff950bdcbf332cd8c1225c027bce55c818673bcd3ec5477eb"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795387972~acl=/*~id=32614290828181629730302093342650~hmac=db546c9438ca7d0022f024cd5809a197765d4ecd5332dd308e76fded0e57adb7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795391623~acl=/*~id=04896682576077028957500316769635~hmac=edd0bb0e7b76918ff950bdcbf332cd8c1225c027bce55c818673bcd3ec5477eb"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795387972~acl=/*~id=32614290828181629730302093342650~hmac=db546c9438ca7d0022f024cd5809a197765d4ecd5332dd308e76fded0e57adb7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795391623~acl=/*~id=04896682576077028957500316769635~hmac=edd0bb0e7b76918ff950bdcbf332cd8c1225c027bce55c818673bcd3ec5477eb"
         },
         {
             "event_category": "Cricket",
@@ -59,18 +59,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs Pakistan Shaheens - 22 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795387972~acl=/*~id=32614290828181629730302093342650~hmac=db546c9438ca7d0022f024cd5809a197765d4ecd5332dd308e76fded0e57adb7"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": "1090555675_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029496/1795182383971360_AsiaCup_RisingStar_UAE_vs_NEPAL_Live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "UAE vs Nepal - 22 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/criclive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795387972~acl=/*~id=32614290828181629730302093342650~hmac=db546c9438ca7d0022f024cd5809a197765d4ecd5332dd308e76fded0e57adb7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795391623~acl=/*~id=04896682576077028957500316769635~hmac=edd0bb0e7b76918ff950bdcbf332cd8c1225c027bce55c818673bcd3ec5477eb"
         },
         {
             "event_category": "Cricket",

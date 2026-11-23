@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:23 PM 23-11-2026",
+    "last_update_time": "01:00:21 PM 23-11-2026",
     "total_matches": 14,
     "live_match": 1,
     "matches": [
@@ -15,17 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Afghanistan A vs Hong Kong, China - 23 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795456759~acl=/*~id=84301303709332957321367721300427~hmac=323d9f1a2da502a8e32d396428bf60b6059b1b9719b6ed4dcd40c9c67389f178"
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090555513,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795459790~acl=/*~id=73949209281504760081180788387142~hmac=d7bd3a07eadaa15db201e02cf013367f01aa6702c33a6f656029bf582727fa36"
         },
         {
             "event_category": "Cricket",
@@ -34,6 +24,16 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2026",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090555513,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:19 PM 24-11-2026",
+    "last_update_time": "01:00:28 PM 24-11-2026",
     "total_matches": 18,
     "live_match": 5,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795542763~acl=/*~id=97278515014243774300347429330991~hmac=8285d77965c5f58d5a792becee26ae5c8395f4475c0c1f69b1183c14761ff2bf"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795542763~acl=/*~id=97278515014243774300347429330991~hmac=8285d77965c5f58d5a792becee26ae5c8395f4475c0c1f69b1183c14761ff2bf"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795542763~acl=/*~id=97278515014243774300347429330991~hmac=8285d77965c5f58d5a792becee26ae5c8395f4475c0c1f69b1183c14761ff2bf"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795542763~acl=/*~id=97278515014243774300347429330991~hmac=8285d77965c5f58d5a792becee26ae5c8395f4475c0c1f69b1183c14761ff2bf"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795542763~acl=/*~id=97278515014243774300347429330991~hmac=8285d77965c5f58d5a792becee26ae5c8395f4475c0c1f69b1183c14761ff2bf"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
         },
         {
             "event_category": "Football",
@@ -123,21 +123,21 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090555085,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
             "contentId": 1090555087,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090555085,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

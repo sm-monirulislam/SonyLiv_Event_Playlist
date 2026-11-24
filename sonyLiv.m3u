@@ -3,22 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-24 15:00:19 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-11-24 16:00:20 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="1090556007_ENG" tvg-name="India A vs UAE - 24 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",India A vs UAE - 24 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917
 
 #EXTINF:-1 tvg-id="1090556007_HIN" tvg-name="India A vs UAE - 24 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",India A vs UAE - 24 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917
 
 #EXTINF:-1 tvg-id="1090556007_TAM" tvg-name="India A vs UAE - 24 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",India A vs UAE - 24 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917
 
 #EXTINF:-1 tvg-id="1090556007_TEL" tvg-name="India A vs UAE - 24 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",India A vs UAE - 24 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917
 
 #EXTINF:-1 tvg-id="1090556007_KAN" tvg-name="India A vs UAE - 24 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg" group-title="Cricket",India A vs UAE - 24 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917
+
+#EXTINF:-1 tvg-id="1090556042_ENG" tvg-name="Pakistan A vs Nepal - 24 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Cricket",Pakistan A vs Nepal - 24 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917
 

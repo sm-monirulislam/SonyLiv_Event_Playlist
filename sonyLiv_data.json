@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:19 PM 24-11-2026",
-    "total_matches": 18,
-    "live_match": 5,
+    "last_update_time": "04:00:20 PM 24-11-2026",
+    "total_matches": 19,
+    "live_match": 6,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917"
         },
         {
             "event_category": "Cricket",
@@ -26,7 +26,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917"
         },
         {
             "event_category": "Cricket",
@@ -37,7 +37,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [TAM]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917"
         },
         {
             "event_category": "Cricket",
@@ -48,7 +48,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [TEL]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917"
         },
         {
             "event_category": "Cricket",
@@ -59,7 +59,18 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "India A vs UAE - 24 Nov 2026 [KAN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795553729~acl=/*~id=20960713354979144590212721364850~hmac=a9ac983028ccc9e0e5e6a86eeb987a726e12ec44de46d3a76e0f0fffa6be8f87"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090556042_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+            "match_name": "Pakistan A vs Nepal - 24 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795556775~acl=/*~id=54510579337378137787007273084546~hmac=3172b584cdd715240eb0176695cd0193eb9bf31527dbbf1ce8695737f4e5b917"
         },
         {
             "event_category": "Football",
@@ -113,21 +124,21 @@
         },
         {
             "event_category": "Football",
-            "contentId": 1090555090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
             "contentId": 1090555085,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Football",
+            "contentId": 1090555090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,31 +2,130 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:19 AM 25-11-2026",
-    "total_matches": 14,
-    "live_match": 2,
+    "last_update_time": "02:00:17 AM 25-11-2026",
+    "total_matches": 21,
+    "live_match": 11,
     "matches": [
         {
             "event_category": "Football",
-            "contentId": "1090556134_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg",
+            "contentId": "1090556138_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "Bodø/Glimt vs LASK - 24 Nov 2026 [ENG]",
+            "match_name": "Arsenal vs Borussia Dortmund - 25 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795589577~acl=/*~id=99402690227372250628749227783393~hmac=805ab115eca7616103acc104abc145d96d590604fb41b43cee2b39c04bbdb68f"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
         },
         {
             "event_category": "Football",
-            "contentId": "1090556135_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg",
+            "contentId": "1090556138_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Arsenal vs Borussia Dortmund - 25 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556138_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "TAM",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Arsenal vs Borussia Dortmund - 25 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556138_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "TEL",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Arsenal vs Borussia Dortmund - 25 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556138_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "KAN",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Arsenal vs Borussia Dortmund - 25 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556137_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795318910325444_UCL26_MD5_Man_City_vs_Napoli_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2026-27",
-            "match_name": "Galatasaray vs Aston Villa - 24 Nov 2026 [ENG]",
+            "match_name": "Manchester City vs Napoli - 25 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795589577~acl=/*~id=99402690227372250628749227783393~hmac=805ab115eca7616103acc104abc145d96d590604fb41b43cee2b39c04bbdb68f"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556136_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795315004894444_UCL26_MD5_Real_Madrid_vs_PSV_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Real Madrid vs PSV Eindhoven - 25 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556142_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330600882198_UCL26_MD5_Como_vs_Athens_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Como 1907 vs AEK Athens - 25 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556140_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795326333966198_UCL26_MD5_RB_Leipzig_vs_RC_Lens_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "RB Leipzig vs RC Lens - 25 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556139_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320669674444_UCL26_MD5_Feyenoord_vs_Porto_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Feyenoord vs FC Porto - 25 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556141_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330176307198_UCL26_MD5_Bratislava_vs_Real_Betis_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Slovan Bratislava vs Real Betis - 25 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795593218~acl=/*~id=44438761007117508310651129440127~hmac=34840aa987f59ee279c2f365328909632269f2e5a6477e6f0a29a97a7669d4b2"
         },
         {
             "event_category": "Football",
@@ -35,26 +134,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090555086,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119532192174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090555089,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124011219174_UCL26_MD5_ManCity_vs_Napoli_Promo_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Napoli - UEFA Champions League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

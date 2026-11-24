@@ -2,10 +2,32 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "07:00:21 PM 24-11-2026",
-    "total_matches": 14,
-    "live_match": 1,
+    "last_update_time": "08:00:21 PM 24-11-2026",
+    "total_matches": 16,
+    "live_match": 3,
     "matches": [
+        {
+            "event_category": "Football",
+            "contentId": "1090556049_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571385~acl=/*~id=49669595105722055198488941089756~hmac=26caaa198563d3e869ae3d2003101952ca99707e3fe43016b26ea0ee53a09387"
+        },
+        {
+            "event_category": "Football",
+            "contentId": "1090556049_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "NorthEast United vs Sporting Club Delhi - 24 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795571385~acl=/*~id=49669595105722055198488941089756~hmac=26caaa198563d3e869ae3d2003101952ca99707e3fe43016b26ea0ee53a09387"
+        },
         {
             "event_category": "Cricket",
             "contentId": "1090556042_ENG",
@@ -15,7 +37,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan A vs Nepal - 24 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795567746~acl=/*~id=91365511604127213322732990850966~hmac=bff57c8847a0e3148b744f3e948facafbe9b55c84e4181c0a94a7cd42dee018e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571385~acl=/*~id=49669595105722055198488941089756~hmac=26caaa198563d3e869ae3d2003101952ca99707e3fe43016b26ea0ee53a09387"
         },
         {
             "event_category": "Football",

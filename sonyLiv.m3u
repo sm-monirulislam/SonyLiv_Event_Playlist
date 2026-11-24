@@ -3,7 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-24 23:00:23 (BD Time)
-#  Channels Count: 0
+#  Last Updated: 2026-11-25 00:00:23 (BD Time)
+#  Channels Count: 2
 #=================================
+
+#EXTINF:-1 tvg-id="1090556134_ENG" tvg-name="Bodø/Glimt vs LASK - 24 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="Football",Bodø/Glimt vs LASK - 24 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795585940~acl=/*~id=88217977984383852356595074631164~hmac=3cdbd1aeeba46717ab5e79c2535e3eae014e606c3062ad74c3300579a235b744
+
+#EXTINF:-1 tvg-id="1090556135_ENG" tvg-name="Galatasaray vs Aston Villa - 24 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="Football",Galatasaray vs Aston Villa - 24 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795585940~acl=/*~id=88217977984383852356595074631164~hmac=3cdbd1aeeba46717ab5e79c2535e3eae014e606c3062ad74c3300579a235b744
 

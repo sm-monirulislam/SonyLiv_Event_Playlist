@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:20 PM 25-11-2026",
+    "last_update_time": "01:00:22 PM 25-11-2026",
     "total_matches": 10,
     "live_match": 0,
     "matches": [
@@ -13,6 +13,16 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA Champions League 2026-27",
+            "status": "Upcoming",
+            "stream_link": ""
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": 1090552650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029900/1795583122270251_ACRS26_SF_IND_A_vs_SL_A_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
             "status": "Upcoming",
             "stream_link": ""
         },
@@ -29,7 +39,7 @@
         {
             "event_category": "Football",
             "contentId": 1090555091,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125569875174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27",
@@ -39,7 +49,7 @@
         {
             "event_category": "Football",
             "contentId": 1090555087,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121897122174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
@@ -49,7 +59,7 @@
         {
             "event_category": "Football",
             "contentId": 1090555090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124826868174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27",
@@ -69,7 +79,7 @@
         {
             "event_category": "Football",
             "contentId": 1090555088,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122921709174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122942762174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_tonight.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Lille vs Bayern Munich - UEFA Champions League 2026-27",
@@ -79,20 +89,10 @@
         {
             "event_category": "Football",
             "contentId": 1090555134,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795517014178843_UEL_26_Olympiacos-FC-vs-AC-Milan_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2026-27",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090552650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
             "status": "Upcoming",
             "stream_link": ""
         },

@@ -2,31 +2,20 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:00:19 AM 27-11-2026",
-    "total_matches": 6,
-    "live_match": 2,
+    "last_update_time": "02:00:20 AM 27-11-2026",
+    "total_matches": 4,
+    "live_match": 1,
     "matches": [
         {
             "event_category": "Football",
-            "contentId": "1090556385_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793601374540623_UEL26_MD5_Olympiacos-vs-Milan_live_landscape_thumb.jpg",
+            "contentId": "1090556408_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793613197482623_UEL26_MD5_Juventus-vs-Omonia-FC_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Olympiacos FC vs AC Milan - MD 5 - 26 Nov 2026 [ENG]",
+            "match_name": "Juventus vs Omonia FC - 27 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795762542~acl=/*~id=62237669296527658820236906247526~hmac=fb3376007bd983123f96d56bbb539c19a091955b714d6226e497848c1f0c2003"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090556391_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793611880670259_UEL26_MD5_Real-Club-Celta-vs-AFC-Bournemouth_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Celta vs Bournemouth - 26 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795762542~acl=/*~id=62237669296527658820236906247526~hmac=fb3376007bd983123f96d56bbb539c19a091955b714d6226e497848c1f0c2003"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795766175~acl=/*~id=83553057263831922592930592987342~hmac=50dd8eeb6328993a17a0a39d5bdeadfa7058db9da66c117ef56c681b8d6b02ef"
         },
         {
             "event_category": "Cricket",
@@ -35,16 +24,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd Test - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Football",
-            "contentId": 1090555134,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029830/1795517036490843_UEL_26_Olympiacos-FC-vs-AC-Milan_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2026-27",
             "status": "Upcoming",
             "stream_link": ""
         },

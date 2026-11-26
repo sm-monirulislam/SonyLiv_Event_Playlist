@@ -3,13 +3,10 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-27 01:00:19 (BD Time)
-#  Channels Count: 2
+#  Last Updated: 2026-11-27 02:00:20 (BD Time)
+#  Channels Count: 1
 #=================================
 
-#EXTINF:-1 tvg-id="1090556385_ENG" tvg-name="Olympiacos FC vs AC Milan - MD 5 - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793601374540623_UEL26_MD5_Olympiacos-vs-Milan_live_landscape_thumb.jpg" group-title="Football",Olympiacos FC vs AC Milan - MD 5 - 26 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795762542~acl=/*~id=62237669296527658820236906247526~hmac=fb3376007bd983123f96d56bbb539c19a091955b714d6226e497848c1f0c2003
-
-#EXTINF:-1 tvg-id="1090556391_ENG" tvg-name="Celta vs Bournemouth - 26 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793611880670259_UEL26_MD5_Real-Club-Celta-vs-AFC-Bournemouth_live_landscape_thumb.jpg" group-title="Football",Celta vs Bournemouth - 26 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795762542~acl=/*~id=62237669296527658820236906247526~hmac=fb3376007bd983123f96d56bbb539c19a091955b714d6226e497848c1f0c2003
+#EXTINF:-1 tvg-id="1090556408_ENG" tvg-name="Juventus vs Omonia FC - 27 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793613197482623_UEL26_MD5_Juventus-vs-Omonia-FC_live_landscape_thumb.jpg" group-title="Football",Juventus vs Omonia FC - 27 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2022320/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795766175~acl=/*~id=83553057263831922592930592987342~hmac=50dd8eeb6328993a17a0a39d5bdeadfa7058db9da66c117ef56c681b8d6b02ef
 

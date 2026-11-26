@@ -2,10 +2,65 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:20 AM 27-11-2026",
-    "total_matches": 4,
-    "live_match": 1,
+    "last_update_time": "03:00:20 AM 27-11-2026",
+    "total_matches": 8,
+    "live_match": 6,
     "matches": [
+        {
+            "event_category": "Cricket",
+            "contentId": "1090556666_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd Test - Day 1 - 27 Nov 2026 [ENG]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090556666_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd Test - Day 1 - 27 Nov 2026 [HIN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090556666_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd Test - Day 1 - 27 Nov 2026 [TAM]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090556666_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd Test - Day 1 - 27 Nov 2026 [TEL]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283"
+        },
+        {
+            "event_category": "Cricket",
+            "contentId": "1090556666_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "India Tour of New Zealand 2026",
+            "match_name": "2nd Test - Day 1 - 27 Nov 2026 [KAN]",
+            "status": "Live",
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283"
+        },
         {
             "event_category": "Football",
             "contentId": "1090556408_ENG",
@@ -15,17 +70,7 @@
             "event_name": "UEFA Europa League 2026-27",
             "match_name": "Juventus vs Omonia FC - 27 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795766175~acl=/*~id=83553057263831922592930592987342~hmac=50dd8eeb6328993a17a0a39d5bdeadfa7058db9da66c117ef56c681b8d6b02ef"
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090556117,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439206344643_NZvsIND_2nd_test_day1_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 2nd Test - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795769808~acl=/*~id=48094415085422731700370893679825~hmac=fd6e3786d946e913979dfd3afdab847dd7bc405d97a0d5ad8ae5279044060283"
         },
         {
             "event_category": "Cricket",

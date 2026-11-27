@@ -2,21 +2,10 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:00:18 PM 27-11-2026",
-    "total_matches": 4,
-    "live_match": 1,
+    "last_update_time": "12:00:19 AM 28-11-2026",
+    "total_matches": 3,
+    "live_match": 0,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "contentId": "1090556911_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795841527~acl=/*~id=30279824705103120233103339683806~hmac=ae70421dd4adb04e39b662c62c4f13f197745dcd7e86efaa29a94f4a35881620"
-        },
         {
             "event_category": "Football",
             "contentId": 1090547508,

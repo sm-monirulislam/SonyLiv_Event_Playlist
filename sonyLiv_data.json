@@ -2,9 +2,9 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:00:23 PM 27-11-2026",
-    "total_matches": 6,
-    "live_match": 3,
+    "last_update_time": "11:00:18 PM 27-11-2026",
+    "total_matches": 4,
+    "live_match": 1,
     "matches": [
         {
             "event_category": "Cricket",
@@ -15,29 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795837892~acl=/*~id=82955282293054096647896901271823~hmac=25c19d667ce623434dbc8731ac7dda623a44a55c75020b028551a565009cca2d"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090556922_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795837892~acl=/*~id=82955282293054096647896901271823~hmac=25c19d667ce623434dbc8731ac7dda623a44a55c75020b028551a565009cca2d"
-        },
-        {
-            "event_category": "Football",
-            "contentId": "1090556922_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]",
-            "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795837892~acl=/*~id=82955282293054096647896901271823~hmac=25c19d667ce623434dbc8731ac7dda623a44a55c75020b028551a565009cca2d"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795841527~acl=/*~id=30279824705103120233103339683806~hmac=ae70421dd4adb04e39b662c62c4f13f197745dcd7e86efaa29a94f4a35881620"
         },
         {
             "event_category": "Football",

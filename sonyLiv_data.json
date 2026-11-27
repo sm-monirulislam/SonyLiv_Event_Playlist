@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "04:00:20 PM 27-11-2026",
+    "last_update_time": "05:00:22 PM 27-11-2026",
     "total_matches": 4,
     "live_match": 1,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795816651~acl=/*~id=53101705299102911319828417449211~hmac=dd50ee5fb7c602dd07b32ce98aea5d60b122b1b60750db93bc577b7806641d7e"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795819677~acl=/*~id=78973381526161956875363365212627~hmac=4099769193cd881806b44beffe620bd38c00309688305479785dc8c6a1bc6073"
         },
         {
             "event_category": "Cricket",
@@ -40,7 +40,7 @@
         {
             "event_category": "Football",
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030151/1795770436416187_ISL_East_Bngal_vs_Mohun_Bagan_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27",

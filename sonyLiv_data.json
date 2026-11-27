@@ -2,7 +2,7 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:00:18 PM 27-11-2026",
+    "last_update_time": "10:00:23 PM 27-11-2026",
     "total_matches": 6,
     "live_match": 3,
     "matches": [
@@ -15,7 +15,7 @@
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795834239~acl=/*~id=96953233786341193848316125105604~hmac=36b9bc4f7225ab14a0b58ea08e1280ce9cb84a7f206a84488aa98e9670160ac7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795837892~acl=/*~id=82955282293054096647896901271823~hmac=25c19d667ce623434dbc8731ac7dda623a44a55c75020b028551a565009cca2d"
         },
         {
             "event_category": "Football",
@@ -26,7 +26,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795834239~acl=/*~id=96953233786341193848316125105604~hmac=36b9bc4f7225ab14a0b58ea08e1280ce9cb84a7f206a84488aa98e9670160ac7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795837892~acl=/*~id=82955282293054096647896901271823~hmac=25c19d667ce623434dbc8731ac7dda623a44a55c75020b028551a565009cca2d"
         },
         {
             "event_category": "Football",
@@ -37,7 +37,7 @@
             "event_name": "MG Indian Super League 2026-27",
             "match_name": "KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795834239~acl=/*~id=96953233786341193848316125105604~hmac=36b9bc4f7225ab14a0b58ea08e1280ce9cb84a7f206a84488aa98e9670160ac7"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795837892~acl=/*~id=82955282293054096647896901271823~hmac=25c19d667ce623434dbc8731ac7dda623a44a55c75020b028551a565009cca2d"
         },
         {
             "event_category": "Football",

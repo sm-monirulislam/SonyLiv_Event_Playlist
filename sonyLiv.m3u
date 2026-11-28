@@ -3,22 +3,25 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-28 10:00:17 (BD Time)
-#  Channels Count: 5
+#  Last Updated: 2026-11-28 12:00:18 (BD Time)
+#  Channels Count: 6
 #=================================
 
 #EXTINF:-1 tvg-id="1090556990_ENG" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 2 - 28 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795881584~acl=/*~id=91481192686355461257981618747968~hmac=62a6d4d7f9cb9d91d680fa60c4ade830bc00ed04e063408fc2c73508e66ae788
+https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795888296~acl=/*~id=23633557662129866986987916667716~hmac=040f9e5d20d74c1d70b99db19c86c1a21420758b215a4d04f2612a2345085a8f
 
 #EXTINF:-1 tvg-id="1090556990_HIN" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [HIN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 2 - 28 Nov 2026 [HIN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795881584~acl=/*~id=91481192686355461257981618747968~hmac=62a6d4d7f9cb9d91d680fa60c4ade830bc00ed04e063408fc2c73508e66ae788
+https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795888296~acl=/*~id=23633557662129866986987916667716~hmac=040f9e5d20d74c1d70b99db19c86c1a21420758b215a4d04f2612a2345085a8f
 
 #EXTINF:-1 tvg-id="1090556990_TAM" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [TAM]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 2 - 28 Nov 2026 [TAM]
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795881584~acl=/*~id=91481192686355461257981618747968~hmac=62a6d4d7f9cb9d91d680fa60c4ade830bc00ed04e063408fc2c73508e66ae788
+https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795888296~acl=/*~id=23633557662129866986987916667716~hmac=040f9e5d20d74c1d70b99db19c86c1a21420758b215a4d04f2612a2345085a8f
 
 #EXTINF:-1 tvg-id="1090556990_TEL" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [TEL]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 2 - 28 Nov 2026 [TEL]
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795881584~acl=/*~id=91481192686355461257981618747968~hmac=62a6d4d7f9cb9d91d680fa60c4ade830bc00ed04e063408fc2c73508e66ae788
+https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795888296~acl=/*~id=23633557662129866986987916667716~hmac=040f9e5d20d74c1d70b99db19c86c1a21420758b215a4d04f2612a2345085a8f
 
 #EXTINF:-1 tvg-id="1090556990_KAN" tvg-name="2nd Test - Day 2 - 28 Nov 2026 [KAN]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Cricket",2nd Test - Day 2 - 28 Nov 2026 [KAN]
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795881584~acl=/*~id=91481192686355461257981618747968~hmac=62a6d4d7f9cb9d91d680fa60c4ade830bc00ed04e063408fc2c73508e66ae788
+https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795888296~acl=/*~id=23633557662129866986987916667716~hmac=040f9e5d20d74c1d70b99db19c86c1a21420758b215a4d04f2612a2345085a8f
+
+#EXTINF:-1 tvg-id="1090556998_ENG" tvg-name="Men's & Women's Singles - Final - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg" group-title="Tennis",Men's & Women's Singles - Final - 28 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795888296~acl=/*~id=23633557662129866986987916667716~hmac=040f9e5d20d74c1d70b99db19c86c1a21420758b215a4d04f2612a2345085a8f
 

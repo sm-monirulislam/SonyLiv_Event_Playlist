@@ -3,10 +3,13 @@
 #  Developed by: Monirul Islam
 #  Telegram: https://t.me/monirul_Islam_SM
 #  Channel: https://t.me/sm_iptv_bd
-#  Last Updated: 2026-11-28 15:00:15 (BD Time)
-#  Channels Count: 1
+#  Last Updated: 2026-11-28 16:00:19 (BD Time)
+#  Channels Count: 2
 #=================================
 
 #EXTINF:-1 tvg-id="1090556998_ENG" tvg-name="Men's & Women's Singles - Final - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg" group-title="Tennis",Men's & Women's Singles - Final - 28 Nov 2026 [ENG]
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795899228~acl=/*~id=36726851156687892062862777684705~hmac=f9c3b9ca2117710eac4abefb6459559022bc42bd2ce16f738a493163c82fa635
+https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795902861~acl=/*~id=33641083595459817156616603332867~hmac=0cac89650776debfb9f484bb8a5f9971081173826c97c712afe9e7111b949038
+
+#EXTINF:-1 tvg-id="1090557000_ENG" tvg-name="Mubadala Abu Dhabi Sail GP - Day 1 - 28 Nov 2026 [ENG]" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030172/1795785171790736_Sail-GP_Mubadala-Abu-Dhabi_Day-1_live_landscape_thumb.jpg" group-title="Sailing",Mubadala Abu Dhabi Sail GP - Day 1 - 28 Nov 2026 [ENG]
+https://sonyeventsglobal.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795902861~acl=/*~id=33641083595459817156616603332867~hmac=0cac89650776debfb9f484bb8a5f9971081173826c97c712afe9e7111b949038
 

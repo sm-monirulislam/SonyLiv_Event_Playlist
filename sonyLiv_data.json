@@ -2,8 +2,8 @@
     "name": "SonyLiv Match Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:21 PM 28-11-2026",
-    "total_matches": 5,
+    "last_update_time": "03:00:15 PM 28-11-2026",
+    "total_matches": 4,
     "live_match": 1,
     "matches": [
         {
@@ -15,7 +15,7 @@
             "event_name": "AO Asia Pacific Wildcard Playoffs 2027",
             "match_name": "Men's & Women's Singles - Final - 28 Nov 2026 [ENG]",
             "status": "Live",
-            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795895593~acl=/*~id=51509262792613301851658974679084~hmac=efc63f451969afb9d6bb860aa18946b938435410fe2a988e4441e57a352bf84f"
+            "stream_link": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795899228~acl=/*~id=36726851156687892062862777684705~hmac=f9c3b9ca2117710eac4abefb6459559022bc42bd2ce16f738a493163c82fa635"
         },
         {
             "event_category": "Cricket",
@@ -44,16 +44,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd Test - India Tour Of New Zealand 2026",
-            "status": "Upcoming",
-            "stream_link": ""
-        },
-        {
-            "event_category": "Cricket",
-            "contentId": 1090552650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
             "status": "Upcoming",
             "stream_link": ""
         }
